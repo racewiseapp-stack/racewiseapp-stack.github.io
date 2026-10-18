@@ -739,7 +739,7 @@
     5,
     6
    ],
-   "url": "https://vogalonga.com/en/",
+   "url": "https://www.vogalonga.com/",
    "nextDate": null
   },
   {
@@ -1409,7 +1409,7 @@
    "months": [
     3
    ],
-   "url": "https://wehorr.org/",
+   "url": "https://www.wehorr.org/",
    "nextDate": "2027-03-06"
   },
   {
@@ -2086,12 +2086,12 @@
    "country": "United States",
    "sport": "row",
    "distancesKm": [
-    4.828
+    4.8
    ],
    "months": [
     10
    ],
-   "url": "https://hocr.org/",
+   "url": "https://www.hocr.org/",
    "nextDate": null
   },
   {
@@ -2101,7 +2101,7 @@
    "country": "United States",
    "sport": "row",
    "distancesKm": [
-    3.701
+    3.7
    ],
    "months": [
     10
@@ -2122,287 +2122,6 @@
     2
    ],
    "url": "https://www.crash-b.org/",
-   "nextDate": null
-  },
-  {
-   "name": "Standard Chartered Hong Kong Marathon",
-   "nameZh": "渣打香港馬拉松",
-   "city": "Hong Kong",
-   "country": "",
-   "sport": "run",
-   "distancesKm": [
-    42.195,
-    21.0975,
-    10,
-    5
-   ],
-   "months": [
-    1
-   ],
-   "url": "https://www.hkmarathon.com/",
-   "nextDate": "2027-01-17"
-  },
-  {
-   "name": "BOC Hong Kong-Zhuhai-Macao Bridge Half Marathon",
-   "nameZh": "中銀香港港珠澳大橋（香港段）半馬拉松",
-   "city": "Hong Kong",
-   "country": "",
-   "sport": "run",
-   "distancesKm": [
-    21.0975,
-    10
-   ],
-   "months": [
-    11
-   ],
-   "url": "https://hzmb-halfmarathon.com/",
-   "nextDate": "2026-11-15"
-  },
-  {
-   "name": "Victoria Harbour Race",
-   "nameZh": "維港泳",
-   "city": "Hong Kong",
-   "country": "",
-   "sport": "swim",
-   "distancesKm": [
-    1
-   ],
-   "months": [
-    11
-   ],
-   "url": "https://hkgswimming.org.hk/zh-hant/activities/5512/",
-   "nextDate": "2026-11-15"
-  },
-  {
-   "name": "Hong Kong Cyclothon",
-   "nameZh": "香港單車節",
-   "city": "Hong Kong",
-   "country": "",
-   "sport": "bike",
-   "distancesKm": [
-    56,
-    32
-   ],
-   "months": [
-    10
-   ],
-   "url": "https://www.discoverhongkong.com/eng/events/cyclothon.html",
-   "nextDate": null
-  },
-  {
-   "name": "Taipei Marathon",
-   "nameZh": "臺北馬拉松",
-   "city": "Taipei",
-   "country": "Taiwan",
-   "sport": "run",
-   "distancesKm": [
-    42.195,
-    21.0975
-   ],
-   "months": [
-    12
-   ],
-   "url": "https://www.taipeicitymarathon.com/",
-   "nextDate": "2026-12-20"
-  },
-  {
-   "name": "Standard Chartered Taipei Charity Marathon",
-   "nameZh": "渣打臺北公益馬拉松",
-   "city": "Taipei",
-   "country": "Taiwan",
-   "sport": "run",
-   "distancesKm": [
-    42.195,
-    21.0975,
-    12,
-    3
-   ],
-   "months": [
-    1
-   ],
-   "url": "https://www.scbmarathon.com/",
-   "nextDate": "2027-01-10"
-  },
-  {
-   "name": "EVA Air Marathon",
-   "nameZh": "長榮航空馬拉松",
-   "city": "Taipei",
-   "country": "Taiwan",
-   "sport": "run",
-   "distancesKm": [
-    42.195,
-    21.0975,
-    10,
-    3
-   ],
-   "months": [
-    10
-   ],
-   "url": "https://www.evaairrun.com/",
-   "nextDate": "2026-10-25"
-  },
-  {
-   "name": "China Airlines Starlight Night Run",
-   "nameZh": "華航馬拉松星光夜跑",
-   "city": "Taipei",
-   "country": "Taiwan",
-   "sport": "run",
-   "distancesKm": [
-    21.0975,
-    10,
-    6
-   ],
-   "months": [
-    10
-   ],
-   "url": "https://www.china-airlines.com/",
-   "nextDate": "2026-10-31"
-  },
-  {
-   "name": "Wan Jin Shi Marathon",
-   "nameZh": "新北市萬金石馬拉松",
-   "city": "New Taipei",
-   "country": "Taiwan",
-   "sport": "run",
-   "distancesKm": [
-    42.195,
-    10
-   ],
-   "months": [
-    3
-   ],
-   "url": "https://wanjinshi-marathon.com.tw/",
-   "nextDate": "2027-03-21"
-  },
-  {
-   "name": "Kaohsiung Marathon",
-   "nameZh": "富邦人壽高雄馬拉松",
-   "city": "Kaohsiung",
-   "country": "Taiwan",
-   "sport": "run",
-   "distancesKm": [
-    42.195,
-    21.0975
-   ],
-   "months": [
-    1
-   ],
-   "url": "https://khm.kcg.gov.tw/",
-   "nextDate": "2027-01-10"
-  },
-  {
-   "name": "Tainan Ancient Capital International Half Marathon",
-   "nameZh": "臺南古都國際半程馬拉松",
-   "city": "Tainan",
-   "country": "Taiwan",
-   "sport": "run",
-   "distancesKm": [
-    21.0975,
-    10,
-    5
-   ],
-   "months": [
-    3
-   ],
-   "url": "https://www.tainanhalfmarathon.com/",
-   "nextDate": null
-  },
-  {
-   "name": "Taoyuan Half Marathon (Shimen Reservoir)",
-   "nameZh": "桃園石門水庫楓半馬",
-   "city": "Taoyuan",
-   "country": "Taiwan",
-   "sport": "run",
-   "distancesKm": [
-    21.0975,
-    10,
-    5
-   ],
-   "months": [
-    12
-   ],
-   "url": "https://www.bao-ming.com/eb/content/7084",
-   "nextDate": "2026-12-06"
-  },
-  {
-   "name": "Tianzhong Marathon",
-   "nameZh": "台灣米倉田中馬拉松",
-   "city": "Changhua",
-   "country": "Taiwan",
-   "sport": "run",
-   "distancesKm": [
-    42.195,
-    21.0975
-   ],
-   "months": [
-    11
-   ],
-   "url": "https://www.tianzhongmarathon.com/",
-   "nextDate": null
-  },
-  {
-   "name": "Kenting Japan Airlines International Marathon",
-   "nameZh": "屏東墾丁日本航空國際馬拉松",
-   "city": "Kenting",
-   "country": "Taiwan",
-   "sport": "run",
-   "distancesKm": [
-    42.195,
-    21.0975,
-    12,
-    4
-   ],
-   "months": [
-    11
-   ],
-   "url": "https://www.bao-ming.com/eb/content/7073",
-   "nextDate": "2026-11-15"
-  },
-  {
-   "name": "Sun Moon Lake International Swimming Carnival",
-   "nameZh": "日月潭國際萬人泳渡",
-   "city": "Nantou",
-   "country": "Taiwan",
-   "sport": "swim",
-   "distancesKm": [
-    3
-   ],
-   "months": [
-    9
-   ],
-   "url": "https://www.sunmoonlake.gov.tw/",
-   "nextDate": null
-  },
-  {
-   "name": "Taiwan KOM Challenge",
-   "nameZh": "臺灣KOM自行車登山王挑戰",
-   "city": "Hualien",
-   "country": "Taiwan",
-   "sport": "bike",
-   "distancesKm": [
-    105
-   ],
-   "months": [
-    10,
-    11
-   ],
-   "url": "https://www.taiwankom.org/",
-   "nextDate": "2026-11-02"
-  },
-  {
-   "name": "L'Étape Sun Moon Lake by Tour de France",
-   "nameZh": "L'Étape環法自行車挑戰賽 日月潭站",
-   "city": "Nantou",
-   "country": "Taiwan",
-   "sport": "bike",
-   "distancesKm": [
-    104,
-    29
-   ],
-   "months": [
-    10
-   ],
-   "url": "https://www.letapeseries.com/",
    "nextDate": null
   },
   {
@@ -2763,6 +2482,1784 @@
    ],
    "url": "https://www.tour-de-okinawa.jp/",
    "nextDate": "2026-11-07"
+  },
+  {
+   "name": "Standard Chartered Hong Kong Marathon",
+   "nameZh": "渣打香港馬拉松",
+   "city": "Hong Kong",
+   "country": "",
+   "sport": "run",
+   "distancesKm": [
+    42.195,
+    21.0975,
+    10,
+    5
+   ],
+   "months": [
+    1
+   ],
+   "url": "https://www.hkmarathon.com/",
+   "nextDate": "2027-01-17"
+  },
+  {
+   "name": "BOC Hong Kong-Zhuhai-Macao Bridge Half Marathon",
+   "nameZh": "中銀香港港珠澳大橋（香港段）半馬拉松",
+   "city": "Hong Kong",
+   "country": "",
+   "sport": "run",
+   "distancesKm": [
+    21.0975,
+    10
+   ],
+   "months": [
+    11
+   ],
+   "url": "https://hzmb-halfmarathon.com/",
+   "nextDate": "2026-11-15"
+  },
+  {
+   "name": "Victoria Harbour Race",
+   "nameZh": "維港泳",
+   "city": "Hong Kong",
+   "country": "",
+   "sport": "swim",
+   "distancesKm": [
+    1
+   ],
+   "months": [
+    11
+   ],
+   "url": "https://hkgswimming.org.hk/zh-hant/activities/5512/",
+   "nextDate": "2026-11-15"
+  },
+  {
+   "name": "Hong Kong Cyclothon",
+   "nameZh": "香港單車節",
+   "city": "Hong Kong",
+   "country": "",
+   "sport": "bike",
+   "distancesKm": [
+    56,
+    32
+   ],
+   "months": [
+    10
+   ],
+   "url": "https://www.discoverhongkong.com/eng/events/cyclothon.html",
+   "nextDate": null
+  },
+  {
+   "name": "Taipei Marathon",
+   "nameZh": "臺北馬拉松",
+   "city": "Taipei",
+   "country": "Taiwan",
+   "sport": "run",
+   "distancesKm": [
+    42.195,
+    21.0975
+   ],
+   "months": [
+    12
+   ],
+   "url": "https://www.taipeicitymarathon.com/",
+   "nextDate": "2026-12-20"
+  },
+  {
+   "name": "Standard Chartered Taipei Charity Marathon",
+   "nameZh": "渣打臺北公益馬拉松",
+   "city": "Taipei",
+   "country": "Taiwan",
+   "sport": "run",
+   "distancesKm": [
+    42.195,
+    21.0975,
+    12,
+    3
+   ],
+   "months": [
+    1
+   ],
+   "url": "https://www.scbmarathon.com/",
+   "nextDate": "2027-01-10"
+  },
+  {
+   "name": "EVA Air Marathon",
+   "nameZh": "長榮航空馬拉松",
+   "city": "Taipei",
+   "country": "Taiwan",
+   "sport": "run",
+   "distancesKm": [
+    42.195,
+    21.0975,
+    10,
+    3
+   ],
+   "months": [
+    10
+   ],
+   "url": "https://www.evaairrun.com/",
+   "nextDate": "2026-10-25"
+  },
+  {
+   "name": "China Airlines Starlight Night Run",
+   "nameZh": "華航馬拉松星光夜跑",
+   "city": "Taipei",
+   "country": "Taiwan",
+   "sport": "run",
+   "distancesKm": [
+    21.0975,
+    10,
+    6
+   ],
+   "months": [
+    10
+   ],
+   "url": "https://www.china-airlines.com/",
+   "nextDate": "2026-10-31"
+  },
+  {
+   "name": "Wan Jin Shi Marathon",
+   "nameZh": "新北市萬金石馬拉松",
+   "city": "New Taipei",
+   "country": "Taiwan",
+   "sport": "run",
+   "distancesKm": [
+    42.195,
+    10
+   ],
+   "months": [
+    3
+   ],
+   "url": "https://wanjinshi-marathon.com.tw/",
+   "nextDate": "2027-03-21"
+  },
+  {
+   "name": "Kaohsiung Marathon",
+   "nameZh": "富邦人壽高雄馬拉松",
+   "city": "Kaohsiung",
+   "country": "Taiwan",
+   "sport": "run",
+   "distancesKm": [
+    42.195,
+    21.0975
+   ],
+   "months": [
+    1
+   ],
+   "url": "https://khm.kcg.gov.tw/",
+   "nextDate": "2027-01-10"
+  },
+  {
+   "name": "Tainan Ancient Capital International Half Marathon",
+   "nameZh": "臺南古都國際半程馬拉松",
+   "city": "Tainan",
+   "country": "Taiwan",
+   "sport": "run",
+   "distancesKm": [
+    21.0975,
+    10,
+    5
+   ],
+   "months": [
+    3
+   ],
+   "url": "https://www.tainanhalfmarathon.com/",
+   "nextDate": null
+  },
+  {
+   "name": "Taoyuan Half Marathon (Shimen Reservoir)",
+   "nameZh": "桃園石門水庫楓半馬",
+   "city": "Taoyuan",
+   "country": "Taiwan",
+   "sport": "run",
+   "distancesKm": [
+    21.0975,
+    10,
+    5
+   ],
+   "months": [
+    12
+   ],
+   "url": "https://www.bao-ming.com/eb/content/7084",
+   "nextDate": "2026-12-06"
+  },
+  {
+   "name": "Tianzhong Marathon",
+   "nameZh": "台灣米倉田中馬拉松",
+   "city": "Changhua",
+   "country": "Taiwan",
+   "sport": "run",
+   "distancesKm": [
+    42.195,
+    21.0975
+   ],
+   "months": [
+    11
+   ],
+   "url": "https://www.tianzhongmarathon.com/",
+   "nextDate": null
+  },
+  {
+   "name": "Kenting Japan Airlines International Marathon",
+   "nameZh": "屏東墾丁日本航空國際馬拉松",
+   "city": "Kenting",
+   "country": "Taiwan",
+   "sport": "run",
+   "distancesKm": [
+    42.195,
+    21.0975,
+    12,
+    4
+   ],
+   "months": [
+    11
+   ],
+   "url": "https://www.bao-ming.com/eb/content/7073",
+   "nextDate": "2026-11-15"
+  },
+  {
+   "name": "Sun Moon Lake International Swimming Carnival",
+   "nameZh": "日月潭國際萬人泳渡",
+   "city": "Nantou",
+   "country": "Taiwan",
+   "sport": "swim",
+   "distancesKm": [
+    3
+   ],
+   "months": [
+    9
+   ],
+   "url": "https://www.sunmoonlake.gov.tw/",
+   "nextDate": null
+  },
+  {
+   "name": "Taiwan KOM Challenge",
+   "nameZh": "臺灣KOM自行車登山王挑戰",
+   "city": "Hualien",
+   "country": "Taiwan",
+   "sport": "bike",
+   "distancesKm": [
+    105
+   ],
+   "months": [
+    10,
+    11
+   ],
+   "url": "https://www.taiwankom.org/",
+   "nextDate": "2026-11-02"
+  },
+  {
+   "name": "L'Étape Sun Moon Lake by Tour de France",
+   "nameZh": "L'Étape環法自行車挑戰賽 日月潭站",
+   "city": "Nantou",
+   "country": "Taiwan",
+   "sport": "bike",
+   "distancesKm": [
+    104,
+    29
+   ],
+   "months": [
+    10
+   ],
+   "url": "https://www.letapeseries.com/",
+   "nextDate": null
+  },
+  {
+   "name": "Fours Head of the River",
+   "nameZh": null,
+   "city": "London",
+   "country": "United Kingdom",
+   "sport": "row",
+   "distancesKm": [
+    6.8
+   ],
+   "months": [
+    11
+   ],
+   "url": "https://www.fourshead.org/",
+   "nextDate": "2026-11-21"
+  },
+  {
+   "name": "Pairs Head",
+   "nameZh": null,
+   "city": "London",
+   "country": "United Kingdom",
+   "sport": "row",
+   "distancesKm": [
+    4.5
+   ],
+   "months": [
+    10
+   ],
+   "url": "https://www.bblrc.co.uk/pairshead/",
+   "nextDate": null
+  },
+  {
+   "name": "Vesta International Masters Head of the River Race",
+   "nameZh": null,
+   "city": "London",
+   "country": "United Kingdom",
+   "sport": "row",
+   "distancesKm": [
+    6.8
+   ],
+   "months": [
+    3
+   ],
+   "url": "https://vestarowing.co.uk/vesta-international-masters-head",
+   "nextDate": null
+  },
+  {
+   "name": "Scullers Head of the River Race",
+   "nameZh": null,
+   "city": "London",
+   "country": "United Kingdom",
+   "sport": "row",
+   "distancesKm": [
+    6.8
+   ],
+   "months": [
+    9
+   ],
+   "url": "https://vestarowing.co.uk/scullers-head",
+   "nextDate": null
+  },
+  {
+   "name": "The Great River Race",
+   "nameZh": null,
+   "city": "London",
+   "country": "United Kingdom",
+   "sport": "row",
+   "distancesKm": [
+    34.8
+   ],
+   "months": [
+    9
+   ],
+   "url": "https://greatriverrace.org.uk",
+   "nextDate": "2027-09-18"
+  },
+  {
+   "name": "British Rowing Indoor Championships",
+   "nameZh": null,
+   "city": "Birmingham",
+   "country": "United Kingdom",
+   "sport": "row",
+   "distancesKm": [
+    2,
+    0.5
+   ],
+   "months": [
+    12
+   ],
+   "url": "https://www.britishrowing.org/events/british-rowing-event-dates-and-venues/",
+   "nextDate": "2026-12-05"
+  },
+  {
+   "name": "British Rowing Masters Championships",
+   "nameZh": null,
+   "city": "Nottingham",
+   "country": "United Kingdom",
+   "sport": "row",
+   "distancesKm": [
+    1
+   ],
+   "months": [
+    6
+   ],
+   "url": "https://www.britishrowing.org/events/british-rowing-event-dates-and-venues/",
+   "nextDate": null
+  },
+  {
+   "name": "Henley Masters Regatta",
+   "nameZh": null,
+   "city": "Henley-on-Thames",
+   "country": "United Kingdom",
+   "sport": "row",
+   "distancesKm": [
+    1
+   ],
+   "months": [
+    7
+   ],
+   "url": "https://henleymastersregatta.org.uk/",
+   "nextDate": "2027-07-09"
+  },
+  {
+   "name": "Head of the Hooch",
+   "nameZh": null,
+   "city": "Chattanooga",
+   "country": "United States",
+   "sport": "row",
+   "distancesKm": [
+    5
+   ],
+   "months": [
+    11
+   ],
+   "url": "https://www.headofthehooch.org/",
+   "nextDate": "2026-11-07"
+  },
+  {
+   "name": "Head of the Lake",
+   "nameZh": null,
+   "city": "Seattle",
+   "country": "United States",
+   "sport": "row",
+   "distancesKm": [
+    4.8
+   ],
+   "months": [
+    11
+   ],
+   "url": "https://www.headofthelake.org/",
+   "nextDate": "2026-11-01"
+  },
+  {
+   "name": "Head of the Ohio",
+   "nameZh": null,
+   "city": "Pittsburgh",
+   "country": "United States",
+   "sport": "row",
+   "distancesKm": [
+    5.1
+   ],
+   "months": [
+    10
+   ],
+   "url": "https://www.threeriversrowing.org/hoto",
+   "nextDate": null
+  },
+  {
+   "name": "San Diego Crew Classic",
+   "nameZh": null,
+   "city": "San Diego",
+   "country": "United States",
+   "sport": "row",
+   "distancesKm": [
+    2
+   ],
+   "months": [
+    3,
+    4
+   ],
+   "url": "https://www.crewclassic.org/",
+   "nextDate": "2027-03-18"
+  },
+  {
+   "name": "C.R.A.S.H.-B. Sprints World Indoor Rowing Championships",
+   "nameZh": null,
+   "city": "Waltham",
+   "country": "United States",
+   "sport": "row",
+   "distancesKm": [
+    2
+   ],
+   "months": [
+    2
+   ],
+   "url": "https://www.crash-b.org/",
+   "nextDate": null
+  },
+  {
+   "name": "Blackburn Challenge",
+   "nameZh": null,
+   "city": "Gloucester",
+   "country": "United States",
+   "sport": "row",
+   "distancesKm": [
+    32.2
+   ],
+   "months": [
+    7
+   ],
+   "url": "https://www.capeannrowingclub.com/",
+   "nextDate": "2027-07-24"
+  },
+  {
+   "name": "USRowing Masters National Championships",
+   "nameZh": null,
+   "city": "Indianapolis",
+   "country": "United States",
+   "sport": "row",
+   "distancesKm": [
+    1
+   ],
+   "months": [
+    7
+   ],
+   "url": "https://usrowing.org/news/masters-national-championships-returns-as-a-dedicated-four-day-event",
+   "nextDate": "2027-07-15"
+  },
+  {
+   "name": "BCGE Tour du Léman à l'Aviron",
+   "nameZh": null,
+   "city": "Geneva",
+   "country": "Switzerland",
+   "sport": "row",
+   "distancesKm": [
+    160
+   ],
+   "months": [
+    9
+   ],
+   "url": "https://bcge.tourduleman.ch/",
+   "nextDate": "2027-09-24"
+  },
+  {
+   "name": "SilverSkiff Trophy",
+   "nameZh": null,
+   "city": "Turin",
+   "country": "Italy",
+   "sport": "row",
+   "distancesKm": [
+    11
+   ],
+   "months": [
+    11
+   ],
+   "url": "https://www.silverskiff.org/",
+   "nextDate": "2026-11-08"
+  },
+  {
+   "name": "Head of the River Amstel",
+   "nameZh": null,
+   "city": "Amsterdam",
+   "country": "Netherlands",
+   "sport": "row",
+   "distancesKm": [
+    8
+   ],
+   "months": [
+    3
+   ],
+   "url": "https://www.headoftheriver.nl/",
+   "nextDate": "2027-03-06"
+  },
+  {
+   "name": "Head of the Yarra",
+   "nameZh": null,
+   "city": "Melbourne",
+   "country": "Australia",
+   "sport": "row",
+   "distancesKm": [
+    8
+   ],
+   "months": [
+    11
+   ],
+   "url": "https://headoftheyarra.com/",
+   "nextDate": "2026-11-28"
+  },
+  {
+   "name": "World Rowing Masters Regatta",
+   "nameZh": null,
+   "city": "Varese",
+   "country": "Italy",
+   "sport": "row",
+   "distancesKm": [
+    1
+   ],
+   "months": [
+    9
+   ],
+   "url": "https://worldrowing.com/",
+   "nextDate": "2027-09-08"
+  },
+  {
+   "name": "World Rowing Indoor Championships",
+   "nameZh": null,
+   "city": "Birmingham",
+   "country": "United Kingdom",
+   "sport": "row",
+   "distancesKm": [
+    2,
+    0.5
+   ],
+   "months": [
+    12
+   ],
+   "url": "https://worldrowing.com/event/2026-world-rowing-indoor-championships-presented-by-concept2",
+   "nextDate": "2026-12-05"
+  },
+  {
+   "name": "European Rowing Indoor Championships",
+   "nameZh": null,
+   "city": "Dresden",
+   "country": "Germany",
+   "sport": "row",
+   "distancesKm": [
+    2,
+    0.5
+   ],
+   "months": [
+    1
+   ],
+   "url": "https://worldrowing.com/2026/03/12/european-rowing-indoor-championships-presented-by-concept-2-return-in-person-with-dresden-2027/",
+   "nextDate": "2027-01-22"
+  },
+  {
+   "name": "Hong Kong Indoor Rowing Championships",
+   "nameZh": "香港室內賽艇錦標賽",
+   "city": "Hong Kong",
+   "country": "",
+   "sport": "row",
+   "distancesKm": [
+    2
+   ],
+   "months": [
+    3
+   ],
+   "url": "https://rowing.org.hk/competitions/indoor-rowing",
+   "nextDate": null
+  },
+  {
+   "name": "L'Étape du Tour de France",
+   "nameZh": null,
+   "city": "Varies (Tour de France mountain stage)",
+   "country": "France",
+   "sport": "bike",
+   "distancesKm": [
+    170
+   ],
+   "months": [
+    7
+   ],
+   "url": "https://www.letapedutourdefrance.com/en",
+   "nextDate": null
+  },
+  {
+   "name": "Marmotte Granfondo Alpes",
+   "nameZh": null,
+   "city": "Bourg d'Oisans",
+   "country": "France",
+   "sport": "bike",
+   "distancesKm": [
+    177
+   ],
+   "months": [
+    6
+   ],
+   "url": "https://www.marmottegranfondoalpes.com/en",
+   "nextDate": null
+  },
+  {
+   "name": "Paris-Roubaix Challenge",
+   "nameZh": null,
+   "city": "Roubaix",
+   "country": "France",
+   "sport": "bike",
+   "distancesKm": [
+    170,
+    145,
+    70
+   ],
+   "months": [
+    4
+   ],
+   "url": "https://www.parisroubaixchallenge.com/en",
+   "nextDate": "2027-04-10"
+  },
+  {
+   "name": "Ötztaler Radmarathon",
+   "nameZh": null,
+   "city": "Sölden",
+   "country": "Austria",
+   "sport": "bike",
+   "distancesKm": [
+    227
+   ],
+   "months": [
+    8,
+    9
+   ],
+   "url": "https://www.oetztaler-radmarathon.com/",
+   "nextDate": "2027-08-29"
+  },
+  {
+   "name": "Arlberg Giro",
+   "nameZh": null,
+   "city": "St. Anton am Arlberg",
+   "country": "Austria",
+   "sport": "bike",
+   "distancesKm": [
+    150
+   ],
+   "months": [
+    8
+   ],
+   "url": "https://arlberg-giro.com/at",
+   "nextDate": "2027-08-01"
+  },
+  {
+   "name": "Quebrantahuesos",
+   "nameZh": null,
+   "city": "Sabiñánigo",
+   "country": "Spain",
+   "sport": "bike",
+   "distancesKm": [
+    200,
+    85
+   ],
+   "months": [
+    6
+   ],
+   "url": "https://www.quebrantahuesos.com/",
+   "nextDate": "2027-06-19"
+  },
+  {
+   "name": "Mallorca 312",
+   "nameZh": null,
+   "city": "Playa de Muro",
+   "country": "Spain",
+   "sport": "bike",
+   "distancesKm": [
+    312,
+    226,
+    167
+   ],
+   "months": [
+    4
+   ],
+   "url": "https://www.mallorca312.com/en/",
+   "nextDate": "2027-04-24"
+  },
+  {
+   "name": "Granfondo Nove Colli",
+   "nameZh": null,
+   "city": "Cesenatico",
+   "country": "Italy",
+   "sport": "bike",
+   "distancesKm": [
+    200,
+    137
+   ],
+   "months": [
+    5
+   ],
+   "url": "https://www.novecolli.it",
+   "nextDate": "2027-05-23"
+  },
+  {
+   "name": "Sportful Dolomiti Race",
+   "nameZh": null,
+   "city": "Feltre",
+   "country": "Italy",
+   "sport": "bike",
+   "distancesKm": [
+    204,
+    125
+   ],
+   "months": [
+    6
+   ],
+   "url": "https://www.sportfuldolomitirace.it/",
+   "nextDate": "2027-06-20"
+  },
+  {
+   "name": "La Stelvio Santini",
+   "nameZh": null,
+   "city": "Bormio",
+   "country": "Italy",
+   "sport": "bike",
+   "distancesKm": [
+    130,
+    108,
+    64
+   ],
+   "months": [
+    6
+   ],
+   "url": "https://www.lastelviosantini.com/",
+   "nextDate": "2027-06-06"
+  },
+  {
+   "name": "Gran Fondo Strade Bianche",
+   "nameZh": null,
+   "city": "Siena",
+   "country": "Italy",
+   "sport": "bike",
+   "distancesKm": [
+    137.7,
+    87
+   ],
+   "months": [
+    3
+   ],
+   "url": "https://gfstradebianche.it/en/",
+   "nextDate": "2027-03-07"
+  },
+  {
+   "name": "Amstel Gold Race Tour Ride",
+   "nameZh": null,
+   "city": "Valkenburg",
+   "country": "Netherlands",
+   "sport": "bike",
+   "distancesKm": [
+    240,
+    200,
+    150,
+    125,
+    100,
+    65
+   ],
+   "months": [
+    4
+   ],
+   "url": "https://www.amstel.nl/amstelgoldrace/toerversie",
+   "nextDate": "2027-04-17"
+  },
+  {
+   "name": "We Ride Flanders (Tour of Flanders Sportive)",
+   "nameZh": null,
+   "city": "Oudenaarde",
+   "country": "Belgium",
+   "sport": "bike",
+   "distancesKm": [
+    240,
+    160,
+    130,
+    80
+   ],
+   "months": [
+    3,
+    4
+   ],
+   "url": "https://www.werideflanders.com/",
+   "nextDate": "2027-04-03"
+  },
+  {
+   "name": "ADAC Cyclassics Hamburg (amateur races)",
+   "nameZh": null,
+   "city": "Hamburg",
+   "country": "Germany",
+   "sport": "bike",
+   "distancesKm": [
+    110,
+    60
+   ],
+   "months": [
+    8
+   ],
+   "url": "https://www.cyclassics-hamburg.de/en",
+   "nextDate": "2027-08-15"
+  },
+  {
+   "name": "ADAC Velotour Eschborn-Frankfurt",
+   "nameZh": null,
+   "city": "Frankfurt",
+   "country": "Germany",
+   "sport": "bike",
+   "distancesKm": [
+    97,
+    85,
+    40
+   ],
+   "months": [
+    5
+   ],
+   "url": "https://www.timeto.com/de/event/adac-velotour",
+   "nextDate": "2027-05-01"
+  },
+  {
+   "name": "Lake Taupō Cycle Challenge",
+   "nameZh": null,
+   "city": "Taupō",
+   "country": "New Zealand",
+   "sport": "bike",
+   "distancesKm": [
+    320,
+    160
+   ],
+   "months": [
+    11
+   ],
+   "url": "https://www.cyclechallenge.com/",
+   "nextDate": "2026-11-28"
+  },
+  {
+   "name": "United Energy Around the Bay",
+   "nameZh": null,
+   "city": "Melbourne",
+   "country": "Australia",
+   "sport": "bike",
+   "distancesKm": [
+    220,
+    135,
+    100,
+    50
+   ],
+   "months": [
+    10
+   ],
+   "url": "https://bicyclenetwork.com.au/rides-and-events/around-the-bay/",
+   "nextDate": "2027-10-24"
+  },
+  {
+   "name": "Amy's Gran Fondo",
+   "nameZh": null,
+   "city": "Lorne",
+   "country": "Australia",
+   "sport": "bike",
+   "distancesKm": [
+    122,
+    90,
+    45
+   ],
+   "months": [
+    9
+   ],
+   "url": "https://www.amysgranfondo.org.au/",
+   "nextDate": "2027-09-12"
+  },
+  {
+   "name": "RBC GranFondo Whistler",
+   "nameZh": null,
+   "city": "Vancouver",
+   "country": "Canada",
+   "sport": "bike",
+   "distancesKm": [
+    152,
+    122,
+    55
+   ],
+   "months": [
+    9
+   ],
+   "url": "https://www.rbcgranfondo.com/event/whistler",
+   "nextDate": "2027-09-11"
+  },
+  {
+   "name": "Cycling Shimanami",
+   "nameZh": null,
+   "city": "Imabari",
+   "country": "Japan",
+   "sport": "bike",
+   "distancesKm": [
+    140,
+    100,
+    70
+   ],
+   "months": [
+    10
+   ],
+   "url": "https://cycling-shimanami.jp/english/",
+   "nextDate": "2026-10-25"
+  },
+  {
+   "name": "Norikura Hill Climb (All Japan Mountain Cycling in Norikura)",
+   "nameZh": null,
+   "city": "Matsumoto",
+   "country": "Japan",
+   "sport": "bike",
+   "distancesKm": [
+    20.5
+   ],
+   "months": [
+    8
+   ],
+   "url": "https://norikura-hc.com/",
+   "nextDate": null
+  },
+  {
+   "name": "Tour de Utsukushigahara Hill Climb",
+   "nameZh": null,
+   "city": "Matsumoto",
+   "country": "Japan",
+   "sport": "bike",
+   "distancesKm": [
+    21.6
+   ],
+   "months": [
+    6
+   ],
+   "url": "https://utsukushigahara-hc.jp/",
+   "nextDate": null
+  },
+  {
+   "name": "Maebashi Mt. Akagi Hill Climb",
+   "nameZh": null,
+   "city": "Maebashi",
+   "country": "Japan",
+   "sport": "bike",
+   "distancesKm": [
+    18.6
+   ],
+   "months": [
+    9
+   ],
+   "url": "http://www.akg-hc.jp/",
+   "nextDate": null
+  },
+  {
+   "name": "Dartmoor Classic",
+   "nameZh": null,
+   "city": "Newton Abbot",
+   "country": "United Kingdom",
+   "sport": "bike",
+   "distancesKm": [
+    173,
+    107,
+    74
+   ],
+   "months": [
+    6
+   ],
+   "url": "https://www.dartmoorclassic.co.uk/",
+   "nextDate": null
+  },
+  {
+   "name": "Manchester to Blackpool Bike Ride",
+   "nameZh": null,
+   "city": "Salford",
+   "country": "United Kingdom",
+   "sport": "bike",
+   "distancesKm": [
+    96.6
+   ],
+   "months": [
+    7
+   ],
+   "url": "https://www.bike-events.co.uk/",
+   "nextDate": null
+  },
+  {
+   "name": "Unbound Gravel",
+   "nameZh": null,
+   "city": "Emporia, KS",
+   "country": "United States",
+   "sport": "bike",
+   "distancesKm": [
+    563.3,
+    321.9,
+    160.9,
+    80.5,
+    40.2
+   ],
+   "months": [
+    5,
+    6
+   ],
+   "url": "https://www.unboundgravel.com/",
+   "nextDate": null
+  },
+  {
+   "name": "Leadville Trail 100 MTB",
+   "nameZh": null,
+   "city": "Leadville, CO",
+   "country": "United States",
+   "sport": "bike",
+   "distancesKm": [
+    163.0
+   ],
+   "months": [
+    8
+   ],
+   "url": "https://www.leadvilleraceseries.com/mtb/leadvilletrail100mtb/",
+   "nextDate": "2027-08-14"
+  },
+  {
+   "name": "SBT GRVL",
+   "nameZh": null,
+   "city": "Steamboat Springs, CO",
+   "country": "United States",
+   "sport": "bike",
+   "distancesKm": [
+    173.8
+   ],
+   "months": [
+    6
+   ],
+   "url": "https://www.sbtgrvl.com/",
+   "nextDate": null
+  },
+  {
+   "name": "Triple Bypass",
+   "nameZh": null,
+   "city": "Evergreen, CO",
+   "country": "United States",
+   "sport": "bike",
+   "distancesKm": [
+    193.1,
+    128.7
+   ],
+   "months": [
+    7
+   ],
+   "url": "https://www.triplebypass.org/",
+   "nextDate": "2027-07-10"
+  },
+  {
+   "name": "Death Ride",
+   "nameZh": null,
+   "city": "Markleeville, CA",
+   "country": "United States",
+   "sport": "bike",
+   "distancesKm": [
+    165.8
+   ],
+   "months": [
+    7
+   ],
+   "url": "https://www.deathride.com/",
+   "nextDate": "2027-07-10"
+  },
+  {
+   "name": "Levi's GranFondo",
+   "nameZh": null,
+   "city": "Windsor, CA",
+   "country": "United States",
+   "sport": "bike",
+   "distancesKm": [
+    191.5
+   ],
+   "months": [
+    4
+   ],
+   "url": "https://www.levisgranfondo.com/",
+   "nextDate": "2027-04-24"
+  },
+  {
+   "name": "Wildflower Century",
+   "nameZh": null,
+   "city": "Creston, CA",
+   "country": "United States",
+   "sport": "bike",
+   "distancesKm": [
+    160.9,
+    128.7,
+    104.6,
+    80.5,
+    56.3
+   ],
+   "months": [
+    4,
+    5
+   ],
+   "url": "https://www.slobc.org/wildflower/",
+   "nextDate": "2027-05-01"
+  },
+  {
+   "name": "Mt. Diablo Challenge",
+   "nameZh": null,
+   "city": "Danville, CA",
+   "country": "United States",
+   "sport": "bike",
+   "distancesKm": [
+    18.0
+   ],
+   "months": [
+    10
+   ],
+   "url": "https://mountdiablochallenge.org/",
+   "nextDate": null
+  },
+  {
+   "name": "Tour de Palm Springs",
+   "nameZh": null,
+   "city": "Palm Springs, CA",
+   "country": "United States",
+   "sport": "bike",
+   "distancesKm": [
+    162.5,
+    123.9,
+    103.0,
+    51.5,
+    25.7,
+    12.9
+   ],
+   "months": [
+    2
+   ],
+   "url": "https://tourdepalmsprings.com/",
+   "nextDate": null
+  },
+  {
+   "name": "El Tour de Tucson",
+   "nameZh": null,
+   "city": "Tucson, AZ",
+   "country": "United States",
+   "sport": "bike",
+   "distancesKm": [
+    164.2,
+    100,
+    50
+   ],
+   "months": [
+    11
+   ],
+   "url": "https://eltourdetucson.org/",
+   "nextDate": "2026-11-21"
+  },
+  {
+   "name": "Mt. Washington Auto Road Bicycle Hillclimb",
+   "nameZh": null,
+   "city": "Gorham, NH",
+   "country": "United States",
+   "sport": "bike",
+   "distancesKm": [
+    12.2
+   ],
+   "months": [
+    8
+   ],
+   "url": "https://www.mwarbh.org/",
+   "nextDate": null
+  },
+  {
+   "name": "Six Gap Century",
+   "nameZh": null,
+   "city": "Dahlonega, GA",
+   "country": "United States",
+   "sport": "bike",
+   "distancesKm": [
+    167.4,
+    93.3,
+    56.3
+   ],
+   "months": [
+    9
+   ],
+   "url": "https://runsignup.com/Race/Info/GA/Dahlonega/SixGapCentury",
+   "nextDate": null
+  },
+  {
+   "name": "Horribly Hilly Hundreds",
+   "nameZh": null,
+   "city": "Blue Mounds, WI",
+   "country": "United States",
+   "sport": "bike",
+   "distancesKm": [
+    200,
+    150,
+    100
+   ],
+   "months": [
+    6
+   ],
+   "url": "https://www.friendsofbluemound.org/horribly-hilly-hundreds-bike-ride/",
+   "nextDate": null
+  },
+  {
+   "name": "Hilly Hundred Weekend",
+   "nameZh": null,
+   "city": "Ellettsville, IN",
+   "country": "United States",
+   "sport": "bike",
+   "distancesKm": [
+    80.5,
+    48.3
+   ],
+   "months": [
+    10
+   ],
+   "url": "https://hillyhundred.org/",
+   "nextDate": null
+  },
+  {
+   "name": "Belgian Waffle Ride California",
+   "nameZh": null,
+   "city": "Del Mar, CA",
+   "country": "United States",
+   "sport": "bike",
+   "distancesKm": [
+    172.2,
+    103.0,
+    48.3
+   ],
+   "months": [
+    4,
+    5
+   ],
+   "url": "https://www.belgianwaffleride.bike/pages/belgian-waffle-ride-ca",
+   "nextDate": null
+  },
+  {
+   "name": "Bosphorus Cross-Continental Swimming Race",
+   "nameZh": null,
+   "city": "Istanbul",
+   "country": "Turkey",
+   "sport": "swim",
+   "distancesKm": [
+    6.5
+   ],
+   "months": [
+    8
+   ],
+   "url": "https://bogazici.olimpiyat.org.tr/",
+   "nextDate": null
+  },
+  {
+   "name": "Lake Zurich Crossing (Stadtzürcher Seeüberquerung)",
+   "nameZh": null,
+   "city": "Zurich",
+   "country": "Switzerland",
+   "sport": "swim",
+   "distancesKm": [
+    1.5
+   ],
+   "months": [
+    7
+   ],
+   "url": "https://www.seeueberquerung.ch/",
+   "nextDate": "2027-07-07"
+  },
+  {
+   "name": "Lidl Balaton Cross Swim (Balaton-átúszás)",
+   "nameZh": null,
+   "city": "Révfülöp–Balatonboglár",
+   "country": "Hungary",
+   "sport": "swim",
+   "distancesKm": [
+    5.2,
+    2.6
+   ],
+   "months": [
+    7
+   ],
+   "url": "https://www.balaton-atuszas.hu/",
+   "nextDate": "2027-07-17"
+  },
+  {
+   "name": "Coupe de Noël",
+   "nameZh": null,
+   "city": "Geneva",
+   "country": "Switzerland",
+   "sport": "swim",
+   "distancesKm": [
+    0.1
+   ],
+   "months": [
+    12
+   ],
+   "url": "https://www.cdn1934.ch/",
+   "nextDate": "2026-12-19"
+  },
+  {
+   "name": "Cole Classic",
+   "nameZh": null,
+   "city": "Sydney (Manly)",
+   "country": "Australia",
+   "sport": "swim",
+   "distancesKm": [
+    5,
+    2,
+    1
+   ],
+   "months": [
+    2
+   ],
+   "url": "https://www.coleclassic.com.au/",
+   "nextDate": "2027-02-07"
+  },
+  {
+   "name": "Powercor Lorne Pier to Pub",
+   "nameZh": null,
+   "city": "Lorne",
+   "country": "Australia",
+   "sport": "swim",
+   "distancesKm": [
+    1.2
+   ],
+   "months": [
+    1
+   ],
+   "url": "https://lornesurfclub.com.au/pier-to-pub-events/pier-to-pub-home/",
+   "nextDate": "2027-01-09"
+  },
+  {
+   "name": "Macquarie Bondi to Bronte Ocean Swim",
+   "nameZh": null,
+   "city": "Sydney (Bondi)",
+   "country": "Australia",
+   "sport": "swim",
+   "distancesKm": [
+    5,
+    2.2,
+    1
+   ],
+   "months": [
+    11,
+    12
+   ],
+   "url": "https://www.bonditobronte.com.au/",
+   "nextDate": "2026-11-08"
+  },
+  {
+   "name": "Bean Rock",
+   "nameZh": null,
+   "city": "Auckland (Mission Bay)",
+   "country": "New Zealand",
+   "sport": "swim",
+   "distancesKm": [
+    3.4,
+    1.7
+   ],
+   "months": [
+    12
+   ],
+   "url": "https://www.oceanswim.co.nz/",
+   "nextDate": "2026-12-12"
+  },
+  {
+   "name": "Island Hop",
+   "nameZh": null,
+   "city": "Russell (Bay of Islands)",
+   "country": "New Zealand",
+   "sport": "swim",
+   "distancesKm": [
+    4.4,
+    2.2
+   ],
+   "months": [
+    1
+   ],
+   "url": "https://www.oceanswim.co.nz/",
+   "nextDate": "2027-01-30"
+  },
+  {
+   "name": "Golden Gate Sharkfest Swim",
+   "nameZh": null,
+   "city": "San Francisco",
+   "country": "United States",
+   "sport": "swim",
+   "distancesKm": [
+    2.575
+   ],
+   "months": [
+    8,
+    9
+   ],
+   "url": "https://www.sharkfestswim.com/",
+   "nextDate": "2027-09-11"
+  },
+  {
+   "name": "Lake Tahoe Open Water Swim",
+   "nameZh": null,
+   "city": "Tahoma, Lake Tahoe",
+   "country": "United States",
+   "sport": "swim",
+   "distancesKm": [
+    3.862,
+    1.931,
+    0.805
+   ],
+   "months": [
+    8
+   ],
+   "url": "https://www.tahoeswimming.com/",
+   "nextDate": null
+  },
+  {
+   "name": "Great Chesapeake Bay Swim",
+   "nameZh": null,
+   "city": "Annapolis–Stevensville, Maryland",
+   "country": "United States",
+   "sport": "swim",
+   "distancesKm": [
+    7.081,
+    1.609
+   ],
+   "months": [
+    6
+   ],
+   "url": "https://runsignup.com/greatchesapeakebayswim",
+   "nextDate": "2027-06-13"
+  },
+  {
+   "name": "Swim the Suck",
+   "nameZh": null,
+   "city": "Chattanooga, Tennessee",
+   "country": "United States",
+   "sport": "swim",
+   "distancesKm": [
+    16.093
+   ],
+   "months": [
+    10
+   ],
+   "url": "https://runsignup.com/Race/Info/TN/Chattanooga/SwimTheSuck",
+   "nextDate": null
+  },
+  {
+   "name": "20 Bridges Swim Around Manhattan",
+   "nameZh": null,
+   "city": "New York City",
+   "country": "United States",
+   "sport": "swim",
+   "distancesKm": [
+    45.9
+   ],
+   "months": [
+    6,
+    7,
+    8,
+    9,
+    10
+   ],
+   "url": "https://www.nyopenwater.org/20-bridges-swim/",
+   "nextDate": null
+  },
+  {
+   "name": "Kingdom Swim",
+   "nameZh": null,
+   "city": "Newport, Vermont",
+   "country": "United States",
+   "sport": "swim",
+   "distancesKm": [
+    25,
+    16.093,
+    10,
+    5,
+    1.609
+   ],
+   "months": [
+    7
+   ],
+   "url": "https://kingdomgames.co/kingdom-swim/",
+   "nextDate": "2027-07-24"
+  },
+  {
+   "name": "La Jolla Cove Swim (La Jolla Rough Water Swim)",
+   "nameZh": null,
+   "city": "La Jolla, San Diego",
+   "country": "United States",
+   "sport": "swim",
+   "distancesKm": [
+    4.828,
+    1.609
+   ],
+   "months": [
+    9
+   ],
+   "url": "https://runsignup.com/Race/CA/LaJolla/LaJollaRoughWaterSwim",
+   "nextDate": null
+  },
+  {
+   "name": "Dwight Crum Pier to Pier Swim",
+   "nameZh": null,
+   "city": "Hermosa Beach–Manhattan Beach, California",
+   "country": "United States",
+   "sport": "swim",
+   "distancesKm": [
+    3.219
+   ],
+   "months": [
+    8
+   ],
+   "url": "https://www.surffestival.org/swim",
+   "nextDate": "2027-08-01"
+  },
+  {
+   "name": "CFK Swim Around Key West",
+   "nameZh": null,
+   "city": "Key West, Florida",
+   "country": "United States",
+   "sport": "swim",
+   "distancesKm": [
+    20.117,
+    9.817,
+    3.219,
+    1.609,
+    0.732
+   ],
+   "months": [
+    6
+   ],
+   "url": "https://swimaroundkeywest.org/",
+   "nextDate": "2027-06-19"
+  },
+  {
+   "name": "Tampa Bay Frogman Swim",
+   "nameZh": null,
+   "city": "St. Petersburg–Tampa, Florida",
+   "country": "United States",
+   "sport": "swim",
+   "distancesKm": [
+    5.472
+   ],
+   "months": [
+    1
+   ],
+   "url": "https://www.tampabayfrogman.com/",
+   "nextDate": "2027-01-10"
+  },
+  {
+   "name": "Round the Sound Swim",
+   "nameZh": null,
+   "city": "Flatts",
+   "country": "Bermuda",
+   "sport": "swim",
+   "distancesKm": [
+    10,
+    6,
+    4,
+    2,
+    0.8
+   ],
+   "months": [
+    10
+   ],
+   "url": "https://runsignup.com/Race/BM/Flatts/RoundTheSoundSwim",
+   "nextDate": null
+  },
+  {
+   "name": "PENGHU OCEANMAN",
+   "nameZh": "泳渡澎湖灣",
+   "city": "Magong, Penghu",
+   "country": "Taiwan",
+   "sport": "swim",
+   "distancesKm": [
+    10,
+    5,
+    2
+   ],
+   "months": [
+    6
+   ],
+   "url": "https://www.penghu.gov.tw/edu/home.jsp?id=93&act=view&dataserno=11506120001",
+   "nextDate": null
+  },
+  {
+   "name": "Kinmen Open Water Long-Distance Swim",
+   "nameZh": "金門海上長泳",
+   "city": "Lieyu, Kinmen",
+   "country": "Taiwan",
+   "sport": "swim",
+   "distancesKm": [
+    2,
+    1
+   ],
+   "months": [
+    7
+   ],
+   "url": "https://www.kinmen.gov.tw/News_Content2.aspx?n=98E3CA7358C89100&sms=BF7D6D478B935644&s=7AE3F98B01FCA34B",
+   "nextDate": null
+  },
+  {
+   "name": "Shonan Open Water Swimming",
+   "nameZh": null,
+   "city": "Fujisawa (Enoshima)",
+   "country": "Japan",
+   "sport": "swim",
+   "distancesKm": [
+    8,
+    2.5
+   ],
+   "months": [
+    9
+   ],
+   "url": "https://shonanows.jp/",
+   "nextDate": null
+  },
+  {
+   "name": "Chillswim Ullswater End to End",
+   "nameZh": null,
+   "city": "Ullswater, Lake District",
+   "country": "United Kingdom",
+   "sport": "swim",
+   "distancesKm": [
+    12.07
+   ],
+   "months": [
+    7
+   ],
+   "url": "https://www.chillswim.com/",
+   "nextDate": "2027-07-10"
+  },
+  {
+   "name": "Henley Classic",
+   "nameZh": null,
+   "city": "Henley-on-Thames",
+   "country": "United Kingdom",
+   "sport": "swim",
+   "distancesKm": [
+    2.1
+   ],
+   "months": [
+    6
+   ],
+   "url": "https://henleyswim.com/",
+   "nextDate": "2027-06-27"
+  },
+  {
+   "name": "Henley Club to Pub",
+   "nameZh": null,
+   "city": "Henley-on-Thames",
+   "country": "United Kingdom",
+   "sport": "swim",
+   "distancesKm": [
+    1.5
+   ],
+   "months": [
+    7
+   ],
+   "url": "https://henleyswim.com/",
+   "nextDate": "2027-07-24"
+  },
+  {
+   "name": "Thames Marathon",
+   "nameZh": null,
+   "city": "Henley-on-Thames",
+   "country": "United Kingdom",
+   "sport": "swim",
+   "distancesKm": [
+    13,
+    9,
+    5.5
+   ],
+   "months": [
+    8
+   ],
+   "url": "https://henleyswim.com/",
+   "nextDate": "2027-08-08"
+  },
+  {
+   "name": "Dart10k",
+   "nameZh": null,
+   "city": "Totnes, Devon",
+   "country": "United Kingdom",
+   "sport": "swim",
+   "distancesKm": [
+    10
+   ],
+   "months": [
+    7
+   ],
+   "url": "https://www.levelwater.org/dart10k",
+   "nextDate": null
+  },
+  {
+   "name": "Bantham Swoosh",
+   "nameZh": null,
+   "city": "Bantham, Devon",
+   "country": "United Kingdom",
+   "sport": "swim",
+   "distancesKm": [
+    6,
+    1
+   ],
+   "months": [
+    6
+   ],
+   "url": "https://www.levelwater.org/swoosh-event-info-27",
+   "nextDate": "2027-06-05"
+  },
+  {
+   "name": "Amsterdam City Swim",
+   "nameZh": null,
+   "city": "Amsterdam",
+   "country": "Netherlands",
+   "sport": "swim",
+   "distancesKm": [
+    2,
+    0.75
+   ],
+   "months": [
+    9
+   ],
+   "url": "https://www.amsterdamcityswim.nl/",
+   "nextDate": null
   },
   {
    "name": "parkrun",
