@@ -6,7 +6,7 @@
 <link rel="icon" href="../icon.png"><link rel="stylesheet" href="../style.css">
 </head>
 <body><main>
-<header><img src="../icon.png" alt=""><div><h1>私隱政策</h1><nav><a href="./">Racewise</a><a href="../privacy.html">English</a></nav></div></header>
+<header><img src="../icon.png" alt=""><div><h1>私隱政策</h1><nav><a href="./">Racewise</a><details class="lang"><summary><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3a14 14 0 0 1 0 18M12 3a14 14 0 0 0 0 18"/></svg><span>語言</span><svg class="chev" viewBox="0 0 24 24" aria-hidden="true"><path d="M6 9l6 6 6-6"/></svg></summary><div class="lang-menu"><a href="../privacy.html" lang="en">English</a><a href="privacy.html" lang="zh-Hant" aria-current="page">中文</a></div></details></nav></div></header>
 <p class="muted">生效日期：2026 年 10 月 18 日</p>
 
 <p><b>簡單來說：</b>Racewise 沒有伺服器，也沒有任何分析工具。開發者不會收到你的資料。所有資料都留在你的 iPhone 和你自己的私人 iCloud。</p>
@@ -57,4 +57,5 @@
 <h2>聯絡</h2>
 <p>如有問題：<a href="mailto:racewiseapp@gmail.com">racewiseapp@gmail.com</a>。政策如有更改，新版本會連同新日期刊登於此頁。</p>
 <footer>© 2026 Racewise</footer>
-</main></body></html>
+</main><script>document.addEventListener("click",e=>{document.querySelectorAll("details.lang[open]").forEach(d=>{if(!d.contains(e.target))d.removeAttribute("open")})});document.addEventListener("keydown",e=>{if(e.key==="Escape")document.querySelectorAll("details.lang[open]").forEach(d=>d.removeAttribute("open"))});</script>
+</body></html>

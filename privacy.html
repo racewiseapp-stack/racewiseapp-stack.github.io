@@ -6,7 +6,7 @@
 <link rel="icon" href="icon.png"><link rel="stylesheet" href="style.css">
 </head>
 <body><main>
-<header><img src="icon.png" alt=""><div><h1>Privacy policy</h1><nav><a href="./">Racewise</a><a href="zh/privacy.html">中文</a></nav></div></header>
+<header><img src="icon.png" alt=""><div><h1>Privacy policy</h1><nav><a href="./">Racewise</a><details class="lang"><summary><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3a14 14 0 0 1 0 18M12 3a14 14 0 0 0 0 18"/></svg><span>Language</span><svg class="chev" viewBox="0 0 24 24" aria-hidden="true"><path d="M6 9l6 6 6-6"/></svg></summary><div class="lang-menu"><a href="privacy.html" lang="en" aria-current="page">English</a><a href="zh/privacy.html" lang="zh-Hant">中文</a></div></details></nav></div></header>
 <p class="muted">Effective 18 October 2026</p>
 
 <p><b>In short:</b> Racewise has no server and no analytics. The developer never receives your data. Everything stays on your iPhone and in your own private iCloud.</p>
@@ -57,4 +57,5 @@
 <h2>Contact</h2>
 <p>Questions: <a href="mailto:racewiseapp@gmail.com">racewiseapp@gmail.com</a>. If this policy changes, the new version will be posted here with a new date.</p>
 <footer>© 2026 Racewise</footer>
-</main></body></html>
+</main><script>document.addEventListener("click",e=>{document.querySelectorAll("details.lang[open]").forEach(d=>{if(!d.contains(e.target))d.removeAttribute("open")})});document.addEventListener("keydown",e=>{if(e.key==="Escape")document.querySelectorAll("details.lang[open]").forEach(d=>d.removeAttribute("open"))});</script>
+</body></html>

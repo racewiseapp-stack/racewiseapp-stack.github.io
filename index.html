@@ -13,7 +13,7 @@
 <body class="home"><main>
 <div class="topbar"><div class="wrap">
   <a class="brand" href="./"><img src="icon.png" alt="">Racewise</a>
-  <nav><a class="hide-sm" href="#features">Features</a><a href="#support">Support</a><a href="privacy.html">Privacy</a><a href="zh/" lang="zh-Hant">中文</a></nav>
+  <nav><a class="hide-sm" href="#features">Features</a><a href="#support">Support</a><a href="privacy.html">Privacy</a><details class="lang"><summary><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3a14 14 0 0 1 0 18M12 3a14 14 0 0 0 0 18"/></svg><span>Language</span><svg class="chev" viewBox="0 0 24 24" aria-hidden="true"><path d="M6 9l6 6 6-6"/></svg></summary><div class="lang-menu"><a href="./" lang="en" aria-current="page">English</a><a href="zh/" lang="zh-Hant">中文</a></div></details></nav>
 </div></div>
 
 <section class="hero"><div class="wrap">
@@ -70,4 +70,5 @@
 </div>
 
 <footer><div class="wrap"><span>© 2026 Racewise</span><span><a href="privacy.html">Privacy policy</a></span></div></footer>
-</main></body></html>
+</main><script>document.addEventListener("click",e=>{document.querySelectorAll("details.lang[open]").forEach(d=>{if(!d.contains(e.target))d.removeAttribute("open")})});document.addEventListener("keydown",e=>{if(e.key==="Escape")document.querySelectorAll("details.lang[open]").forEach(d=>d.removeAttribute("open"))});</script>
+</body></html>
