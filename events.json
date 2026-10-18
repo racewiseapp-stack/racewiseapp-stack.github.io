@@ -1,0 +1,2781 @@
+{
+ "version": 1,
+ "updated": "2026-10-18",
+ "events": [
+  {
+   "name": "Sydney Marathon",
+   "nameZh": "悉尼馬拉松",
+   "city": "Sydney",
+   "country": "Australia",
+   "sport": "run",
+   "distancesKm": [
+    42.195
+   ],
+   "months": [
+    8
+   ],
+   "url": "https://sydneymarathon.com/",
+   "nextDate": "2027-08-29"
+  },
+  {
+   "name": "Berlin Marathon",
+   "nameZh": "柏林馬拉松",
+   "city": "Berlin",
+   "country": "Germany",
+   "sport": "run",
+   "distancesKm": [
+    42.195
+   ],
+   "months": [
+    9
+   ],
+   "url": "https://www.bmw-berlin-marathon.com/en/",
+   "nextDate": "2027-09-26"
+  },
+  {
+   "name": "Berlin Half Marathon",
+   "nameZh": "柏林半程馬拉松",
+   "city": "Berlin",
+   "country": "Germany",
+   "sport": "run",
+   "distancesKm": [
+    21.0975
+   ],
+   "months": [
+    4
+   ],
+   "url": "https://www.generali-berliner-halbmarathon.de/en/",
+   "nextDate": "2027-04-04"
+  },
+  {
+   "name": "Paris Marathon",
+   "nameZh": "巴黎馬拉松",
+   "city": "Paris",
+   "country": "France",
+   "sport": "run",
+   "distancesKm": [
+    42.195
+   ],
+   "months": [
+    4
+   ],
+   "url": "https://www.schneiderelectricparismarathon.com/en/",
+   "nextDate": null
+  },
+  {
+   "name": "Paris Half Marathon",
+   "nameZh": "巴黎半程馬拉松",
+   "city": "Paris",
+   "country": "France",
+   "sport": "run",
+   "distancesKm": [
+    21.0975
+   ],
+   "months": [
+    3
+   ],
+   "url": "https://www.semideparis.com/",
+   "nextDate": null
+  },
+  {
+   "name": "Amsterdam Marathon",
+   "nameZh": "阿姆斯特丹馬拉松",
+   "city": "Amsterdam",
+   "country": "Netherlands",
+   "sport": "run",
+   "distancesKm": [
+    42.195,
+    21.0975,
+    7.5
+   ],
+   "months": [
+    10
+   ],
+   "url": "https://www.tcsamsterdammarathon.eu/",
+   "nextDate": null
+  },
+  {
+   "name": "Rotterdam Marathon",
+   "nameZh": "鹿特丹馬拉松",
+   "city": "Rotterdam",
+   "country": "Netherlands",
+   "sport": "run",
+   "distancesKm": [
+    42.195
+   ],
+   "months": [
+    4
+   ],
+   "url": "https://www.nnmarathonrotterdam.nl/en/",
+   "nextDate": "2027-04-11"
+  },
+  {
+   "name": "Valencia Marathon",
+   "nameZh": "瓦倫西亞馬拉松",
+   "city": "Valencia",
+   "country": "Spain",
+   "sport": "run",
+   "distancesKm": [
+    42.195
+   ],
+   "months": [
+    12
+   ],
+   "url": "https://www.valenciaciudaddelrunning.com/en/marathon/",
+   "nextDate": "2026-12-06"
+  },
+  {
+   "name": "Valencia Half Marathon",
+   "nameZh": "瓦倫西亞半程馬拉松",
+   "city": "Valencia",
+   "country": "Spain",
+   "sport": "run",
+   "distancesKm": [
+    21.0975
+   ],
+   "months": [
+    10
+   ],
+   "url": "https://www.valenciaciudaddelrunning.com/en/half/",
+   "nextDate": "2026-10-25"
+  },
+  {
+   "name": "Barcelona Marathon",
+   "nameZh": "巴塞隆拿馬拉松",
+   "city": "Barcelona",
+   "country": "Spain",
+   "sport": "run",
+   "distancesKm": [
+    42.195
+   ],
+   "months": [
+    3
+   ],
+   "url": "https://www.zurichmaratobarcelona.es/en/",
+   "nextDate": "2027-03-14"
+  },
+  {
+   "name": "Seville Marathon",
+   "nameZh": "塞維利亞馬拉松",
+   "city": "Seville",
+   "country": "Spain",
+   "sport": "run",
+   "distancesKm": [
+    42.195
+   ],
+   "months": [
+    2
+   ],
+   "url": "https://www.zurichmaratonsevilla.es/en/",
+   "nextDate": "2027-02-21"
+  },
+  {
+   "name": "Rome Marathon",
+   "nameZh": "羅馬馬拉松",
+   "city": "Rome",
+   "country": "Italy",
+   "sport": "run",
+   "distancesKm": [
+    42.195
+   ],
+   "months": [
+    3
+   ],
+   "url": "https://www.runromethemarathon.com/en/",
+   "nextDate": "2027-03-14"
+  },
+  {
+   "name": "Frankfurt Marathon",
+   "nameZh": "法蘭克福馬拉松",
+   "city": "Frankfurt",
+   "country": "Germany",
+   "sport": "run",
+   "distancesKm": [
+    42.195
+   ],
+   "months": [
+    10
+   ],
+   "url": "https://www.frankfurt-marathon.com/en/",
+   "nextDate": "2026-10-25"
+  },
+  {
+   "name": "Hamburg Marathon",
+   "nameZh": "漢堡馬拉松",
+   "city": "Hamburg",
+   "country": "Germany",
+   "sport": "run",
+   "distancesKm": [
+    42.195
+   ],
+   "months": [
+    4
+   ],
+   "url": "https://haspa-marathon-hamburg.de/en/",
+   "nextDate": "2027-04-25"
+  },
+  {
+   "name": "Vienna City Marathon",
+   "nameZh": "維也納馬拉松",
+   "city": "Vienna",
+   "country": "Austria",
+   "sport": "run",
+   "distancesKm": [
+    42.195,
+    21.0975,
+    10,
+    5
+   ],
+   "months": [
+    4
+   ],
+   "url": "https://www.vienna-marathon.com/",
+   "nextDate": "2027-04-18"
+  },
+  {
+   "name": "Prague Marathon",
+   "nameZh": "布拉格馬拉松",
+   "city": "Prague",
+   "country": "Czech Republic",
+   "sport": "run",
+   "distancesKm": [
+    42.195
+   ],
+   "months": [
+    5
+   ],
+   "url": "https://www.runczech.com/en/events/vodafone-prague-marathon-2027",
+   "nextDate": "2027-05-02"
+  },
+  {
+   "name": "Prague Half Marathon",
+   "nameZh": "布拉格半程馬拉松",
+   "city": "Prague",
+   "country": "Czech Republic",
+   "sport": "run",
+   "distancesKm": [
+    21.0975
+   ],
+   "months": [
+    4
+   ],
+   "url": "https://www.runczech.com/en/events?selected_year=2027",
+   "nextDate": "2027-04-03"
+  },
+  {
+   "name": "Copenhagen Half Marathon",
+   "nameZh": "哥本哈根半程馬拉松",
+   "city": "Copenhagen",
+   "country": "Denmark",
+   "sport": "run",
+   "distancesKm": [
+    21.0975
+   ],
+   "months": [
+    9
+   ],
+   "url": "https://cphhalf.dk/en/",
+   "nextDate": "2027-09-19"
+  },
+  {
+   "name": "Stockholm Marathon",
+   "nameZh": "斯德哥爾摩馬拉松",
+   "city": "Stockholm",
+   "country": "Sweden",
+   "sport": "run",
+   "distancesKm": [
+    42.195
+   ],
+   "months": [
+    5,
+    6
+   ],
+   "url": "https://www.stockholmmarathon.se/en/",
+   "nextDate": null
+  },
+  {
+   "name": "Midnattsloppet Stockholm",
+   "nameZh": null,
+   "city": "Stockholm",
+   "country": "Sweden",
+   "sport": "run",
+   "distancesKm": [
+    21,
+    10,
+    5
+   ],
+   "months": [
+    8
+   ],
+   "url": "https://www.midnattsloppet.com/en/",
+   "nextDate": "2027-08-14"
+  },
+  {
+   "name": "Lisbon Marathon",
+   "nameZh": "里斯本馬拉松",
+   "city": "Lisbon",
+   "country": "Portugal",
+   "sport": "run",
+   "distancesKm": [
+    42.195
+   ],
+   "months": [
+    10
+   ],
+   "url": "https://www.maratonaclubedeportugal.com/en/",
+   "nextDate": null
+  },
+  {
+   "name": "Lisbon Half Marathon",
+   "nameZh": "里斯本半程馬拉松",
+   "city": "Lisbon",
+   "country": "Portugal",
+   "sport": "run",
+   "distancesKm": [
+    21.0975
+   ],
+   "months": [
+    3
+   ],
+   "url": "https://www.maratonaclubedeportugal.com/en/",
+   "nextDate": null
+  },
+  {
+   "name": "Athens Marathon",
+   "nameZh": "雅典馬拉松",
+   "city": "Athens",
+   "country": "Greece",
+   "sport": "run",
+   "distancesKm": [
+    42.195,
+    10,
+    5
+   ],
+   "months": [
+    11
+   ],
+   "url": "https://www.athensauthenticmarathon.gr/",
+   "nextDate": "2026-11-08"
+  },
+  {
+   "name": "Istanbul Marathon",
+   "nameZh": "伊斯坦堡馬拉松",
+   "city": "Istanbul",
+   "country": "Turkey",
+   "sport": "run",
+   "distancesKm": [
+    42.195
+   ],
+   "months": [
+    11
+   ],
+   "url": "https://maraton.istanbul/?lang=en",
+   "nextDate": "2026-11-01"
+  },
+  {
+   "name": "Dubai Marathon",
+   "nameZh": "杜拜馬拉松",
+   "city": "Dubai",
+   "country": "United Arab Emirates",
+   "sport": "run",
+   "distancesKm": [
+    42.195
+   ],
+   "months": [
+    1
+   ],
+   "url": "https://www.dubaimarathon.org/",
+   "nextDate": "2027-01-17"
+  },
+  {
+   "name": "Cape Town Marathon",
+   "nameZh": "開普敦馬拉松",
+   "city": "Cape Town",
+   "country": "South Africa",
+   "sport": "run",
+   "distancesKm": [
+    42.195
+   ],
+   "months": [
+    5
+   ],
+   "url": "https://capetownmarathon.com/",
+   "nextDate": "2027-05-23"
+  },
+  {
+   "name": "Two Oceans Marathon",
+   "nameZh": "雙洋馬拉松",
+   "city": "Cape Town",
+   "country": "South Africa",
+   "sport": "run",
+   "distancesKm": [
+    56,
+    21.0975
+   ],
+   "months": [
+    4
+   ],
+   "url": "https://www.twooceansmarathon.org.za/",
+   "nextDate": "2027-04-04"
+  },
+  {
+   "name": "Comrades Marathon",
+   "nameZh": "戰友馬拉松",
+   "city": "Durban",
+   "country": "South Africa",
+   "sport": "run",
+   "distancesKm": [
+    90
+   ],
+   "months": [
+    6
+   ],
+   "url": "https://www.comrades.com/",
+   "nextDate": "2027-06-13"
+  },
+  {
+   "name": "Gold Coast Marathon",
+   "nameZh": "黃金海岸馬拉松",
+   "city": "Gold Coast",
+   "country": "Australia",
+   "sport": "run",
+   "distancesKm": [
+    42.195,
+    21.0975,
+    10,
+    5
+   ],
+   "months": [
+    7
+   ],
+   "url": "https://goldcoastmarathon.com.au/",
+   "nextDate": "2027-07-04"
+  },
+  {
+   "name": "Melbourne Marathon",
+   "nameZh": "墨爾本馬拉松",
+   "city": "Melbourne",
+   "country": "Australia",
+   "sport": "run",
+   "distancesKm": [
+    42.195,
+    21.0975,
+    10,
+    5
+   ],
+   "months": [
+    10
+   ],
+   "url": "https://melbournemarathon.com.au/",
+   "nextDate": null
+  },
+  {
+   "name": "Singapore Marathon",
+   "nameZh": "新加坡馬拉松",
+   "city": "Singapore",
+   "country": "",
+   "sport": "run",
+   "distancesKm": [
+    42.195,
+    21.0975,
+    10,
+    5
+   ],
+   "months": [
+    12
+   ],
+   "url": "https://singaporeinternationalmarathon.com/",
+   "nextDate": "2026-12-06"
+  },
+  {
+   "name": "Kuala Lumpur Marathon",
+   "nameZh": "吉隆坡渣打馬拉松",
+   "city": "Kuala Lumpur",
+   "country": "Malaysia",
+   "sport": "run",
+   "distancesKm": [
+    42.195,
+    21.0975,
+    10,
+    5
+   ],
+   "months": [
+    10
+   ],
+   "url": "https://www.kl-marathon.com/",
+   "nextDate": null
+  },
+  {
+   "name": "Amazing Thailand Marathon Bangkok",
+   "nameZh": "曼谷馬拉松",
+   "city": "Bangkok",
+   "country": "Thailand",
+   "sport": "run",
+   "distancesKm": [
+    42.195,
+    21.0975,
+    10
+   ],
+   "months": [
+    11
+   ],
+   "url": "https://amazingthailandmarathon.com/",
+   "nextDate": "2026-11-29"
+  },
+  {
+   "name": "Mumbai Marathon",
+   "nameZh": "孟買馬拉松",
+   "city": "Mumbai",
+   "country": "India",
+   "sport": "run",
+   "distancesKm": [
+    42.195,
+    21.0975,
+    10
+   ],
+   "months": [
+    1
+   ],
+   "url": "https://tatamumbaimarathon.procam.in/",
+   "nextDate": "2027-01-17"
+  },
+  {
+   "name": "Seoul Marathon",
+   "nameZh": "首爾馬拉松",
+   "city": "Seoul",
+   "country": "South Korea",
+   "sport": "run",
+   "distancesKm": [
+    42.195,
+    10
+   ],
+   "months": [
+    3
+   ],
+   "url": "https://en.seoul-marathon.com/",
+   "nextDate": "2027-03-21"
+  },
+  {
+   "name": "JTBC Seoul Marathon",
+   "nameZh": "JTBC首爾馬拉松",
+   "city": "Seoul",
+   "country": "South Korea",
+   "sport": "run",
+   "distancesKm": [
+    42.195,
+    10
+   ],
+   "months": [
+    11
+   ],
+   "url": "http://en.marathon.jtbc.com/",
+   "nextDate": "2026-11-01"
+  },
+  {
+   "name": "Shanghai Marathon",
+   "nameZh": "上海馬拉松",
+   "city": "Shanghai",
+   "country": "China",
+   "sport": "run",
+   "distancesKm": [
+    42.195
+   ],
+   "months": [
+    11,
+    12
+   ],
+   "url": "https://www.shang-ma.com/",
+   "nextDate": "2026-12-06"
+  },
+  {
+   "name": "Beijing Marathon",
+   "nameZh": "北京馬拉松",
+   "city": "Beijing",
+   "country": "China",
+   "sport": "run",
+   "distancesKm": [
+    42.195
+   ],
+   "months": [
+    10
+   ],
+   "url": "https://www.beijing-marathon.com/",
+   "nextDate": null
+  },
+  {
+   "name": "Toronto Waterfront Marathon",
+   "nameZh": "多倫多海濱馬拉松",
+   "city": "Toronto",
+   "country": "Canada",
+   "sport": "run",
+   "distancesKm": [
+    42.195,
+    21.0975,
+    5
+   ],
+   "months": [
+    10
+   ],
+   "url": "https://www.torontowaterfrontmarathon.com/",
+   "nextDate": null
+  },
+  {
+   "name": "Mexico City Marathon",
+   "nameZh": "墨西哥城馬拉松",
+   "city": "Mexico City",
+   "country": "Mexico",
+   "sport": "run",
+   "distancesKm": [
+    42.195
+   ],
+   "months": [
+    8
+   ],
+   "url": "https://www.maratoncdmx.com/",
+   "nextDate": null
+  },
+  {
+   "name": "Rottnest Channel Swim",
+   "nameZh": null,
+   "city": "Perth",
+   "country": "Australia",
+   "sport": "swim",
+   "distancesKm": [
+    19.7
+   ],
+   "months": [
+    2
+   ],
+   "url": "https://rottnestchannelswim.com.au/",
+   "nextDate": "2027-02-20"
+  },
+  {
+   "name": "Midmar Mile",
+   "nameZh": null,
+   "city": "Howick",
+   "country": "South Africa",
+   "sport": "swim",
+   "distancesKm": [
+    1.609
+   ],
+   "months": [
+    2
+   ],
+   "url": "https://midmarmile.com/",
+   "nextDate": "2027-02-13"
+  },
+  {
+   "name": "Vansbrosimningen",
+   "nameZh": null,
+   "city": "Vansbro",
+   "country": "Sweden",
+   "sport": "swim",
+   "distancesKm": [
+    3
+   ],
+   "months": [
+    7
+   ],
+   "url": "https://www.vansbrosimningen.se/en/",
+   "nextDate": null
+  },
+  {
+   "name": "Vätternrundan",
+   "nameZh": null,
+   "city": "Motala",
+   "country": "Sweden",
+   "sport": "bike",
+   "distancesKm": [
+    315
+   ],
+   "months": [
+    6
+   ],
+   "url": "https://www.vatternrundan.se/vatternrundan/en/",
+   "nextDate": "2027-06-18"
+  },
+  {
+   "name": "Maratona dles Dolomites",
+   "nameZh": null,
+   "city": "Corvara",
+   "country": "Italy",
+   "sport": "bike",
+   "distancesKm": [
+    138,
+    106,
+    55
+   ],
+   "months": [
+    7
+   ],
+   "url": "https://www.maratona.it/en/",
+   "nextDate": "2027-07-04"
+  },
+  {
+   "name": "Cape Town Cycle Tour",
+   "nameZh": "開普敦單車環迴賽",
+   "city": "Cape Town",
+   "country": "South Africa",
+   "sport": "bike",
+   "distancesKm": [
+    109
+   ],
+   "months": [
+    3
+   ],
+   "url": "https://www.capetowncycletour.com/",
+   "nextDate": "2027-03-14"
+  },
+  {
+   "name": "Vogalonga",
+   "nameZh": null,
+   "city": "Venice",
+   "country": "Italy",
+   "sport": "row",
+   "distancesKm": [
+    30
+   ],
+   "months": [
+    5,
+    6
+   ],
+   "url": "https://vogalonga.com/en/",
+   "nextDate": null
+  },
+  {
+   "name": "London Marathon",
+   "nameZh": "倫敦馬拉松",
+   "city": "London",
+   "country": "United Kingdom",
+   "sport": "run",
+   "distancesKm": [
+    42.195
+   ],
+   "months": [
+    4
+   ],
+   "url": "https://www.londonmarathonevents.co.uk/london-marathon",
+   "nextDate": "2027-04-24"
+  },
+  {
+   "name": "Manchester Marathon",
+   "nameZh": "曼徹斯特馬拉松",
+   "city": "Manchester",
+   "country": "United Kingdom",
+   "sport": "run",
+   "distancesKm": [
+    42.195
+   ],
+   "months": [
+    4
+   ],
+   "url": "https://www.manchestermarathon.co.uk/",
+   "nextDate": "2027-04-18"
+  },
+  {
+   "name": "Manchester Half",
+   "nameZh": null,
+   "city": "Manchester",
+   "country": "United Kingdom",
+   "sport": "run",
+   "distancesKm": [
+    21.0975
+   ],
+   "months": [
+    10
+   ],
+   "url": "https://www.manchesterhalfmarathon.co.uk/",
+   "nextDate": null
+  },
+  {
+   "name": "Brighton Marathon",
+   "nameZh": "布萊頓馬拉松",
+   "city": "Brighton",
+   "country": "United Kingdom",
+   "sport": "run",
+   "distancesKm": [
+    42.195,
+    10
+   ],
+   "months": [
+    4
+   ],
+   "url": "https://www.londonmarathonevents.co.uk/brighton-marathon-weekend",
+   "nextDate": "2027-04-04"
+  },
+  {
+   "name": "Brighton Half Marathon",
+   "nameZh": null,
+   "city": "Brighton",
+   "country": "United Kingdom",
+   "sport": "run",
+   "distancesKm": [
+    21.0975
+   ],
+   "months": [
+    2
+   ],
+   "url": "https://www.brightonhalfmarathon.com/",
+   "nextDate": "2027-02-28"
+  },
+  {
+   "name": "Edinburgh Marathon",
+   "nameZh": "愛丁堡馬拉松",
+   "city": "Edinburgh",
+   "country": "United Kingdom",
+   "sport": "run",
+   "distancesKm": [
+    42.195
+   ],
+   "months": [
+    5
+   ],
+   "url": "https://www.edinburghmarathon.com/",
+   "nextDate": "2027-05-30"
+  },
+  {
+   "name": "Edinburgh Half Marathon",
+   "nameZh": null,
+   "city": "Edinburgh",
+   "country": "United Kingdom",
+   "sport": "run",
+   "distancesKm": [
+    21.0975
+   ],
+   "months": [
+    5
+   ],
+   "url": "https://www.edinburghmarathon.com/",
+   "nextDate": "2027-05-30"
+  },
+  {
+   "name": "Great North Run",
+   "nameZh": null,
+   "city": "Newcastle",
+   "country": "United Kingdom",
+   "sport": "run",
+   "distancesKm": [
+    21.0975
+   ],
+   "months": [
+    9
+   ],
+   "url": "https://www.greatrun.org/events/great-north-run/",
+   "nextDate": "2027-09-12"
+  },
+  {
+   "name": "Royal Parks Half",
+   "nameZh": null,
+   "city": "London",
+   "country": "United Kingdom",
+   "sport": "run",
+   "distancesKm": [
+    21.0975
+   ],
+   "months": [
+    10
+   ],
+   "url": "https://www.royalparkshalf.com/",
+   "nextDate": "2027-10-10"
+  },
+  {
+   "name": "Bath Half",
+   "nameZh": null,
+   "city": "Bath",
+   "country": "United Kingdom",
+   "sport": "run",
+   "distancesKm": [
+    21.0975
+   ],
+   "months": [
+    3
+   ],
+   "url": "https://www.londonmarathonevents.co.uk/bath-half",
+   "nextDate": "2027-03-14"
+  },
+  {
+   "name": "Hackney Half",
+   "nameZh": null,
+   "city": "London",
+   "country": "United Kingdom",
+   "sport": "run",
+   "distancesKm": [
+    21.0975
+   ],
+   "months": [
+    5
+   ],
+   "url": "https://www.hackneymoves.com/",
+   "nextDate": "2027-05-16"
+  },
+  {
+   "name": "The Big Half",
+   "nameZh": null,
+   "city": "London",
+   "country": "United Kingdom",
+   "sport": "run",
+   "distancesKm": [
+    21.0975
+   ],
+   "months": [
+    9
+   ],
+   "url": "https://www.londonmarathonevents.co.uk/big-half",
+   "nextDate": "2027-09-05"
+  },
+  {
+   "name": "London Landmarks Half Marathon",
+   "nameZh": null,
+   "city": "London",
+   "country": "United Kingdom",
+   "sport": "run",
+   "distancesKm": [
+    21.0975
+   ],
+   "months": [
+    4
+   ],
+   "url": "https://www.llhm.co.uk/",
+   "nextDate": "2027-04-04"
+  },
+  {
+   "name": "Great South Run",
+   "nameZh": null,
+   "city": "Portsmouth",
+   "country": "United Kingdom",
+   "sport": "run",
+   "distancesKm": [
+    16.0934
+   ],
+   "months": [
+    10
+   ],
+   "url": "https://www.greatrun.org/events/great-south-run/",
+   "nextDate": "2026-10-18"
+  },
+  {
+   "name": "Cardiff Half Marathon",
+   "nameZh": "卡迪夫半程馬拉松",
+   "city": "Cardiff",
+   "country": "United Kingdom",
+   "sport": "run",
+   "distancesKm": [
+    21.0975
+   ],
+   "months": [
+    10
+   ],
+   "url": "https://www.cardiffhalfmarathon.co.uk/",
+   "nextDate": "2027-10-03"
+  },
+  {
+   "name": "Great Birmingham Run",
+   "nameZh": null,
+   "city": "Birmingham",
+   "country": "United Kingdom",
+   "sport": "run",
+   "distancesKm": [
+    21.0975,
+    10
+   ],
+   "months": [
+    5
+   ],
+   "url": "https://www.greatrun.org/events/great-birmingham-run/",
+   "nextDate": "2027-05-02"
+  },
+  {
+   "name": "Great Bristol Run",
+   "nameZh": null,
+   "city": "Bristol",
+   "country": "United Kingdom",
+   "sport": "run",
+   "distancesKm": [
+    21.0975,
+    10
+   ],
+   "months": [
+    5
+   ],
+   "url": "https://www.greatrun.org/events/great-bristol-run/",
+   "nextDate": "2027-05-09"
+  },
+  {
+   "name": "Great Manchester Run",
+   "nameZh": null,
+   "city": "Manchester",
+   "country": "United Kingdom",
+   "sport": "run",
+   "distancesKm": [
+    21.0975,
+    10
+   ],
+   "months": [
+    5
+   ],
+   "url": "https://www.greatrun.org/events/great-manchester-run/",
+   "nextDate": "2027-05-23"
+  },
+  {
+   "name": "Great Scottish Run",
+   "nameZh": null,
+   "city": "Glasgow",
+   "country": "United Kingdom",
+   "sport": "run",
+   "distancesKm": [
+    21.0975,
+    10
+   ],
+   "months": [
+    10
+   ],
+   "url": "https://www.greatrun.org/events/great-scottish-run/",
+   "nextDate": "2027-10-03"
+  },
+  {
+   "name": "Vitality London 10,000",
+   "nameZh": null,
+   "city": "London",
+   "country": "United Kingdom",
+   "sport": "run",
+   "distancesKm": [
+    10
+   ],
+   "months": [
+    9
+   ],
+   "url": "https://www.londonmarathonevents.co.uk/london-10000",
+   "nextDate": "2027-09-26"
+  },
+  {
+   "name": "Loch Ness Marathon",
+   "nameZh": "尼斯湖馬拉松",
+   "city": "Inverness",
+   "country": "United Kingdom",
+   "sport": "run",
+   "distancesKm": [
+    42.195,
+    10
+   ],
+   "months": [
+    9
+   ],
+   "url": "https://www.lochnessmarathon.com/",
+   "nextDate": "2027-09-26"
+  },
+  {
+   "name": "Yorkshire Marathon",
+   "nameZh": "約克郡馬拉松",
+   "city": "York",
+   "country": "United Kingdom",
+   "sport": "run",
+   "distancesKm": [
+    42.195,
+    16.0934
+   ],
+   "months": [
+    10
+   ],
+   "url": "https://www.runforall.com/events/marathon/yorkshire-marathon/",
+   "nextDate": "2026-10-18"
+  },
+  {
+   "name": "Chester Marathon",
+   "nameZh": "切斯特馬拉松",
+   "city": "Chester",
+   "country": "United Kingdom",
+   "sport": "run",
+   "distancesKm": [
+    42.195,
+    26.2
+   ],
+   "months": [
+    10
+   ],
+   "url": "https://www.chestermarathon.co.uk/",
+   "nextDate": "2027-10-10"
+  },
+  {
+   "name": "Belfast City Marathon",
+   "nameZh": "貝爾法斯特馬拉松",
+   "city": "Belfast",
+   "country": "United Kingdom",
+   "sport": "run",
+   "distancesKm": [
+    42.195
+   ],
+   "months": [
+    5
+   ],
+   "url": "https://belfastcitymarathon.com/",
+   "nextDate": "2027-05-02"
+  },
+  {
+   "name": "Belfast City Half Marathon",
+   "nameZh": null,
+   "city": "Belfast",
+   "country": "United Kingdom",
+   "sport": "run",
+   "distancesKm": [
+    21.0975
+   ],
+   "months": [
+    9
+   ],
+   "url": "https://belfastcitymarathon.com/",
+   "nextDate": "2027-09-19"
+  },
+  {
+   "name": "Newport Marathon",
+   "nameZh": null,
+   "city": "Newport",
+   "country": "United Kingdom",
+   "sport": "run",
+   "distancesKm": [
+    42.195,
+    21.0975,
+    10
+   ],
+   "months": [
+    4
+   ],
+   "url": "https://newportwalesmarathon.co.uk/",
+   "nextDate": "2027-04-18"
+  },
+  {
+   "name": "Leeds Marathon",
+   "nameZh": null,
+   "city": "Leeds",
+   "country": "United Kingdom",
+   "sport": "run",
+   "distancesKm": [
+    42.195,
+    21.0975
+   ],
+   "months": [
+    5
+   ],
+   "url": "https://www.runforall.com/events/marathon/leeds-marathon/",
+   "nextDate": "2027-05-09"
+  },
+  {
+   "name": "Bournemouth Half Marathon",
+   "nameZh": null,
+   "city": "Bournemouth",
+   "country": "United Kingdom",
+   "sport": "run",
+   "distancesKm": [
+    21.0975,
+    10
+   ],
+   "months": [
+    10
+   ],
+   "url": "https://www.runbournemouth.com/",
+   "nextDate": "2027-10-10"
+  },
+  {
+   "name": "Reading Half Marathon",
+   "nameZh": null,
+   "city": "Reading",
+   "country": "United Kingdom",
+   "sport": "run",
+   "distancesKm": [
+    21.0975
+   ],
+   "months": [
+    3
+   ],
+   "url": "https://www.readinghalfmarathon.com/",
+   "nextDate": "2027-03-21"
+  },
+  {
+   "name": "Silverstone Half",
+   "nameZh": null,
+   "city": "Silverstone",
+   "country": "United Kingdom",
+   "sport": "run",
+   "distancesKm": [
+    21.0975,
+    10
+   ],
+   "months": [
+    11
+   ],
+   "url": "https://www.silverstone.co.uk/events/run-fest",
+   "nextDate": "2026-11-22"
+  },
+  {
+   "name": "Oxford Half",
+   "nameZh": null,
+   "city": "Oxford",
+   "country": "United Kingdom",
+   "sport": "run",
+   "distancesKm": [
+    21.0975
+   ],
+   "months": [
+    10
+   ],
+   "url": "https://www.oxfordhalf.com/",
+   "nextDate": "2027-10-10"
+  },
+  {
+   "name": "Cambridge Half Marathon",
+   "nameZh": null,
+   "city": "Cambridge",
+   "country": "United Kingdom",
+   "sport": "run",
+   "distancesKm": [
+    21.0975
+   ],
+   "months": [
+    3
+   ],
+   "url": "https://www.cambridgehalfmarathon.com/",
+   "nextDate": "2027-03-14"
+  },
+  {
+   "name": "Great North Swim",
+   "nameZh": null,
+   "city": "Windermere",
+   "country": "United Kingdom",
+   "sport": "swim",
+   "distancesKm": [
+    10,
+    5,
+    3.2187,
+    1.6093,
+    0.8047
+   ],
+   "months": [
+    6
+   ],
+   "url": "https://www.greatswim.org/",
+   "nextDate": "2027-06-11"
+  },
+  {
+   "name": "Swim Serpentine",
+   "nameZh": null,
+   "city": "London",
+   "country": "United Kingdom",
+   "sport": "swim",
+   "distancesKm": [
+    9.6561,
+    3.2187,
+    1.6093,
+    0.8047
+   ],
+   "months": [
+    9
+   ],
+   "url": "https://www.londonmarathonevents.co.uk/swim-serpentine",
+   "nextDate": null
+  },
+  {
+   "name": "Chillswim Coniston End to End",
+   "nameZh": null,
+   "city": "Coniston",
+   "country": "United Kingdom",
+   "sport": "swim",
+   "distancesKm": [
+    8.449
+   ],
+   "months": [
+    6
+   ],
+   "url": "https://www.chillswim.com/",
+   "nextDate": "2027-06-19"
+  },
+  {
+   "name": "Chillswim Windermere End to End",
+   "nameZh": null,
+   "city": "Windermere",
+   "country": "United Kingdom",
+   "sport": "swim",
+   "distancesKm": [
+    17.703
+   ],
+   "months": [
+    9
+   ],
+   "url": "https://www.chillswim.com/",
+   "nextDate": "2027-09-04"
+  },
+  {
+   "name": "Fred Whitton Challenge",
+   "nameZh": null,
+   "city": "Grasmere",
+   "country": "United Kingdom",
+   "sport": "bike",
+   "distancesKm": [
+    180.2
+   ],
+   "months": [
+    5
+   ],
+   "url": "https://fredwhittonchallenge.co.uk/",
+   "nextDate": "2027-05-09"
+  },
+  {
+   "name": "Dragon Ride",
+   "nameZh": null,
+   "city": "Port Talbot",
+   "country": "United Kingdom",
+   "sport": "bike",
+   "distancesKm": [
+    298,
+    222,
+    153,
+    99
+   ],
+   "months": [
+    6
+   ],
+   "url": "https://www.dragonride.co.uk/",
+   "nextDate": "2027-06-13"
+  },
+  {
+   "name": "Etape Caledonia",
+   "nameZh": null,
+   "city": "Pitlochry",
+   "country": "United Kingdom",
+   "sport": "bike",
+   "distancesKm": [
+    136.8,
+    88.5,
+    64.4
+   ],
+   "months": [
+    5
+   ],
+   "url": "https://www.etapecaledonia.co.uk/",
+   "nextDate": "2027-05-09"
+  },
+  {
+   "name": "Etape Loch Ness",
+   "nameZh": null,
+   "city": "Inverness",
+   "country": "United Kingdom",
+   "sport": "bike",
+   "distancesKm": [
+    106.2
+   ],
+   "months": [
+    4
+   ],
+   "url": "https://caledoniangroupevents.co.uk/etape-loch-ness",
+   "nextDate": "2027-04-25"
+  },
+  {
+   "name": "London to Brighton Bike Ride",
+   "nameZh": null,
+   "city": "London",
+   "country": "United Kingdom",
+   "sport": "bike",
+   "distancesKm": [
+    86.9
+   ],
+   "months": [
+    6
+   ],
+   "url": "https://www.bhf.org.uk/L2B",
+   "nextDate": "2027-06-20"
+  },
+  {
+   "name": "Head of the River Race",
+   "nameZh": null,
+   "city": "London",
+   "country": "United Kingdom",
+   "sport": "row",
+   "distancesKm": [
+    6.8
+   ],
+   "months": [
+    3
+   ],
+   "url": "https://www.horr.co.uk/",
+   "nextDate": "2027-03-20"
+  },
+  {
+   "name": "Women's Eights Head of the River Race",
+   "nameZh": null,
+   "city": "London",
+   "country": "United Kingdom",
+   "sport": "row",
+   "distancesKm": [
+    6.8
+   ],
+   "months": [
+    3
+   ],
+   "url": "https://wehorr.org/",
+   "nextDate": "2027-03-06"
+  },
+  {
+   "name": "Boston Marathon",
+   "nameZh": "波士頓馬拉松",
+   "city": "Boston",
+   "country": "United States",
+   "sport": "run",
+   "distancesKm": [
+    42.195
+   ],
+   "months": [
+    4
+   ],
+   "url": "https://www.baa.org/races/boston-marathon",
+   "nextDate": "2027-04-19"
+  },
+  {
+   "name": "TCS New York City Marathon",
+   "nameZh": "紐約馬拉松",
+   "city": "New York",
+   "country": "United States",
+   "sport": "run",
+   "distancesKm": [
+    42.195
+   ],
+   "months": [
+    11
+   ],
+   "url": "https://www.nyrr.org/tcsnycmarathon",
+   "nextDate": "2026-11-01"
+  },
+  {
+   "name": "Bank of America Chicago Marathon",
+   "nameZh": "芝加哥馬拉松",
+   "city": "Chicago",
+   "country": "United States",
+   "sport": "run",
+   "distancesKm": [
+    42.195
+   ],
+   "months": [
+    10
+   ],
+   "url": "https://www.chicagomarathon.com/",
+   "nextDate": "2027-10-10"
+  },
+  {
+   "name": "Los Angeles Marathon",
+   "nameZh": "洛杉磯馬拉松",
+   "city": "Los Angeles",
+   "country": "United States",
+   "sport": "run",
+   "distancesKm": [
+    42.195
+   ],
+   "months": [
+    3
+   ],
+   "url": "https://www.mccourtfoundation.org/event/los-angeles-marathon/",
+   "nextDate": "2027-03-07"
+  },
+  {
+   "name": "Marine Corps Marathon",
+   "nameZh": "海軍陸戰隊馬拉松",
+   "city": "Arlington",
+   "country": "United States",
+   "sport": "run",
+   "distancesKm": [
+    42.195,
+    8
+   ],
+   "months": [
+    10
+   ],
+   "url": "https://www.marinemarathon.com/",
+   "nextDate": "2026-10-25"
+  },
+  {
+   "name": "Honolulu Marathon",
+   "nameZh": "檀香山馬拉松",
+   "city": "Honolulu",
+   "country": "United States",
+   "sport": "run",
+   "distancesKm": [
+    42.195,
+    10
+   ],
+   "months": [
+    12
+   ],
+   "url": "https://www.honolulumarathon.org/",
+   "nextDate": "2026-12-13"
+  },
+  {
+   "name": "Medtronic Twin Cities Marathon",
+   "nameZh": null,
+   "city": "Minneapolis",
+   "country": "United States",
+   "sport": "run",
+   "distancesKm": [
+    42.195,
+    16.0934,
+    10,
+    5
+   ],
+   "months": [
+    10
+   ],
+   "url": "https://www.tcmevents.org/",
+   "nextDate": "2027-10-17"
+  },
+  {
+   "name": "Philadelphia Marathon",
+   "nameZh": "費城馬拉松",
+   "city": "Philadelphia",
+   "country": "United States",
+   "sport": "run",
+   "distancesKm": [
+    42.195,
+    21.0975,
+    8
+   ],
+   "months": [
+    11
+   ],
+   "url": "https://www.philadelphiamarathon.com/",
+   "nextDate": "2026-11-22"
+  },
+  {
+   "name": "Chevron Houston Marathon",
+   "nameZh": "休士頓馬拉松",
+   "city": "Houston",
+   "country": "United States",
+   "sport": "run",
+   "distancesKm": [
+    42.195,
+    21.0975
+   ],
+   "months": [
+    1
+   ],
+   "url": "https://www.chevronhoustonmarathon.com/",
+   "nextDate": "2027-01-17"
+  },
+  {
+   "name": "Grandma's Marathon",
+   "nameZh": null,
+   "city": "Duluth",
+   "country": "United States",
+   "sport": "run",
+   "distancesKm": [
+    42.195,
+    21.0975
+   ],
+   "months": [
+    6
+   ],
+   "url": "https://grandmasmarathon.com/",
+   "nextDate": "2027-06-19"
+  },
+  {
+   "name": "Big Sur International Marathon",
+   "nameZh": "大瑟爾馬拉松",
+   "city": "Carmel",
+   "country": "United States",
+   "sport": "run",
+   "distancesKm": [
+    42.195,
+    12,
+    5
+   ],
+   "months": [
+    4
+   ],
+   "url": "https://www.bigsurmarathon.org/",
+   "nextDate": "2027-04-25"
+  },
+  {
+   "name": "Bay to Breakers",
+   "nameZh": null,
+   "city": "San Francisco",
+   "country": "United States",
+   "sport": "run",
+   "distancesKm": [
+    15,
+    12
+   ],
+   "months": [
+    5
+   ],
+   "url": "https://baytobreakers.com/",
+   "nextDate": "2027-05-16"
+  },
+  {
+   "name": "Peachtree Road Race",
+   "nameZh": null,
+   "city": "Atlanta",
+   "country": "United States",
+   "sport": "run",
+   "distancesKm": [
+    10
+   ],
+   "months": [
+    7
+   ],
+   "url": "https://www.atlantatrackclub.org/peachtree",
+   "nextDate": "2027-07-04"
+  },
+  {
+   "name": "BOLDERBoulder",
+   "nameZh": null,
+   "city": "Boulder",
+   "country": "United States",
+   "sport": "run",
+   "distancesKm": [
+    10
+   ],
+   "months": [
+    5
+   ],
+   "url": "https://www.bolderboulder.com/",
+   "nextDate": "2027-05-31"
+  },
+  {
+   "name": "Broad Street Run",
+   "nameZh": null,
+   "city": "Philadelphia",
+   "country": "United States",
+   "sport": "run",
+   "distancesKm": [
+    16.0934
+   ],
+   "months": [
+    5
+   ],
+   "url": "https://broadstreetrun.com/",
+   "nextDate": null
+  },
+  {
+   "name": "Credit Union Cherry Blossom 10 Mile",
+   "nameZh": null,
+   "city": "Washington",
+   "country": "United States",
+   "sport": "run",
+   "distancesKm": [
+    16.0934
+   ],
+   "months": [
+    4
+   ],
+   "url": "https://www.cherryblossom.org/",
+   "nextDate": "2027-04-04"
+  },
+  {
+   "name": "United Airlines NYC Half",
+   "nameZh": "紐約半程馬拉松",
+   "city": "New York",
+   "country": "United States",
+   "sport": "run",
+   "distancesKm": [
+    21.0975
+   ],
+   "months": [
+    3
+   ],
+   "url": "https://www.nyrr.org/run/united-airlines-nyc-half",
+   "nextDate": "2027-03-21"
+  },
+  {
+   "name": "RBC Brooklyn Half",
+   "nameZh": null,
+   "city": "New York",
+   "country": "United States",
+   "sport": "run",
+   "distancesKm": [
+    21.0975
+   ],
+   "months": [
+    5
+   ],
+   "url": "https://events.nyrr.org/rbc-brooklyn-half",
+   "nextDate": null
+  },
+  {
+   "name": "B.A.A. Half Marathon",
+   "nameZh": null,
+   "city": "Boston",
+   "country": "United States",
+   "sport": "run",
+   "distancesKm": [
+    21.0975
+   ],
+   "months": [
+    11
+   ],
+   "url": "https://www.baa.org/races/baa-half-marathon",
+   "nextDate": "2026-11-08"
+  },
+  {
+   "name": "California International Marathon",
+   "nameZh": null,
+   "city": "Sacramento",
+   "country": "United States",
+   "sport": "run",
+   "distancesKm": [
+    42.195
+   ],
+   "months": [
+    12
+   ],
+   "url": "https://www.runcim.org/",
+   "nextDate": "2026-12-06"
+  },
+  {
+   "name": "Walt Disney World Marathon",
+   "nameZh": "迪士尼世界馬拉松",
+   "city": "Orlando",
+   "country": "United States",
+   "sport": "run",
+   "distancesKm": [
+    42.195,
+    21.0975,
+    10,
+    5
+   ],
+   "months": [
+    1
+   ],
+   "url": "https://www.rundisney.com/events/disneyworld/disneyworld-marathon-weekend/events/marathon",
+   "nextDate": "2027-01-10"
+  },
+  {
+   "name": "Austin Marathon",
+   "nameZh": null,
+   "city": "Austin",
+   "country": "United States",
+   "sport": "run",
+   "distancesKm": [
+    42.195,
+    21.0975,
+    5
+   ],
+   "months": [
+    2
+   ],
+   "url": "https://www.youraustinmarathon.com/",
+   "nextDate": "2027-02-14"
+  },
+  {
+   "name": "Portland Marathon",
+   "nameZh": null,
+   "city": "Portland",
+   "country": "United States",
+   "sport": "run",
+   "distancesKm": [
+    42.195,
+    21.0975,
+    10
+   ],
+   "months": [
+    10
+   ],
+   "url": "https://www.portlandmarathon.com/",
+   "nextDate": "2027-10-03"
+  },
+  {
+   "name": "Rock 'n' Roll San Diego",
+   "nameZh": null,
+   "city": "San Diego",
+   "country": "United States",
+   "sport": "run",
+   "distancesKm": [
+    42.195,
+    21.0975,
+    5
+   ],
+   "months": [
+    6
+   ],
+   "url": "https://www.runrocknroll.com/events/san-diego",
+   "nextDate": "2027-06-06"
+  },
+  {
+   "name": "Rock 'n' Roll Las Vegas",
+   "nameZh": null,
+   "city": "Las Vegas",
+   "country": "United States",
+   "sport": "run",
+   "distancesKm": [
+    21.0975,
+    10,
+    5
+   ],
+   "months": [
+    2
+   ],
+   "url": "https://www.runrocknroll.com/events/las-vegas",
+   "nextDate": "2027-02-21"
+  },
+  {
+   "name": "Falmouth Road Race",
+   "nameZh": null,
+   "city": "Falmouth",
+   "country": "United States",
+   "sport": "run",
+   "distancesKm": [
+    11.2654
+   ],
+   "months": [
+    8
+   ],
+   "url": "https://falmouthroadrace.com/",
+   "nextDate": "2027-08-15"
+  },
+  {
+   "name": "TD Beach to Beacon 10K",
+   "nameZh": null,
+   "city": "Cape Elizabeth",
+   "country": "United States",
+   "sport": "run",
+   "distancesKm": [
+    10
+   ],
+   "months": [
+    8
+   ],
+   "url": "https://www.beach2beacon.org/",
+   "nextDate": null
+  },
+  {
+   "name": "Cooper River Bridge Run",
+   "nameZh": null,
+   "city": "Charleston",
+   "country": "United States",
+   "sport": "run",
+   "distancesKm": [
+    10
+   ],
+   "months": [
+    4
+   ],
+   "url": "https://bridgerun.com/",
+   "nextDate": "2027-04-03"
+  },
+  {
+   "name": "Lilac Bloomsday Run",
+   "nameZh": null,
+   "city": "Spokane",
+   "country": "United States",
+   "sport": "run",
+   "distancesKm": [
+    12
+   ],
+   "months": [
+    5
+   ],
+   "url": "https://www.bloomsdayrun.org/",
+   "nextDate": "2027-05-02"
+  },
+  {
+   "name": "Detroit Free Press Marathon",
+   "nameZh": null,
+   "city": "Detroit",
+   "country": "United States",
+   "sport": "run",
+   "distancesKm": [
+    42.195,
+    21.0975
+   ],
+   "months": [
+    10
+   ],
+   "url": "https://www.freepmarathon.com/",
+   "nextDate": "2026-10-18"
+  },
+  {
+   "name": "St. George Marathon",
+   "nameZh": null,
+   "city": "St. George",
+   "country": "United States",
+   "sport": "run",
+   "distancesKm": [
+    42.195,
+    21.0975,
+    5
+   ],
+   "months": [
+    10
+   ],
+   "url": "https://www.sgcityutah.gov/activity/special_events/st._george_marathon/index.php",
+   "nextDate": null
+  },
+  {
+   "name": "Indianapolis Monumental Marathon",
+   "nameZh": null,
+   "city": "Indianapolis",
+   "country": "United States",
+   "sport": "run",
+   "distancesKm": [
+    42.195,
+    21.0975,
+    5
+   ],
+   "months": [
+    11
+   ],
+   "url": "https://monumentalmarathon.com/",
+   "nextDate": "2026-11-07"
+  },
+  {
+   "name": "Pittsburgh Marathon",
+   "nameZh": null,
+   "city": "Pittsburgh",
+   "country": "United States",
+   "sport": "run",
+   "distancesKm": [
+    42.195,
+    21.0975
+   ],
+   "months": [
+    5
+   ],
+   "url": "https://p3r.org/races/dick-s-sporting-goods-pittsburgh-marathon",
+   "nextDate": "2027-05-02"
+  },
+  {
+   "name": "Alcatraz Sharkfest Swim",
+   "nameZh": null,
+   "city": "San Francisco",
+   "country": "United States",
+   "sport": "swim",
+   "distancesKm": [
+    2.414
+   ],
+   "months": [
+    8,
+    9
+   ],
+   "url": "https://sharkfestswim.com/",
+   "nextDate": "2027-09-25"
+  },
+  {
+   "name": "Waikiki Roughwater Swim",
+   "nameZh": null,
+   "city": "Honolulu",
+   "country": "United States",
+   "sport": "swim",
+   "distancesKm": [
+    3.84
+   ],
+   "months": [
+    9
+   ],
+   "url": "https://waikikiroughwaterswim.com/",
+   "nextDate": "2027-09-06"
+  },
+  {
+   "name": "Big Shoulders 5K & 2.5K",
+   "nameZh": null,
+   "city": "Chicago",
+   "country": "United States",
+   "sport": "swim",
+   "distancesKm": [
+    5,
+    2.5
+   ],
+   "months": [
+    9
+   ],
+   "url": "https://www.bigshouldersswim.com/",
+   "nextDate": "2027-09-11"
+  },
+  {
+   "name": "TD Five Boro Bike Tour",
+   "nameZh": null,
+   "city": "New York",
+   "country": "United States",
+   "sport": "bike",
+   "distancesKm": [
+    64.3738
+   ],
+   "months": [
+    5
+   ],
+   "url": "https://www.bike.nyc/events/td-five-boro-bike-tour/",
+   "nextDate": "2027-05-02"
+  },
+  {
+   "name": "Hotter'N Hell Hundred",
+   "nameZh": null,
+   "city": "Wichita Falls",
+   "country": "United States",
+   "sport": "bike",
+   "distancesKm": [
+    160.934
+   ],
+   "months": [
+    8
+   ],
+   "url": "https://hh100.org/",
+   "nextDate": null
+  },
+  {
+   "name": "RAGBRAI",
+   "nameZh": null,
+   "city": "Des Moines",
+   "country": "United States",
+   "sport": "bike",
+   "distancesKm": [
+    629.9
+   ],
+   "months": [
+    7
+   ],
+   "url": "https://ragbrai.com/",
+   "nextDate": "2027-07-24"
+  },
+  {
+   "name": "Seattle to Portland Bicycle Classic",
+   "nameZh": null,
+   "city": "Seattle",
+   "country": "United States",
+   "sport": "bike",
+   "distancesKm": [
+    331.5
+   ],
+   "months": [
+    7
+   ],
+   "url": "https://cascade.org/rides-events/seattle-portland-2027-2027",
+   "nextDate": "2027-07-10"
+  },
+  {
+   "name": "GFNY New York",
+   "nameZh": null,
+   "city": "New York",
+   "country": "United States",
+   "sport": "bike",
+   "distancesKm": [
+    136
+   ],
+   "months": [
+    5
+   ],
+   "url": "https://nyc.gfny.com/",
+   "nextDate": "2027-05-16"
+  },
+  {
+   "name": "Pan-Mass Challenge",
+   "nameZh": null,
+   "city": "Worcester",
+   "country": "United States",
+   "sport": "bike",
+   "distancesKm": [
+    284.9,
+    260.7,
+    160.9,
+    136.8,
+    123.9,
+    80.5,
+    40.2
+   ],
+   "months": [
+    8
+   ],
+   "url": "https://www.pmc.org/",
+   "nextDate": null
+  },
+  {
+   "name": "Head of the Charles Regatta",
+   "nameZh": null,
+   "city": "Boston",
+   "country": "United States",
+   "sport": "row",
+   "distancesKm": [
+    4.828
+   ],
+   "months": [
+    10
+   ],
+   "url": "https://hocr.org/",
+   "nextDate": null
+  },
+  {
+   "name": "Head of the Schuylkill Regatta",
+   "nameZh": null,
+   "city": "Philadelphia",
+   "country": "United States",
+   "sport": "row",
+   "distancesKm": [
+    3.701
+   ],
+   "months": [
+    10
+   ],
+   "url": "https://www.hosr.org/",
+   "nextDate": "2026-10-24"
+  },
+  {
+   "name": "C.R.A.S.H.-B. Sprints",
+   "nameZh": null,
+   "city": "Waltham",
+   "country": "United States",
+   "sport": "row",
+   "distancesKm": [
+    2
+   ],
+   "months": [
+    2
+   ],
+   "url": "https://www.crash-b.org/",
+   "nextDate": null
+  },
+  {
+   "name": "Standard Chartered Hong Kong Marathon",
+   "nameZh": "渣打香港馬拉松",
+   "city": "Hong Kong",
+   "country": "",
+   "sport": "run",
+   "distancesKm": [
+    42.195,
+    21.0975,
+    10,
+    5
+   ],
+   "months": [
+    1
+   ],
+   "url": "https://www.hkmarathon.com/",
+   "nextDate": "2027-01-17"
+  },
+  {
+   "name": "BOC Hong Kong-Zhuhai-Macao Bridge Half Marathon",
+   "nameZh": "中銀香港港珠澳大橋（香港段）半馬拉松",
+   "city": "Hong Kong",
+   "country": "",
+   "sport": "run",
+   "distancesKm": [
+    21.0975,
+    10
+   ],
+   "months": [
+    11
+   ],
+   "url": "https://hzmb-halfmarathon.com/",
+   "nextDate": "2026-11-15"
+  },
+  {
+   "name": "Victoria Harbour Race",
+   "nameZh": "維港泳",
+   "city": "Hong Kong",
+   "country": "",
+   "sport": "swim",
+   "distancesKm": [
+    1
+   ],
+   "months": [
+    11
+   ],
+   "url": "https://hkgswimming.org.hk/zh-hant/activities/5512/",
+   "nextDate": "2026-11-15"
+  },
+  {
+   "name": "Hong Kong Cyclothon",
+   "nameZh": "香港單車節",
+   "city": "Hong Kong",
+   "country": "",
+   "sport": "bike",
+   "distancesKm": [
+    56,
+    32
+   ],
+   "months": [
+    10
+   ],
+   "url": "https://www.discoverhongkong.com/eng/events/cyclothon.html",
+   "nextDate": null
+  },
+  {
+   "name": "Taipei Marathon",
+   "nameZh": "臺北馬拉松",
+   "city": "Taipei",
+   "country": "Taiwan",
+   "sport": "run",
+   "distancesKm": [
+    42.195,
+    21.0975
+   ],
+   "months": [
+    12
+   ],
+   "url": "https://www.taipeicitymarathon.com/",
+   "nextDate": "2026-12-20"
+  },
+  {
+   "name": "Standard Chartered Taipei Charity Marathon",
+   "nameZh": "渣打臺北公益馬拉松",
+   "city": "Taipei",
+   "country": "Taiwan",
+   "sport": "run",
+   "distancesKm": [
+    42.195,
+    21.0975,
+    12,
+    3
+   ],
+   "months": [
+    1
+   ],
+   "url": "https://www.scbmarathon.com/",
+   "nextDate": "2027-01-10"
+  },
+  {
+   "name": "EVA Air Marathon",
+   "nameZh": "長榮航空馬拉松",
+   "city": "Taipei",
+   "country": "Taiwan",
+   "sport": "run",
+   "distancesKm": [
+    42.195,
+    21.0975,
+    10,
+    3
+   ],
+   "months": [
+    10
+   ],
+   "url": "https://www.evaairrun.com/",
+   "nextDate": "2026-10-25"
+  },
+  {
+   "name": "China Airlines Starlight Night Run",
+   "nameZh": "華航馬拉松星光夜跑",
+   "city": "Taipei",
+   "country": "Taiwan",
+   "sport": "run",
+   "distancesKm": [
+    21.0975,
+    10,
+    6
+   ],
+   "months": [
+    10
+   ],
+   "url": "https://www.china-airlines.com/",
+   "nextDate": "2026-10-31"
+  },
+  {
+   "name": "Wan Jin Shi Marathon",
+   "nameZh": "新北市萬金石馬拉松",
+   "city": "New Taipei",
+   "country": "Taiwan",
+   "sport": "run",
+   "distancesKm": [
+    42.195,
+    10
+   ],
+   "months": [
+    3
+   ],
+   "url": "https://wanjinshi-marathon.com.tw/",
+   "nextDate": "2027-03-21"
+  },
+  {
+   "name": "Kaohsiung Marathon",
+   "nameZh": "富邦人壽高雄馬拉松",
+   "city": "Kaohsiung",
+   "country": "Taiwan",
+   "sport": "run",
+   "distancesKm": [
+    42.195,
+    21.0975
+   ],
+   "months": [
+    1
+   ],
+   "url": "https://khm.kcg.gov.tw/",
+   "nextDate": "2027-01-10"
+  },
+  {
+   "name": "Tainan Ancient Capital International Half Marathon",
+   "nameZh": "臺南古都國際半程馬拉松",
+   "city": "Tainan",
+   "country": "Taiwan",
+   "sport": "run",
+   "distancesKm": [
+    21.0975,
+    10,
+    5
+   ],
+   "months": [
+    3
+   ],
+   "url": "https://www.tainanhalfmarathon.com/",
+   "nextDate": null
+  },
+  {
+   "name": "Taoyuan Half Marathon (Shimen Reservoir)",
+   "nameZh": "桃園石門水庫楓半馬",
+   "city": "Taoyuan",
+   "country": "Taiwan",
+   "sport": "run",
+   "distancesKm": [
+    21.0975,
+    10,
+    5
+   ],
+   "months": [
+    12
+   ],
+   "url": "https://www.bao-ming.com/eb/content/7084",
+   "nextDate": "2026-12-06"
+  },
+  {
+   "name": "Tianzhong Marathon",
+   "nameZh": "台灣米倉田中馬拉松",
+   "city": "Changhua",
+   "country": "Taiwan",
+   "sport": "run",
+   "distancesKm": [
+    42.195,
+    21.0975
+   ],
+   "months": [
+    11
+   ],
+   "url": "https://www.tianzhongmarathon.com/",
+   "nextDate": null
+  },
+  {
+   "name": "Kenting Japan Airlines International Marathon",
+   "nameZh": "屏東墾丁日本航空國際馬拉松",
+   "city": "Kenting",
+   "country": "Taiwan",
+   "sport": "run",
+   "distancesKm": [
+    42.195,
+    21.0975,
+    12,
+    4
+   ],
+   "months": [
+    11
+   ],
+   "url": "https://www.bao-ming.com/eb/content/7073",
+   "nextDate": "2026-11-15"
+  },
+  {
+   "name": "Sun Moon Lake International Swimming Carnival",
+   "nameZh": "日月潭國際萬人泳渡",
+   "city": "Nantou",
+   "country": "Taiwan",
+   "sport": "swim",
+   "distancesKm": [
+    3
+   ],
+   "months": [
+    9
+   ],
+   "url": "https://www.sunmoonlake.gov.tw/",
+   "nextDate": null
+  },
+  {
+   "name": "Taiwan KOM Challenge",
+   "nameZh": "臺灣KOM自行車登山王挑戰",
+   "city": "Hualien",
+   "country": "Taiwan",
+   "sport": "bike",
+   "distancesKm": [
+    105
+   ],
+   "months": [
+    10,
+    11
+   ],
+   "url": "https://www.taiwankom.org/",
+   "nextDate": "2026-11-02"
+  },
+  {
+   "name": "L'Étape Sun Moon Lake by Tour de France",
+   "nameZh": "L'Étape環法自行車挑戰賽 日月潭站",
+   "city": "Nantou",
+   "country": "Taiwan",
+   "sport": "bike",
+   "distancesKm": [
+    104,
+    29
+   ],
+   "months": [
+    10
+   ],
+   "url": "https://www.letapeseries.com/",
+   "nextDate": null
+  },
+  {
+   "name": "Tokyo Marathon",
+   "nameZh": "東京馬拉松",
+   "city": "Tokyo",
+   "country": "Japan",
+   "sport": "run",
+   "distancesKm": [
+    42.195
+   ],
+   "months": [
+    3
+   ],
+   "url": "https://www.marathon.tokyo/en/",
+   "nextDate": "2027-03-07"
+  },
+  {
+   "name": "Osaka Marathon",
+   "nameZh": "大阪馬拉松",
+   "city": "Osaka",
+   "country": "Japan",
+   "sport": "run",
+   "distancesKm": [
+    42.195
+   ],
+   "months": [
+    2
+   ],
+   "url": "https://www.osaka-marathon.com/",
+   "nextDate": "2027-02-28"
+  },
+  {
+   "name": "Nagoya Women's Marathon",
+   "nameZh": "名古屋女子馬拉松",
+   "city": "Nagoya",
+   "country": "Japan",
+   "sport": "run",
+   "distancesKm": [
+    42.195
+   ],
+   "months": [
+    3
+   ],
+   "url": "https://womens-marathon.nagoya/en/",
+   "nextDate": "2027-03-14"
+  },
+  {
+   "name": "Kyoto Marathon",
+   "nameZh": "京都馬拉松",
+   "city": "Kyoto",
+   "country": "Japan",
+   "sport": "run",
+   "distancesKm": [
+    42.195
+   ],
+   "months": [
+    2
+   ],
+   "url": "https://kyoto-marathon.com/en/",
+   "nextDate": "2027-02-21"
+  },
+  {
+   "name": "Kobe Marathon",
+   "nameZh": "神戶馬拉松",
+   "city": "Kobe",
+   "country": "Japan",
+   "sport": "run",
+   "distancesKm": [
+    42.195
+   ],
+   "months": [
+    11
+   ],
+   "url": "https://www.kobe-marathon.net/",
+   "nextDate": "2026-11-15"
+  },
+  {
+   "name": "Fukuoka Marathon",
+   "nameZh": "福岡馬拉松",
+   "city": "Fukuoka",
+   "country": "Japan",
+   "sport": "run",
+   "distancesKm": [
+    42.195,
+    5.2
+   ],
+   "months": [
+    11
+   ],
+   "url": "https://www.f-marathon.jp/en/",
+   "nextDate": "2026-11-08"
+  },
+  {
+   "name": "Hokkaido Marathon",
+   "nameZh": "北海道馬拉松",
+   "city": "Sapporo",
+   "country": "Japan",
+   "sport": "run",
+   "distancesKm": [
+    42.195
+   ],
+   "months": [
+    8
+   ],
+   "url": "https://www.hokkaido-marathon.com/",
+   "nextDate": null
+  },
+  {
+   "name": "NAHA Marathon",
+   "nameZh": "那霸馬拉松",
+   "city": "Naha",
+   "country": "Japan",
+   "sport": "run",
+   "distancesKm": [
+    42.195
+   ],
+   "months": [
+    12
+   ],
+   "url": "https://www.naha-marathon.jp/",
+   "nextDate": "2026-12-06"
+  },
+  {
+   "name": "Tokyo Legacy Half",
+   "nameZh": null,
+   "city": "Tokyo",
+   "country": "Japan",
+   "sport": "run",
+   "distancesKm": [
+    21.0975
+   ],
+   "months": [
+    10
+   ],
+   "url": "https://www.legacyhalf.tokyo/en/",
+   "nextDate": null
+  },
+  {
+   "name": "Yokohama Marathon",
+   "nameZh": "橫濱馬拉松",
+   "city": "Yokohama",
+   "country": "Japan",
+   "sport": "run",
+   "distancesKm": [
+    42.195,
+    20.3,
+    7
+   ],
+   "months": [
+    10
+   ],
+   "url": "https://www.yokohamamarathon.jp/",
+   "nextDate": "2026-10-25"
+  },
+  {
+   "name": "Kanazawa Marathon",
+   "nameZh": "金澤馬拉松",
+   "city": "Kanazawa",
+   "country": "Japan",
+   "sport": "run",
+   "distancesKm": [
+    42.195
+   ],
+   "months": [
+    10
+   ],
+   "url": "https://kanazawa-marathon.jp/",
+   "nextDate": null
+  },
+  {
+   "name": "Shizuoka Marathon",
+   "nameZh": "靜岡馬拉松",
+   "city": "Shizuoka",
+   "country": "Japan",
+   "sport": "run",
+   "distancesKm": [
+    42.195,
+    11.6
+   ],
+   "months": [
+    3
+   ],
+   "url": "https://www.shizuoka-marathon.com/",
+   "nextDate": "2027-03-14"
+  },
+  {
+   "name": "Ehime Marathon",
+   "nameZh": "愛媛馬拉松",
+   "city": "Matsuyama",
+   "country": "Japan",
+   "sport": "run",
+   "distancesKm": [
+    42.195
+   ],
+   "months": [
+    2
+   ],
+   "url": "https://www.ehimemarathon.jp/",
+   "nextDate": "2027-02-07"
+  },
+  {
+   "name": "Kagawa Marugame International Half Marathon",
+   "nameZh": "香川丸龜國際半程馬拉松",
+   "city": "Marugame",
+   "country": "Japan",
+   "sport": "run",
+   "distancesKm": [
+    21.0975,
+    3
+   ],
+   "months": [
+    2
+   ],
+   "url": "https://www.km-half.com/",
+   "nextDate": "2027-02-07"
+  },
+  {
+   "name": "Kagoshima Marathon",
+   "nameZh": "鹿兒島馬拉松",
+   "city": "Kagoshima",
+   "country": "Japan",
+   "sport": "run",
+   "distancesKm": [
+    42.195,
+    8.9
+   ],
+   "months": [
+    3
+   ],
+   "url": "https://www.kagoshima-marathon.jp/",
+   "nextDate": "2027-03-07"
+  },
+  {
+   "name": "Gunma Marathon",
+   "nameZh": "群馬馬拉松",
+   "city": "Maebashi",
+   "country": "Japan",
+   "sport": "run",
+   "distancesKm": [
+    42.195,
+    10,
+    4.2
+   ],
+   "months": [
+    11
+   ],
+   "url": "https://g-marathon.com/",
+   "nextDate": "2026-11-03"
+  },
+  {
+   "name": "Saitama Marathon",
+   "nameZh": "埼玉馬拉松",
+   "city": "Saitama",
+   "country": "Japan",
+   "sport": "run",
+   "distancesKm": [
+    42.195
+   ],
+   "months": [
+    2
+   ],
+   "url": "https://saitama-marathon.jp/",
+   "nextDate": "2027-02-14"
+  },
+  {
+   "name": "Sendai International Half Marathon",
+   "nameZh": "仙台國際半程馬拉松",
+   "city": "Sendai",
+   "country": "Japan",
+   "sport": "run",
+   "distancesKm": [
+    21.0975
+   ],
+   "months": [
+    5
+   ],
+   "url": "https://www.sendaihalf.com/",
+   "nextDate": null
+  },
+  {
+   "name": "Biwako Marathon",
+   "nameZh": "琵琶湖馬拉松",
+   "city": "Otsu",
+   "country": "Japan",
+   "sport": "run",
+   "distancesKm": [
+    42.195
+   ],
+   "months": [
+    3
+   ],
+   "url": "https://biwako-marathon.com/",
+   "nextDate": "2027-03-14"
+  },
+  {
+   "name": "Kumamoto Castle Marathon",
+   "nameZh": "熊本城馬拉松",
+   "city": "Kumamoto",
+   "country": "Japan",
+   "sport": "run",
+   "distancesKm": [
+    42.195
+   ],
+   "months": [
+    2
+   ],
+   "url": "https://www.kumamotojyo-marathon.jp/",
+   "nextDate": null
+  },
+  {
+   "name": "Okinawa Marathon",
+   "nameZh": "沖繩馬拉松",
+   "city": "Okinawa",
+   "country": "Japan",
+   "sport": "run",
+   "distancesKm": [
+    42.195,
+    10
+   ],
+   "months": [
+    2
+   ],
+   "url": "https://okinawa-marathon.com/",
+   "nextDate": "2027-02-21"
+  },
+  {
+   "name": "Mt. Fuji Hill Climb",
+   "nameZh": null,
+   "city": "Fujiyoshida",
+   "country": "Japan",
+   "sport": "bike",
+   "distancesKm": [
+    24
+   ],
+   "months": [
+    6
+   ],
+   "url": "https://www.fujihc.jp/",
+   "nextDate": null
+  },
+  {
+   "name": "Tour de Okinawa",
+   "nameZh": null,
+   "city": "Nago",
+   "country": "Japan",
+   "sport": "bike",
+   "distancesKm": [
+    200,
+    163,
+    140,
+    100,
+    90,
+    50
+   ],
+   "months": [
+    11
+   ],
+   "url": "https://www.tour-de-okinawa.jp/",
+   "nextDate": "2026-11-07"
+  },
+  {
+   "name": "parkrun",
+   "nameZh": null,
+   "city": "Anywhere",
+   "country": "",
+   "sport": "run",
+   "distancesKm": [
+    5
+   ],
+   "months": [],
+   "url": "https://www.parkrun.com",
+   "nextDate": null
+  }
+ ]
+}
