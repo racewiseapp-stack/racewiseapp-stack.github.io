@@ -256,3 +256,7 @@ nav a { margin-right: 0; }
   .stat .num { font-size: 34px; }
   .garmin { padding: 20px; }
 }
+
+/* 3D exercise figure clip (recorded from the app, light card as in the app) */
+.viz.move { background: #ffffff; padding: 0; overflow: hidden; }
+.viz.move video { display: block; width: 100%; height: auto; aspect-ratio: 640 / 392; }
