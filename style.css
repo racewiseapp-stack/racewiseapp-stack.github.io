@@ -1,5 +1,5 @@
-:root { --ink:#16181D; --muted:#5b6070; --line:#e3e5ea; --volt:#D4F53C; --deep:#577300; --bg:#ffffff; --soft:#f6f8ee; --card:#ffffff; --hero:#eef6cf; --contour-opacity:1; }
-@media (prefers-color-scheme: dark) { :root { --ink:#f1f2f4; --muted:#a3a8b5; --line:#2c2f36; --deep:#D4F53C; --bg:#111316; --soft:#1a1d22; --card:#1a1d22; --hero:#1b2010; --contour-opacity:.6; } }
+:root { --ink:#16181D; --muted:#5b6070; --line:#e3e5ea; --volt:#D4F53C; --accent:#577300; --on-accent:#FFFFFF; --deep:var(--accent); --bg:#f2f3f5; --soft:#ffffff; --card:#f2f3f5; --hero:#eef6cf; --contour-opacity:1; --phase-base:#A7ADB6; --phase-build:#7D9A1E; --phase-taper:#C2E22E; --r-card:20px; --r-ctl:14px; --rounded: ui-rounded, "SF Pro Rounded", -apple-system, BlinkMacSystemFont, sans-serif; }
+@media (prefers-color-scheme: dark) { :root { --ink:#f1f2f4; --muted:#a3a8b5; --line:#2c2f36; --accent:#D4F53C; --on-accent:#000000; --bg:#0d0e10; --soft:#1c1d21; --card:#2a2c31; --hero:#1b2010; --contour-opacity:.6; --phase-base:#5B616B; --phase-build:#7E9E1C; --phase-taper:#B8D92E; } }
 * { box-sizing: border-box; }
 html { scroll-behavior: smooth; }
 body { margin:0; background:var(--bg); color:var(--ink); font: 17px/1.6 -apple-system, BlinkMacSystemFont, "PingFang HK", "PingFang TC", "Helvetica Neue", sans-serif; -webkit-font-smoothing: antialiased; }
@@ -184,3 +184,75 @@ nav a { margin-right: 0; }
 .minis { grid-template-columns: repeat(3, 1fr); }
 @media (max-width: 860px) { .minis { grid-template-columns: 1fr 1fr; } }
 @media (max-width: 560px) { .minis { grid-template-columns: 1fr; } }
+
+/* ---------- Brand guide alignment (docs/brand.html, 2026-10-23) ---------- */
+.card, .support .card { border-radius: var(--r-card); }
+.btn-primary { background: var(--accent); color: var(--on-accent); }
+.btn-primary .dot { display: none; }
+.eyebrow { color: var(--accent); }
+.eyebrow::before { background: var(--accent); box-shadow: 0 0 0 4px color-mix(in srgb, var(--accent) 22%, transparent); }
+.feature .ico { background: var(--accent); }
+.feature .ico svg { stroke: var(--on-accent); }
+.spot { border-radius: var(--r-card); }
+.viz { border-radius: var(--r-ctl); border: none; }
+.wd.hard { background: var(--accent); }
+.wd.hard .d, .wd.hard .t { color: var(--on-accent); }
+.wd { background: var(--soft); }
+.chat .bubble { border-radius: var(--r-ctl) var(--r-ctl) var(--r-ctl) 4px; background: var(--soft); }
+.chat .bubble b { background: color-mix(in srgb, var(--accent) 16%, transparent); }
+.chat-meta .ok { background: var(--accent); color: var(--on-accent); }
+.mini { border-top-color: var(--accent); }
+.privacy-band { border-radius: var(--r-card); }
+.m-chips i.on { background: var(--accent); border-color: var(--accent); color: var(--on-accent); }
+.m-chips i { border-color: color-mix(in srgb, var(--muted) 35%, transparent); }
+/* Training phases, as in the app's phase bar */
+.ramp .bars span.base { background: var(--phase-base); }
+.ramp .bars span.build { background: var(--phase-build); }
+.ramp .bars span.taper { background: var(--phase-taper); }
+.ramp .bars span.down { opacity: .5; }
+.ramp-legend .sw.base { background: var(--phase-base); }
+.ramp-legend .sw.build { background: var(--phase-build); }
+.ramp-legend .sw.taper { background: var(--phase-taper); }
+.ramp-note { margin: 10px 0 0; font-size: 13px; color: var(--muted); }
+
+/* Launch facts: big numbers in SF Rounded, like the app */
+.launch { margin-top: 40px; background: var(--soft); border-radius: var(--r-card); padding: 24px; }
+.stats { display: grid; grid-template-columns: repeat(4, 1fr); gap: 16px; }
+.stat { display: flex; flex-direction: column; }
+.stat .num { font-family: var(--rounded); font-weight: 800; font-size: 40px; line-height: 1.05; color: var(--accent); font-variant-numeric: tabular-nums; letter-spacing: -0.5px; }
+.stat .lbl { font-size: 14px; color: var(--muted); }
+.launch .where { margin: 16px 0 0; padding-top: 16px; border-top: 1px solid var(--line); font-size: 15px; color: var(--muted); }
+.launch .where b { color: var(--ink); }
+
+/* Hiking route profile */
+.hike .profile { width: 100%; height: auto; display: block; }
+.hike .profile .area { fill: color-mix(in srgb, var(--phase-build) 22%, transparent); }
+.hike .profile .line { fill: none; stroke: var(--phase-build); stroke-width: 3; stroke-linejoin: round; }
+.hike .profile circle { fill: var(--accent); }
+.hike-meta { display: flex; flex-wrap: wrap; gap: 6px 18px; margin-top: 12px; font-size: 14px; color: var(--muted); }
+.hike-meta b { font-family: var(--rounded); color: var(--ink); font-size: 17px; }
+
+/* Weather card */
+.weather .w-top { display: flex; align-items: baseline; gap: 12px; margin-bottom: 8px; }
+.weather .w-temp { font-family: var(--rounded); font-weight: 800; font-size: 44px; line-height: 1; }
+.weather .w-sub { color: var(--muted); font-size: 14px; }
+.weather .w-row { display: flex; justify-content: space-between; gap: 12px; padding: 10px 0; border-top: 1px solid var(--line); font-size: 15px; }
+.weather .w-row span { color: var(--muted); }
+.weather .w-row b { font-variant-numeric: tabular-nums; }
+
+/* Garmin */
+.garmin { margin-top: 56px; display: grid; grid-template-columns: 1.4fr auto; gap: 24px 32px; align-items: center; background: var(--soft); border-radius: var(--r-card); padding: 32px; }
+.garmin h2 { font-size: clamp(24px, 3vw, 32px); letter-spacing: -0.6px; line-height: 1.15; margin: 8px 0 10px; }
+.garmin p { margin: 0; color: var(--muted); }
+.badge-link img { display: block; width: 240px; max-width: 100%; height: auto; }
+
+@media (max-width: 860px) {
+  .stats { grid-template-columns: repeat(2, 1fr); }
+  .garmin { grid-template-columns: 1fr; padding: 24px; }
+}
+@media (max-width: 560px) {
+  .wrap { padding: 0 16px; }
+  .launch { padding: 20px; }
+  .stat .num { font-size: 34px; }
+  .garmin { padding: 20px; }
+}
