@@ -32,8 +32,8 @@ footer { margin-top: 48px; border-top: 1px solid var(--line); padding-top: 16px;
 .topbar nav a:hover { color: var(--ink); }
 
 .hero { position: relative; overflow: hidden; background: linear-gradient(180deg, var(--hero) 0%, var(--bg) 100%); }
-.hero::before { content:""; position:absolute; inset:0; background: url(img/contours.svg) center top / cover no-repeat; opacity: var(--contour-opacity); pointer-events:none; }
-.zh .hero::before { background-image: url(../img/contours.svg); }
+.hero::before { content:""; position:absolute; inset:0; background: url(img/track-lanes.svg) right top / cover no-repeat; opacity: var(--contour-opacity); pointer-events:none; }
+.zh .hero::before { background-image: url(../img/track-lanes.svg); }
 .hero .wrap { position: relative; display:grid; grid-template-columns: 1.05fr 1fr; gap: 32px; align-items: center; padding-top: 56px; padding-bottom: 24px; }
 .eyebrow { display:inline-flex; align-items:center; gap:8px; font-size: 14px; font-weight: 700; color: var(--deep); text-transform: uppercase; letter-spacing: .08em; }
 .eyebrow::before { content:""; width:8px; height:8px; border-radius:50%; background: var(--volt); box-shadow: 0 0 0 4px color-mix(in srgb, var(--volt) 35%, transparent); }
@@ -259,4 +259,48 @@ nav a { margin-right: 0; }
 
 /* 3D exercise figure clip (recorded from the app, light card as in the app) */
 .viz.move { background: #ffffff; padding: 0; overflow: hidden; }
-.viz.move video { display: block; width: 100%; height: auto; aspect-ratio: 640 / 392; }
+.viz.move video { display: block; width: 100%; height: auto; aspect-ratio: 640 / 384; }
+
+/* ---------- Brand guide 25/10: track lanes, condensed display numbers, own pictograms, track green ---------- */
+:root { --track: #12291A; --display: -apple-system, BlinkMacSystemFont, "SF Pro Display", "Helvetica Neue", Arial, sans-serif; }
+.stat .num, .weather .w-temp, .hike-meta b { font-family: var(--display); font-weight: 900; font-stretch: condensed; letter-spacing: -0.5px; }
+.hero h1 { font-family: var(--display); font-weight: 900; font-stretch: condensed; letter-spacing: -1px; }
+.picto { width: 1.25em; height: 1.25em; flex: none; display: inline-block; vertical-align: -0.25em; }
+.sports span { align-items: center; }
+.sports .picto { width: 20px; height: 20px; color: var(--accent); }
+.feature .ico .picto { width: 26px; height: 26px; color: var(--on-accent); }
+.feature .ico svg { stroke: none; }
+.feature .ico svg.picto[stroke], .feature .ico svg.picto { stroke: currentColor; }
+.wd .s .picto { width: 24px; height: 24px; color: var(--accent); }
+.wd.hard .s .picto { color: var(--on-accent); }
+.m-sport .picto { width: 24px; height: 24px; color: var(--accent); }
+.m-sport { line-height: 0; padding-top: 3px; }
+.pro-tag { display: inline-block; margin-left: 8px; padding: 1px 8px; border-radius: 999px; font-size: 11px; font-weight: 800; letter-spacing: .04em; text-transform: none; color: var(--accent); border: 1.5px solid var(--accent); vertical-align: 2px; }
+.mini h4 .pro-tag { vertical-align: 1px; }
+.eyebrow .pro-tag { margin-left: 10px; }
+/* Routes */
+.routes .r-row { display: flex; align-items: center; gap: 12px; padding: 10px 0; border-top: 1px solid var(--line); font-size: 15px; }
+.routes .r-row:first-child { border-top: none; }
+.routes .r-row span:nth-child(2) { flex: 1; color: var(--muted); }
+.routes .r-row b { font-variant-numeric: tabular-nums; }
+.r-shape { width: 30px; height: 22px; border: 2px solid var(--phase-build); flex: none; }
+.r-shape.loop { border-radius: 50%; }
+.r-shape.outback { border: none; border-top: 2px solid var(--phase-build); height: 2px; position: relative; }
+.r-shape.outback::after { content: ""; position: absolute; right: -2px; top: -5px; width: 8px; height: 8px; border-radius: 50%; background: var(--accent); }
+/* Free and Pro */
+.plans { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+.plan-col { background: var(--soft); border-radius: var(--r-card); padding: 24px; }
+.plan-col h3 { margin: 0 0 12px; font-size: 20px; }
+.plan-col.pro { background: var(--track); color: #f1f2f4; }
+.plan-col.pro h3 { color: #fff; }
+.ticks { list-style: none; margin: 0; padding: 0; display: grid; gap: 10px; }
+.ticks li { display: flex; gap: 10px; align-items: baseline; font-size: 16px; }
+.ticks li::before { content: "✓"; flex: none; width: 20px; height: 20px; border-radius: 50%; display: inline-grid; place-items: center; font-size: 12px; background: var(--accent); color: var(--on-accent); transform: translateY(2px); }
+.plan-col.pro .ticks li::before { background: var(--volt); color: #000; }
+.plan-note { margin: 16px 0 0; font-size: 14px; color: #b8bcc6; }
+/* Privacy band and Pro card in track green with the lanes, as the app's session header */
+.privacy-band { background: var(--track) url(img/track-lanes-light.svg) right top / 900px auto no-repeat; }
+.zh .privacy-band { background-image: url(../img/track-lanes-light.svg); }
+@media (prefers-color-scheme: dark) { .privacy-band { background-color: var(--track); box-shadow: none; } }
+@media (max-width: 860px) { .plans { grid-template-columns: 1fr; } }
+.plan-col.pro .ticks li { color: #f1f2f4; }
