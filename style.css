@@ -304,3 +304,6 @@ nav a { margin-right: 0; }
 @media (prefers-color-scheme: dark) { .privacy-band { background-color: var(--track); box-shadow: none; } }
 @media (max-width: 860px) { .plans { grid-template-columns: 1fr; } }
 .plan-col.pro .ticks li { color: #f1f2f4; }
+.minis { grid-template-columns: repeat(4, 1fr); }
+@media (max-width: 860px) { .minis { grid-template-columns: 1fr 1fr; } }
+@media (max-width: 560px) { .minis { grid-template-columns: 1fr; } }
