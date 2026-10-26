@@ -215,3 +215,49 @@
   .v2 .privacy-strip { padding: 28px 22px; }
   .v2 .bar nav .hide-sm { display: none; }
 }
+
+/* ---------- Things to try (26/10) ---------- */
+.v2 .toggles { display: flex; flex-wrap: wrap; align-items: center; gap: 8px 10px; margin: -8px 0 22px; }
+.v2 .toggles[hidden] { display: none; }
+.v2 .toggles > span { font-weight: 700; font-size: 15px; margin-right: 4px; }
+.v2 .tog { display: inline-flex; align-items: center; gap: 8px; font: inherit; font-size: 15px; font-weight: 600; color: var(--ink); background: var(--soft); border: 1.5px solid var(--line); border-radius: 999px; padding: 7px 14px 7px 10px; cursor: pointer; }
+.v2 .tog .picto { width: 22px; height: 22px; }
+.v2 .tog:hover { border-color: var(--accent); }
+.v2 .tog[aria-pressed="true"] { background: var(--accent); border-color: var(--accent); color: var(--on-accent); }
+.v2 .tog[aria-pressed="true"] .picto, .v2 .tog[aria-pressed="true"] .pro { color: var(--on-accent); border-color: var(--on-accent); }
+.v2 .tog:focus-visible { outline: 3px solid var(--accent); outline-offset: 3px; }
+.v2 .tile.quiet { background: transparent; box-shadow: inset 0 0 0 1.5px var(--line); }
+.v2 .tile.quiet .picto { color: var(--muted); }
+.v2 .tile.hard { background: var(--track); color: #fff; }
+.v2 .tile.hard .picto { color: var(--volt); }
+.v2 .tile.hard span { color: rgba(255,255,255,.7); }
+.v2 .tile.moved { background: transparent; box-shadow: inset 0 0 0 1.5px var(--line); opacity: .55; }
+.v2 .tile.moved b { text-decoration: line-through; }
+.v2 .tile.eased { box-shadow: inset 0 -4px 0 var(--volt); }
+.v2 .week .v-ev { display: none; }
+.v2 .week.on-busy .v-ev.ev-busy, .v2 .week.on-hrv .v-ev.ev-hrv, .v2 .week.on-swim .v-ev.ev-swim { display: flex; }
+.v2 .week.on-busy .note.ev-busy, .v2 .week.on-hrv .note.ev-hrv, .v2 .week.on-swim .note.ev-swim { display: block; }
+.v2 .week.on-busy li:has(.ev-busy) .v-base, .v2 .week.on-hrv li:has(.ev-hrv) .v-base, .v2 .week.on-swim li:has(.ev-swim) .v-base { display: none; }
+.v2 .week-live { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); }
+@media (prefers-reduced-motion: no-preference) {
+  .v2 .week .v-ev { animation: pop .35s ease-out; }
+  @keyframes pop { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
+}
+@media (prefers-color-scheme: dark) { .v2 .tile.hard { background: #1d3b27; } }
+
+.v2 .heat label { display: grid; grid-template-columns: 1fr auto; align-items: center; gap: 2px 12px; margin-top: 12px; font-size: 14px; color: var(--muted); }
+.v2 .heat output { font-weight: 700; color: var(--ink); font-variant-numeric: tabular-nums; }
+.v2 .heat input[type=range] { grid-column: 1 / -1; width: 100%; accent-color: var(--accent); height: 28px; }
+.v2 .heat .wx span:last-child { font-size: 13px; }
+.v2 .heat[data-level="2"] [data-o="level"] { color: #b26b00; }
+.v2 .heat[data-level="3"] [data-o="level"] { color: #c0392b; }
+@media (prefers-color-scheme: dark) { .v2 .heat[data-level="2"] [data-o="level"] { color: #ffb340; } .v2 .heat[data-level="3"] [data-o="level"] { color: #ff6b5e; } }
+.v2 .heat dd[data-o="level"] { text-align: right; max-width: 18em; }
+
+.v2 .calc { display: flex; flex-wrap: wrap; align-items: flex-end; gap: 10px 14px; margin-top: 14px; padding: 14px 16px; border-radius: var(--r-ctl); background: var(--soft); }
+.v2 .calc label { display: flex; flex-direction: column; gap: 4px; font-size: 13px; color: var(--muted); }
+.v2 .calc label span { display: flex; align-items: center; gap: 6px; color: var(--ink); font-size: 15px; }
+.v2 .calc input { width: 88px; font: inherit; font-size: 16px; padding: 7px 10px; border-radius: 10px; border: 1.5px solid var(--line); background: var(--bg); color: var(--ink); }
+.v2 .calc input:focus-visible { outline: 3px solid var(--accent); outline-offset: 1px; border-color: var(--accent); }
+.v2 .calc output { font-size: 16px; color: var(--muted); padding-bottom: 8px; }
+.v2 .calc output b { font-family: var(--display); font-weight: 900; font-stretch: condensed; font-size: 30px; color: var(--accent); margin: 0 2px; }
