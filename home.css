@@ -261,3 +261,6 @@
 .v2 .calc input:focus-visible { outline: 3px solid var(--accent); outline-offset: 1px; border-color: var(--accent); }
 .v2 .calc output { font-size: 16px; color: var(--muted); padding-bottom: 8px; }
 .v2 .calc output b { font-family: var(--display); font-weight: 900; font-stretch: condensed; font-size: 30px; color: var(--accent); margin: 0 2px; }
+
+/* Pictograms are PNG masks (img/p), coloured with currentColor like the app's template images */
+.v2 span.picto { display: inline-block; background-color: currentColor; -webkit-mask: var(--p) center / contain no-repeat; mask: var(--p) center / contain no-repeat; }
