@@ -264,3 +264,17 @@
 
 /* Pictograms are PNG masks (img/p), coloured with currentColor like the app's template images */
 .v2 span.picto { display: inline-block; background-color: currentColor; -webkit-mask: var(--p) center / contain no-repeat; mask: var(--p) center / contain no-repeat; }
+
+/* Japanese and Korean pages (short version, 27/10) */
+.v2.jk .jk-hero { grid-template-columns: 1fr; max-width: 760px; }
+.v2.jk .bib h1 { font-size: clamp(34px, 5.4vw, 60px); line-height: 1.15; letter-spacing: 0; }
+.v2 .jk-intro { font-size: clamp(19px, 2.2vw, 23px); line-height: 1.6; max-width: 36em; }
+.v2 .jk-shots { display: flex; gap: 14px; overflow-x: auto; scroll-snap-type: x mandatory; padding: 6px 2px 16px; margin-top: 18px; }
+.v2 .jk-shots img { flex: none; width: min(230px, 62vw); height: auto; border-radius: var(--r-ctl); scroll-snap-align: start; box-shadow: 0 10px 26px -16px rgba(0,0,0,.45); }
+.v2 .jk-shots:focus-visible { outline: 3px solid var(--accent); outline-offset: 4px; border-radius: var(--r-ctl); }
+.v2 .jk-feats { display: grid; grid-template-columns: repeat(2, 1fr); gap: 36px 48px; }
+.v2 .jk-feat h3 { font-size: 20px; margin-bottom: 12px; }
+.v2 .jk-feat .ticks li { font-size: 16px; color: var(--ink); }
+.v2.jk .pro-plan p { color: #c9cdd4; }
+@media (max-width: 900px) { .v2 .jk-feats { grid-template-columns: 1fr; } .v2.jk .jk-hero { padding-bottom: 48px; } }
+.v2.jk .bib h1 { word-break: keep-all; }
