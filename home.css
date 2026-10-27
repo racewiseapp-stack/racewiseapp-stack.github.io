@@ -278,7 +278,8 @@
 .v2.jk .pro-plan p { color: #c9cdd4; }
 @media (max-width: 900px) { .v2 .jk-feats { grid-template-columns: 1fr; } .v2.jk .jk-hero { padding-bottom: 48px; } }
 .v2.jk .bib h1 { word-break: keep-all; }
-.v2 .help .faq { margin: 20px 0 24px; max-width: 44em; border-top: 1px solid var(--line); }
+.v2 .help .faq { margin: 28px 0 24px; max-width: 44em; }
+.v2 .help .faq h3 { margin: 0 0 8px; padding-bottom: 12px; border-bottom: 1px solid var(--line); }
 .v2 .help .faq details { border-bottom: 1px solid var(--line); }
 .v2 .help .faq summary { cursor: pointer; padding: 14px 0; font-weight: 600; color: var(--ink); }
 .v2 .help .faq details p { margin: 0 0 16px; color: var(--muted); }
