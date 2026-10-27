@@ -1,0 +1,3 @@
+/* Launch switch. Before release: the "coming in November" text shows and the App Store badge, QR code and link stay hidden.
+   On release day, swap the two rules below (hide .pre-launch, show .post-launch). Nothing else needs changing. */
+.post-launch { display: none !important; }
