@@ -330,3 +330,5 @@ nav a { margin-right: 0; }
 .press-note { font-size: 13px; color: var(--muted); margin-top: 24px; }
 @media (max-width: 860px) { .press-grid { grid-template-columns: 1fr; } .press-shots { grid-template-columns: repeat(3, 1fr); } }
 @media (max-width: 560px) { .press-shots { grid-template-columns: repeat(2, 1fr); } }
+footer a.social { display: inline-flex; align-items: center; vertical-align: middle; text-decoration: none; margin: 0 2px; }
+footer a.social svg { width: 20px; height: 20px; fill: currentColor; }
