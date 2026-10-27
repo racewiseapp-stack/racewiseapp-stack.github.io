@@ -285,3 +285,8 @@
 .v2 .help .faq details { border-bottom: 1px solid var(--line); }
 .v2 .help .faq summary { cursor: pointer; padding: 14px 0; font-weight: 600; color: var(--ink); }
 .v2 .help .faq details p { margin: 0 0 16px; color: var(--muted); }
+
+/* Why I built RaceWise (story.html): prose in full ink, a little larger. */
+.v2 .story { max-width: 36em; margin: 0 0 48px; }
+.v2 .help .story p { color: var(--ink); font-size: 1.12em; line-height: 1.65; margin: 0 0 1.1em; }
+.v2 .help .story p.sign { color: var(--muted); margin-top: 1.6em; }
