@@ -65,6 +65,9 @@
 .v2 .day.eased .tile { box-shadow: inset 0 -4px 0 var(--phase-taper); }
 .v2 .note { margin: 2px 0 0; padding: 8px 0 0 10px; border-left: 2px solid var(--accent); font-size: 13px; line-height: 1.45; color: var(--ink); }
 .v2 .note .pro { margin-left: 4px; vertical-align: 1px; }
+.v2 .ios { display: inline-flex; align-items: center; gap: 4px; margin-left: 8px; padding: 0 7px; border-radius: 999px; border: 1.5px solid var(--muted); color: var(--muted); font-size: 11px; font-weight: 800; line-height: 18px; vertical-align: 3px; white-space: nowrap; }
+.v2 .ios svg { width: 7px; height: 11px; fill: none; stroke: currentColor; stroke-width: 1.6; }
+.v2 .note .ios { margin-left: 4px; vertical-align: 1px; }
 
 /* One sentence about Free */
 .v2 .statement { padding-top: 72px; }
