@@ -309,3 +309,6 @@
   .v2 .course .dot { width: 40px; height: 40px; } .v2 .course .dot .picto { width: 22px; height: 22px; }
   .v2 .course::before { left: 19px; }
 }
+
+/* Android coming soon (no date): under the hero buttons. */
+.v2 .hero .soon { margin: 14px 0 0; font-size: 15px; font-weight: 600; color: rgba(255,255,255,.72); }
