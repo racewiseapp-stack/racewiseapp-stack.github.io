@@ -76,7 +76,12 @@
   <li><b>Backup:</b> instead of iCloud, Android’s own backup (if you have it turned on) copies your plans, workouts and settings to your private Google Drive backup, encrypted. Health readings from Health Connect are never included; after a restore, RaceWise reads them from Health Connect again.</li>
   <li><b>Export:</b> a file with your RaceWise data is only made when you choose <b>Settings › Export data</b>, and it’s saved where you choose.</li>
   <li><b>Garmin</b> uses Google sign-in instead of Sign in with Apple; the server keeps the same items as above, with a private Google ID instead of an Apple one.</li>
+  <li><b>Weather</b> comes from Google instead of Apple: if you turn weather on, your location, rounded to about 10 km, is sent from your phone to Google’s weather service. RaceWise doesn’t save it, and nothing goes to RaceWise’s server.</li>
+  <li><b>Route suggestions</b> come from Google Maps instead of Apple Maps: when you ask for a route, your location is sent from your phone to Google to find routes of the right length. RaceWise doesn’t save it, and nothing goes to RaceWise’s server.</li>
+  <li><b>Coach:</b> there’s no on-device AI model on Android. The coach uses RaceWise’s built-in rules on your phone, and races can’t be read from a photo.</li>
+  <li><b>Crash reports:</b> the Android app sends none of its own. Google Play may collect crash and performance reports (Android vitals) under Google’s own settings and privacy policy.</li>
 </ul>
+<p>Google’s handling of weather, route, sign-in and Play data is covered by <a href="https://policies.google.com/privacy" rel="noopener">Google’s privacy policy</a>.</p>
 
 <h2 id="delete">Deleting your data</h2>
 <p>In RaceWise, <b>Settings › Delete all data</b> removes your races, plans, workouts, check-ins and profile from your iPhone and, through iCloud, from your other devices. It also removes RaceWise reminders and sessions sent to your Apple Watch, and stops reading Apple Health. Apple Health itself isn't changed. If your iPhone is offline, the deletion reaches iCloud when it's back online; if iCloud isn't available, RaceWise tells you and asks you to finish deleting later. If you connected Garmin, it also deletes your account and Garmin link from RaceWise's server and tells Garmin.</p>
