@@ -7,7 +7,7 @@
 </head>
 <body><main>
 <header><img src="../icon.png" alt=""><div><h1>개인정보 처리방침</h1><nav><a href="./">RaceWise</a><details class="lang"><summary><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3a14 14 0 0 1 0 18M12 3a14 14 0 0 0 0 18"/></svg><span>언어</span><svg class="chev" viewBox="0 0 24 24" aria-hidden="true"><path d="M6 9l6 6 6-6"/></svg></summary><div class="lang-menu"><a href="../privacy.html" lang="en">English</a><a href="../zh/privacy.html" lang="zh-Hant">中文</a><a href="../ja/privacy.html" lang="ja">日本語</a><a href="../ko/privacy.html" lang="ko" aria-current="page">한국어</a></div></details></nav></div></header>
-<p class="muted">시행일: 2026년 10월 26일</p>
+<p class="muted">시행일: 2026년 10월 30일</p>
 <p><b>요약:</b> RaceWise는 분석 도구를 사용하지 않습니다. 훈련 데이터는 사용자의 iPhone과 사용자 본인의 비공개 iCloud에만 저장되며, 개발자가 받지 않습니다. RaceWise 서버는 Garmin을 연결한 경우(계정 연결에 필요한 정보만 보관합니다. 아래 ‘Garmin’ 참고), 의견을 보낸 경우, 그리고 충돌 보고서(끌 수 있습니다. 아래 ‘의견 및 충돌 보고서’ 참고)에만 사용됩니다.</p>
 <h2>RaceWise가 보관하는 정보와 위치</h2>
 <ul><li><b>iPhone:</b> 대회, 계획, 운동 기록(직접 기록했거나 Apple 건강에서 가져온 것으로 날짜, 거리, 시간, 평균·최대 심박수 포함), 컨디션 체크(피로, 근육통, 통증), 훈련일, 훈련 방식, 프로필(예: 직접 입력했거나 생년월일로 계산한 나이, 부상 이력, 직접 입력했거나 Apple 건강에서 감지한 최대 심박수와 안정 시 심박수).</li><li><b>사용자의 비공개 iCloud:</b> 이 항목들은 Apple의 iCloud를 통해 사용자의 다른 기기와 동기화되며, 사용자의 Apple 계정만 읽을 수 있는 비공개 데이터베이스에 저장됩니다. <b>심박수 정보는 동기화되지 않습니다:</b> Apple 건강에서 가져온 운동의 심박수, 최대 심박수와 안정 시 심박수, 심박수 구간, 매일의 안정 시 심박수·HRV·수면 수치, 그리고 이를 바탕으로 한 주의 표시는 읽어 들인 iPhone에만 남습니다. 각 기기는 자신의 데이터를 사용합니다. 이 데이터로 가벼워진 세션은 계획의 일부로 동기화됩니다. 운동 기록에 직접 입력한 심박수는 해당 기록과 함께 동기화됩니다. iCloud를 사용할 수 없으면 모든 정보가 iPhone에만 저장됩니다.</li></ul>
@@ -46,9 +46,24 @@
 <p>TestFlight로 테스트하는 경우, Apple은 TestFlight 약관에 따라 충돌 보고서와 사용자가 보내기로 선택한 의견을 개발자와 공유할 수 있습니다.</p>
 <h2>데이터 보관 기간</h2>
 <p>RaceWise는 사용자가 삭제할 때까지 데이터를 보관합니다. 계획의 이전 버전은 기록으로 남습니다. 매일의 회복 수치는 최근 30일분이며 동기화할 때마다 교체됩니다. iPhone 자체 백업(iCloud 백업 또는 컴퓨터)에는 설정에 따라 해당 iPhone의 RaceWise 데이터가 포함될 수 있습니다.</p>
-<h2>데이터 삭제</h2>
+<h2>Android 버전</h2>
+<p>Android용 RaceWise도 같은 방식으로 작동하며, 다음이 다릅니다.</p>
+<ul>
+  <li><b>헬스 커넥트</b>가 Apple 건강을 대신합니다. 허락하면 RaceWise는 같은 종류의 데이터(거리, 시간, 상승 고도, 심박수를 포함한 운동 기록과 안정 시 심박수, 심박 변이도, 수면)를 읽습니다. 읽기만 하며, RaceWise는 헬스 커넥트에 아무것도 쓰지 않고 읽은 데이터는 휴대전화에만 남습니다.</li>
+  <li><b>백업:</b> iCloud 대신 Android 자체 백업을 사용합니다. 백업을 켜 두었다면 계획, 운동 기록, 설정이 사용자 전용 Google 드라이브 백업에 암호화되어 복사됩니다. 헬스 커넥트의 건강 데이터는 절대 포함되지 않으며, 복원 후 RaceWise가 헬스 커넥트에서 다시 읽습니다.</li>
+  <li><b>내보내기:</b> RaceWise 데이터 파일은 ‘설정 › 데이터 내보내기’를 선택할 때만 만들어지고, 사용자가 고른 위치에 저장됩니다.</li>
+  <li><b>Garmin</b>은 ‘Apple로 로그인’ 대신 Google 로그인을 사용합니다. 서버가 보관하는 항목은 위와 같으며, Apple ID 대신 비공개 Google ID를 사용합니다.</li>
+  <li><b>날씨</b>는 Apple이 아니라 Google이 제공합니다. 날씨를 켜면 약 10km 단위로 반올림한 위치가 휴대전화에서 Google 날씨 서비스로 전송됩니다. RaceWise는 이를 저장하지 않으며 RaceWise 서버로 보내지도 않습니다.</li>
+  <li><b>경로 추천</b>은 Apple 지도가 아니라 Google 지도가 제공합니다. 경로를 요청하면 알맞은 길이의 경로를 찾기 위해 위치가 휴대전화에서 Google로 전송됩니다. RaceWise는 이를 저장하지 않으며 RaceWise 서버로 보내지도 않습니다.</li>
+  <li><b>코치:</b> Android 버전에는 기기 내 AI 모델이 없습니다. 코치는 RaceWise에 내장된 규칙으로 휴대전화에서 작동하며, 사진으로 대회를 읽어 올 수 없습니다.</li>
+  <li><b>충돌 보고서:</b> Android 앱 자체는 충돌 보고서를 보내지 않습니다. Google Play가 Google의 설정과 개인정보처리방침에 따라 충돌 및 성능 보고서(Android vitals)를 수집할 수 있습니다.</li>
+</ul>
+<p>날씨, 경로, 로그인, Play 관련 데이터를 Google이 어떻게 처리하는지는 <a href="https://policies.google.com/privacy" rel="noopener">Google 개인정보처리방침</a>을 참고하세요.</p>
+
+<h2 id="delete">데이터 삭제</h2>
 <p>RaceWise의 ‘설정 › 모든 데이터 삭제’를 사용하면 대회, 계획, 운동 기록, 컨디션 체크, 프로필이 iPhone에서, 그리고 iCloud를 통해 다른 기기에서도 삭제됩니다. RaceWise 리마인더와 Apple Watch로 보낸 세션도 삭제되고, Apple 건강 읽기도 멈춥니다. Apple 건강의 데이터 자체는 바뀌지 않습니다. iPhone이 오프라인이면 다시 온라인이 될 때 iCloud에 반영됩니다. iCloud를 사용할 수 없으면 RaceWise가 이를 알리고 나중에 삭제를 마치도록 안내합니다. Garmin을 연결했다면 RaceWise 서버에서 사용자 계정과 Garmin 연결도 삭제하고 Garmin에 알립니다.</p>
 <p>앱을 삭제하면 해당 iPhone의 데이터만 지워지며, iCloud의 사본은 남습니다. 건강, 위치, Apple Watch 접근 권한은 언제든지 ‘설정’에서 취소할 수 있습니다.</p>
+<p>Android에서도 ‘설정 › 모든 데이터 삭제’로 휴대전화의 데이터가 같은 방식으로 삭제됩니다(iCloud 사본은 없습니다). 앱 없이 계정을 삭제하는 방법을 포함한 단계별 안내는 <a href="../delete-account.html">Delete your account or data</a>(영어)를 참고하세요.</p>
 <h2>문의</h2>
 <p>문의: <a href="mailto:racewiseapp@gmail.com">racewiseapp@gmail.com</a>. 이 방침이 바뀌면 새 날짜와 함께 이 페이지에 게시합니다.</p>
 <p class="muted">이 한국어 버전은 영어 버전을 번역한 것입니다. 내용이 다를 경우 영어 버전이 우선합니다.</p>

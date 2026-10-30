@@ -7,7 +7,7 @@
 </head>
 <body><main>
 <header><img src="../icon.png" alt=""><div><h1>私隱政策</h1><nav><a href="./">RaceWise</a><details class="lang"><summary><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3a14 14 0 0 1 0 18M12 3a14 14 0 0 0 0 18"/></svg><span>語言</span><svg class="chev" viewBox="0 0 24 24" aria-hidden="true"><path d="M6 9l6 6 6-6"/></svg></summary><div class="lang-menu"><a href="../privacy.html" lang="en">English</a><a href="privacy.html" lang="zh-Hant" aria-current="page">中文</a><a href="../ja/privacy.html" lang="ja">日本語</a><a href="../ko/privacy.html" lang="ko">한국어</a></div></details></nav></div></header>
-<p class="muted">生效日期：2026 年 10 月 26 日</p>
+<p class="muted">生效日期：2026 年 10 月 30 日</p>
 
 <p><b>簡單來說：</b>RaceWise 沒有任何分析工具。你的訓練資料只留在你的 iPhone 和你自己的私人 iCloud，開發者不會收到。RaceWise 的伺服器只會在以下情況使用：你連結 Garmin（只保存連結帳戶所需的資料，見下方「Garmin」）、你傳送意見，以及傳送當機報告（可以關閉，見下方「意見回饋及當機報告」）。</p>
 
@@ -69,9 +69,24 @@
 <h2>資料保存多久</h2>
 <p>RaceWise 會保存你的資料，直到你刪除為止。舊版本的訓練計畫會作為紀錄保留。每日恢復數據只涵蓋最近 30 天，每次同步時更新。你 iPhone 本身的備份（iCloud 備份或電腦備份）可能會包括 RaceWise 在該 iPhone 上的資料，視乎你的設定。</p>
 
-<h2>刪除資料</h2>
+<h2>Android 版</h2>
+<p>RaceWise Android 版的運作方式相同，以下幾點除外：</p>
+<ul>
+  <li><b>Health Connect</b> 代替 Apple 健康。經你允許，RaceWise 會讀取同類資料（包括距離、時間、爬升和心率的運動紀錄，以及靜息心率、心率變異度和睡眠）。只會讀取：RaceWise 絕不會寫入 Health Connect，讀到的資料只留在你的手機。</li>
+  <li><b>備份：</b>Android 以本身的備份代替 iCloud。如你開啟了備份，你的計畫、訓練紀錄和設定會加密複製到你私人的 Google Drive 備份；Health Connect 的健康數據一律不會包括在內，還原後 RaceWise 會再從 Health Connect 讀取。</li>
+  <li><b>匯出：</b>只有當你在<b>設定 › 匯出資料</b>選擇匯出時，才會產生載有你 RaceWise 資料的檔案，並存放在你選擇的位置。</li>
+  <li><b>Garmin</b> 以 Google 登入代替「使用 Apple 登入」；伺服器保存的項目與上文相同，只是以私人 Google ID 代替 Apple 的。</li>
+  <li><b>天氣</b>由 Google 而非 Apple 提供：如你開啟天氣，你的位置會四捨五入至約 10 公里，再由手機傳送到 Google 的天氣服務。RaceWise 不會保存，亦不會傳送到 RaceWise 的伺服器。</li>
+  <li><b>路線建議</b>由 Google 地圖而非 Apple 地圖提供：當你要求路線時，你的位置會由手機傳送到 Google，以找出合適長度的路線。RaceWise 不會保存，亦不會傳送到 RaceWise 的伺服器。</li>
+  <li><b>教練：</b>Android 版沒有裝置上的 AI 模型。教練只會用 RaceWise 內置的規則在你的手機上運作，亦不能從相片讀取比賽。</li>
+  <li><b>當機報告：</b>Android App 本身不會傳送任何當機報告。Google Play 可能會按 Google 的設定及私隱政策收集當機和效能報告（Android vitals）。</li>
+</ul>
+<p>Google 如何處理天氣、路線、登入及 Play 的資料，請參閱 <a href="https://policies.google.com/privacy" rel="noopener">Google 私隱政策</a>。</p>
+
+<h2 id="delete">刪除資料</h2>
 <p>在 RaceWise 的<b>設定 › 刪除所有資料</b>，會從你的 iPhone 刪除比賽、計畫、訓練紀錄、身體狀況紀錄和個人資料，並透過 iCloud 從你的其他裝置刪除；同時會移除 RaceWise 的提醒和已傳送到 Apple Watch 的課表，並停止讀取 Apple 健康。Apple 健康本身不受影響。如你的 iPhone 離線，刪除會在重新連線後傳到 iCloud；如 iCloud 無法使用，RaceWise 會通知你，並在之後請你完成刪除。如你曾連結 Garmin，亦會從 RaceWise 伺服器刪除你的帳戶和 Garmin 連結，並通知 Garmin。</p>
 <p>刪除 App 只會移除該部 iPhone 上的資料，不會刪除你 iCloud 中的副本。你亦可隨時在設定中取消健康、位置及 Apple Watch 權限。</p>
+<p>在 Android，<b>設定 › 刪除所有資料</b>同樣會刪除你手機上的資料（沒有 iCloud 副本）。逐步說明，包括如何不用 App 刪除帳戶：<a href="../delete-account.html">Delete your account or data</a>（英文）。</p>
 
 <h2>聯絡</h2>
 <p>如有問題：<a href="mailto:racewiseapp@gmail.com">racewiseapp@gmail.com</a>。政策如有更改，新版本會連同新日期刊登於此頁。</p>
