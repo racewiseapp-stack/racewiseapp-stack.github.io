@@ -28,7 +28,7 @@
 
 <h2>位置</h2>
 <p>使用 iPhone 語音指導時，只要得到你允許，RaceWise 會用位置計算距離和配速。你跑過的路徑不會保存，只保留該課的距離和時間，跟其他訓練紀錄一樣。</p>
-<p>天氣功能預設關閉。開啟後，RaceWise 會把你的位置約略到約 10 公里範圍，再向 Apple 天氣（WeatherKit）取得預報；如果比賽或行山填了城市，會用該城市名稱查詢當地預報。RaceWise 不會保存你的位置或預報，兩者亦不會傳送到 RaceWise 的伺服器。Apple 會按其私隱政策處理天氣查詢。你可以在「設定 › 天氣」關閉天氣功能。</p>
+<p>天氣功能預設關閉。開啟後，RaceWise 會把你的位置約略到約 10 公里範圍，再向 Apple 天氣（WeatherKit）取得預報；如果比賽或行山填了城市，會用該城市名稱查詢當地預報。RaceWise 不會保存你的位置或預報，兩者亦不會傳送到 RaceWise 的伺服器。Apple 會按其私隱政策處理天氣查詢。你可以在「設定 › 訓練 › 天氣」關閉天氣功能。</p>
 <p>每課的路線：只有當你在課上按「路線」，並得到你允許時，RaceWise 才會用你的精確位置，透過 Apple 地圖（MapKit）尋找由你所在地出發的步行路線。你亦可以改為在地圖上選擇起點。你的位置或所選起點，以及路線的轉折點，會傳送給 Apple 以計算路線。如你選擇用 Google 地圖跟隨路線，起點和轉折點會傳給 Google 地圖，並按 Google 的私隱政策處理。當你在 RaceWise 內跟隨路線，並在 App 開啟及得到你允許時，你的位置會在 iPhone 上用來顯示下一個轉彎，並在你偏離路線時提醒你。這個位置不會保存，亦不會傳送到任何地方。</p>
 <p>只有當你按「儲存」，RaceWise 才會保留路線。已儲存的路線（起點、轉折點、路徑和方向指示）只留在該部 iPhone，不會經 iCloud 同步，亦不會傳送到 RaceWise 的伺服器，但可能包含在你 iPhone 本身的備份內。你刪除該路線、刪除資料或刪除 App 時，路線會被移除。其他路線不會保存。你的位置不會傳送到 RaceWise 的伺服器。如你按「GPX」，可以把路線以檔案形式分享到你選擇的地方。</p>
 
@@ -39,7 +39,7 @@
 <p>如你選擇連結 Garmin，你需要用 Apple 登入一次，並在 Garmin Connect 帳戶中允許 RaceWise。之後 RaceWise 會把你接下來的課傳送到 Garmin Connect，讓課表出現在你的 Garmin 日曆和 Garmin 手錶上，並把你在 Garmin 完成的跑步、單車、游泳和划船紀錄帶回 RaceWise，讓計畫隨之調整。</p>
 <p>為此，RaceWise 使用一個由 Cloudflare 託管的小型伺服器。伺服器只會保存：「使用 Apple 登入」提供給 RaceWise 的私人 ID（不是你的姓名或電郵）、你的 Garmin 用戶 ID，以及 Garmin 為你的帳戶發出的金鑰（已加密）。你的課表只會經伺服器轉交 Garmin，不會保存在伺服器上。連結期間，伺服器只會記住每堂已傳送的課的日期、運動類型、Garmin ID，以及一個顯示課表有否更改的代碼，以便在 Garmin 更新或移除該課。當你完成一項運動，Garmin 會把摘要傳送到伺服器：運動類型、日期和開始時間、時長、距離、平均及最高心率、爬升米數（行山），以及裝置名稱（不包括路線或位置）。Garmin 亦會傳送該運動的詳細資料，當中包括位置取樣。伺服器會用這些資料計算每一圈的時間、距離和平均心率，然後捨棄詳細資料（包括位置），不會保存。每圈總計只會保存至你的裝置取回為止，最長 7 天。心率只留在你的裝置。伺服器只會保存摘要至你的 iPhone 取回為止，最長 7 天。在你的 iPhone 上，它會像其他訓練紀錄一樣保存：摘要會經你的私人 iCloud 同步，心率則只留在該部 iPhone。你的計畫、比賽和身體狀況紀錄永遠不會存放在伺服器上。</p>
 <p>RaceWise 只會讀取上述運動摘要和每圈總計，不會讀取你其他的 Garmin 資料（例如睡眠、壓力或每日步數）。來自 Garmin 裝置的訓練紀錄，在 RaceWise 顯示的地方（包括你分享的圖片）都會標示裝置名稱。Garmin 資料永遠不會出售、不會用於廣告，亦不會交由任何 AI 系統處理或用來訓練 AI；裝置上的 AI 教練只會讀取你的計畫，不會讀取你的 Garmin 運動紀錄。涉及的第三方包括：Garmin（接收你的課表並傳送你的運動摘要和詳細資料）、Cloudflare（託管伺服器，並代 RaceWise 處理上述資料）及 Apple（使用 Apple 登入）。</p>
-<p>你可隨時在 RaceWise（<b>設定 › Garmin › 中斷 Garmin 連結</b>）或在 Garmin Connect 中斷連結。中斷連結會從伺服器刪除連結、Garmin 金鑰和尚未取回的運動摘要和每圈總計，並通知 Garmin。如你中斷連結，伺服器會保留已傳送到 Garmin 的課的 ID，最長 8 天，讓你重新連結時不會重複加入。刪除你的 RaceWise 帳戶會立即移除這些 ID。已保存在 RaceWise 的訓練紀錄會保留，直至你刪除。已在 Garmin 日曆中的課會保留，直至你在 Garmin Connect 刪除。如想查閱、更正或索取伺服器保存的你的資料副本，請電郵 racewiseapp@gmail.com。</p>
+<p>你可隨時在 RaceWise（<b>設定 › 手錶與健康 › Garmin Connect › 中斷 Garmin 連結</b>）或在 Garmin Connect 中斷連結。中斷連結會從伺服器刪除連結、Garmin 金鑰和尚未取回的運動摘要和每圈總計，並通知 Garmin。如你中斷連結，伺服器會保留已傳送到 Garmin 的課的 ID，最長 8 天，讓你重新連結時不會重複加入。刪除你的 RaceWise 帳戶會立即移除這些 ID。已保存在 RaceWise 的訓練紀錄會保留，直至你刪除。已在 Garmin 日曆中的課會保留，直至你在 Garmin Connect 刪除。如想查閱、更正或索取伺服器保存的你的資料副本，請電郵 racewiseapp@gmail.com。</p>
 
 <h2>AI 教練</h2>
 <p>教練文字由你裝置上的 Apple Intelligence 撰寫。你輸入給 RaceWise 讀取的文字亦在裝置上讀取：身體狀況備註、課後感受、更改計畫的要求、有關計畫的提問，或對自己訓練的描述。文字本身不會保存，只會保存你確認的數值和更改。你輸入的內容和任何資料都不會傳送到 AI 服務。沒有 Apple Intelligence 時，RaceWise 會使用內建文字。</p>
@@ -54,8 +54,8 @@
 <p>RaceWise 內建一份活動清單。為保持清單最新，App 可能會在你打開活動清單時，從本網站下載公開的活動清單，每天最多一次。下載時不會附帶任何個人資料。與一般網站一樣，網站寄存商可能會保留 IP 位址等基本技術紀錄。</p>
 
 <h2>意見回饋及當機報告</h2>
-<p>如你在<b>設定 › 傳送意見回饋</b>傳送意見，RaceWise 的伺服器會收到你寫的內容、你選填的電子郵件（只用來回覆你），以及 App 版本、iOS 版本、iPhone 型號和語言。不會傳送你的計畫、訓練紀錄或 Apple 健康資料。意見最多保存一年；如想刪除，請電郵 racewiseapp@gmail.com。</p>
-<p>如 RaceWise 當機或卡住，Apple 就此產生的診斷報告（MetricKit：App 出錯時正在做甚麼、iOS 版本和 iPhone 型號）會連同 App 版本和語言傳送到伺服器，讓我們修正問題。報告不包含姓名、帳號、位置或訓練資料，保存 90 天。你可以在<b>設定 › 傳送當機報告</b>關閉。兩者都傳送到與 Garmin 相同、由 Cloudflare 託管的伺服器，亦不會用於廣告或分析。</p>
+<p>如你在<b>設定 › 說明與隱私 › 傳送意見回饋</b>傳送意見，RaceWise 的伺服器會收到你寫的內容、你選填的電子郵件（只用來回覆你），以及 App 版本、iOS 版本、iPhone 型號和語言。不會傳送你的計畫、訓練紀錄或 Apple 健康資料。意見最多保存一年；如想刪除，請電郵 racewiseapp@gmail.com。</p>
+<p>如 RaceWise 當機或卡住，Apple 就此產生的診斷報告（MetricKit：App 出錯時正在做甚麼、iOS 版本和 iPhone 型號）會連同 App 版本和語言傳送到伺服器，讓我們修正問題。報告不包含姓名、帳號、位置或訓練資料，保存 90 天。你可以在<b>設定 › 說明與隱私 › 傳送當機報告</b>關閉。兩者都傳送到與 Garmin 相同、由 Cloudflare 託管的伺服器，亦不會用於廣告或分析。</p>
 
 <h2>RaceWise 不會做的事</h2>
 <ul>
@@ -75,7 +75,7 @@
 <ul>
   <li><b>Health Connect</b> 代替 Apple 健康。經你允許，RaceWise 會讀取同類資料（包括距離、時間、爬升和心率的運動紀錄，以及靜息心率、心率變異度和睡眠）。經另一項權限，RaceWise 亦會讀取手錶估算的 VO2 max，在「趨勢」顯示，但不會用來設定計畫。只會讀取：RaceWise 絕不會寫入 Health Connect，讀到的資料只留在你的手機。</li>
   <li><b>備份：</b>Android 以本身的備份代替 iCloud。如你開啟了備份，你的計畫、訓練紀錄和設定會加密複製到你私人的 Google Drive 備份；Health Connect 的健康數據一律不會包括在內，還原後 RaceWise 會再從 Health Connect 讀取。</li>
-  <li><b>匯出：</b>只有當你在<b>設定 › 匯出資料</b>選擇匯出時，才會產生載有你 RaceWise 資料的檔案，並存放在你選擇的位置。</li>
+  <li><b>匯出：</b>只有當你在<b>設定 › 說明與隱私 › 匯出資料</b>選擇匯出時，才會產生載有你 RaceWise 資料的檔案，並存放在你選擇的位置。</li>
   <li><b>Garmin</b> 以 Google 登入代替「使用 Apple 登入」；伺服器保存的項目與上文相同，只是以私人 Google ID 代替 Apple 的。</li>
   <li><b>天氣</b>由 Google 而非 Apple 提供：如你開啟天氣，你的位置會四捨五入至約 10 公里，再由手機傳送到 Google 的天氣服務。RaceWise 不會保存，亦不會傳送到 RaceWise 的伺服器。</li>
   <li><b>路線建議</b>由 Google 地圖而非 Apple 地圖提供：當你要求路線時，你的位置會由手機傳送到 Google，以找出合適長度的路線。RaceWise 不會保存，亦不會傳送到 RaceWise 的伺服器。</li>
@@ -85,9 +85,9 @@
 <p>Google 如何處理天氣、路線、登入及 Play 的資料，請參閱 <a href="https://policies.google.com/privacy" rel="noopener">Google 私隱政策</a>。</p>
 
 <h2 id="delete">刪除資料</h2>
-<p>在 RaceWise 的<b>設定 › 刪除所有資料</b>，會從你的 iPhone 刪除比賽、計畫、訓練紀錄、身體狀況紀錄和個人資料，並透過 iCloud 從你的其他裝置刪除；同時會移除 RaceWise 的提醒和已傳送到 Apple Watch 的課表，並停止讀取 Apple 健康。Apple 健康本身不受影響。如你的 iPhone 離線，刪除會在重新連線後傳到 iCloud；如 iCloud 無法使用，RaceWise 會通知你，並在之後請你完成刪除。如你曾連結 Garmin，亦會從 RaceWise 伺服器刪除你的帳戶和 Garmin 連結，並通知 Garmin。</p>
+<p>在 RaceWise 的<b>設定 › 說明與隱私 › 刪除所有資料</b>，會從你的 iPhone 刪除比賽、計畫、訓練紀錄、身體狀況紀錄和個人資料，並透過 iCloud 從你的其他裝置刪除；同時會移除 RaceWise 的提醒和已傳送到 Apple Watch 的課表，並停止讀取 Apple 健康。Apple 健康本身不受影響。如你的 iPhone 離線，刪除會在重新連線後傳到 iCloud；如 iCloud 無法使用，RaceWise 會通知你，並在之後請你完成刪除。如你曾連結 Garmin，亦會從 RaceWise 伺服器刪除你的帳戶和 Garmin 連結，並通知 Garmin。</p>
 <p>刪除 App 只會移除該部 iPhone 上的資料，不會刪除你 iCloud 中的副本。你亦可隨時在設定中取消健康、位置及 Apple Watch 權限。</p>
-<p>在 Android，<b>設定 › 刪除所有資料</b>同樣會刪除你手機上的資料（沒有 iCloud 副本）。逐步說明，包括如何不用 App 刪除帳戶：<a href="../delete-account.html">Delete your account or data</a>（英文）。</p>
+<p>在 Android，<b>設定 › 說明與隱私 › 刪除所有資料</b>同樣會刪除你手機上的資料（沒有 iCloud 副本）。逐步說明，包括如何不用 App 刪除帳戶：<a href="../delete-account.html">Delete your account or data</a>（英文）。</p>
 
 <h2>聯絡</h2>
 <p>如有問題：<a href="mailto:racewiseapp@gmail.com">racewiseapp@gmail.com</a>。政策如有更改，新版本會連同新日期刊登於此頁。</p>
