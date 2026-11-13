@@ -323,7 +323,7 @@
 .v2 .store { display: flex; align-items: center; gap: 18px; flex-wrap: wrap; }
 .v2 .store-badge img { display: block; height: 54px; width: auto; }
 .v2 .qr { display: flex; align-items: center; gap: 12px; margin: 0; }
-.v2 .qr img { width: 104px; height: 104px; border-radius: 10px; background: #fff; padding: 4px; }
+.v2 .qr img { width: 128px; height: 128px; border-radius: 14px; background: #fff; padding: 2px; box-shadow: 0 0 0 1px rgba(255,255,255,.08), 0 10px 30px -12px rgba(212,245,60,.45); }
 .v2 .qr figcaption { max-width: 12em; font-size: 13px; line-height: 1.4; color: var(--muted); }
 .v2 .hero .qr figcaption { color: rgba(255,255,255,.75); }
 .v2 .get { text-align: left; }
