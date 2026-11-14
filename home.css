@@ -323,8 +323,23 @@
 .v2 .store { display: flex; align-items: center; gap: 18px; flex-wrap: wrap; }
 .v2 .store-badge img { display: block; height: 54px; width: auto; }
 .v2 .qr { display: flex; align-items: center; gap: 12px; margin: 0; }
-.v2 .qr img { width: 128px; height: 128px; border-radius: 14px; background: #fff; padding: 2px; box-shadow: 0 0 0 1px rgba(255,255,255,.08), 0 10px 30px -12px rgba(212,245,60,.45); }
+.v2 .qr img { width: 160px; height: 160px; filter: drop-shadow(0 10px 24px rgba(212,245,60,.25)); }
 .v2 .qr figcaption { max-width: 12em; font-size: 13px; line-height: 1.4; color: var(--muted); }
 .v2 .hero .qr figcaption { color: rgba(255,255,255,.75); }
 .v2 .get { text-align: left; }
 @media (max-width: 900px) { .v2 .qr { display: none; } }
+/* Hero: App Store badge and "See how it works" on one line, the QR in its own panel underneath. */
+.v2 .hero .cta { align-items: center; gap: 14px; }
+.v2 .hero .store { display: contents; }
+.v2 .hero .store-badge { order: 1; }
+.v2 .hero .cta > .btn-line { order: 2; height: 54px; box-sizing: border-box; }
+.v2 .hero .qr { order: 3; flex-basis: 100%; max-width: 390px; box-sizing: border-box; margin-top: 10px; padding: 14px 22px 14px 14px; gap: 20px;
+  border-radius: 28px; background: rgba(255,255,255,.05); border: 1px solid rgba(255,255,255,.12); }
+.v2 .hero .qr img { width: 150px; height: 150px; flex: none; }
+.v2 .hero .qr figcaption { max-width: none; font-size: 16px; line-height: 1.45; font-weight: 600; color: rgba(255,255,255,.85); }
+.v2 .hero .soon { margin-top: 18px; }
+/* Get RaceWise (bottom of the page): the same QR panel, on the light background. */
+.v2 .get .store { gap: 24px; }
+.v2 .get .qr { padding: 14px 22px 14px 14px; gap: 20px; border-radius: 28px; background: #fff; border: 1px solid var(--line); }
+.v2 .get .qr img { width: 150px; height: 150px; flex: none; filter: none; }
+.v2 .get .qr figcaption { font-size: 16px; line-height: 1.45; font-weight: 600; color: var(--ink); }
