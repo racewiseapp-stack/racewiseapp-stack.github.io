@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-02",
+  "updated": "2026-11-15",
   "events": [
     {
       "name": "Sydney Marathon",
@@ -355,7 +355,7 @@
         11
       ],
       "url": "https://www.athensauthenticmarathon.gr/",
-      "nextDate": "2026-11-08"
+      "nextDate": null
     },
     {
       "name": "Istanbul Marathon",
@@ -1707,7 +1707,7 @@
         11
       ],
       "url": "https://www.baa.org/races/baa-half-marathon",
-      "nextDate": "2026-11-08"
+      "nextDate": null
     },
     {
       "name": "California International Marathon",
@@ -1918,7 +1918,7 @@
         11
       ],
       "url": "https://monumentalmarathon.com/",
-      "nextDate": "2026-11-07"
+      "nextDate": "2027-11-06"
     },
     {
       "name": "Pittsburgh Marathon",
@@ -2182,7 +2182,7 @@
         11
       ],
       "url": "https://www.kobe-marathon.net/",
-      "nextDate": "2026-11-15"
+      "nextDate": null
     },
     {
       "name": "Fukuoka Marathon",
@@ -2198,7 +2198,7 @@
         11
       ],
       "url": "https://www.f-marathon.jp/en/",
-      "nextDate": "2026-11-08"
+      "nextDate": null
     },
     {
       "name": "Hokkaido Marathon",
@@ -2355,7 +2355,7 @@
         11
       ],
       "url": "https://g-marathon.com/",
-      "nextDate": "2026-11-03"
+      "nextDate": null
     },
     {
       "name": "Saitama Marathon",
@@ -2466,7 +2466,7 @@
         11
       ],
       "url": "https://www.tour-de-okinawa.jp/",
-      "nextDate": "2026-11-07"
+      "nextDate": null
     },
     {
       "name": "Standard Chartered Hong Kong Marathon",
@@ -2500,7 +2500,7 @@
         11
       ],
       "url": "https://hzmb-halfmarathon.com/",
-      "nextDate": "2026-11-15"
+      "nextDate": null
     },
     {
       "name": "Victoria Harbour Race",
@@ -2515,7 +2515,7 @@
         11
       ],
       "url": "https://hkgswimming.org.hk/zh-hant/activities/5512/",
-      "nextDate": "2026-11-15"
+      "nextDate": null
     },
     {
       "name": "Hong Kong Cyclothon",
@@ -2682,7 +2682,7 @@
         11
       ],
       "url": "https://www.tianzhongmarathon.com/",
-      "nextDate": "2026-11-08"
+      "nextDate": null
     },
     {
       "name": "Kenting Japan Airlines International Marathon",
@@ -2700,7 +2700,7 @@
         11
       ],
       "url": "https://www.bao-ming.com/eb/content/7073",
-      "nextDate": "2026-11-15"
+      "nextDate": null
     },
     {
       "name": "Sun Moon Lake International Swimming Carnival",
@@ -2714,7 +2714,7 @@
       "months": [
         9
       ],
-      "url": "https://www.sunmoonlake.gov.tw/",
+      "url": "https://www.pulifourswim.tw/",
       "nextDate": null
     },
     {
@@ -2746,7 +2746,7 @@
       "months": [
         10
       ],
-      "url": "https://www.letapeseries.com/",
+      "url": "https://www.letapesunmoonlake.com/",
       "nextDate": null
     },
     {
@@ -2883,7 +2883,7 @@
         11
       ],
       "url": "https://www.headofthehooch.org/",
-      "nextDate": "2026-11-07"
+      "nextDate": null
     },
     {
       "name": "Head of the Lake",
@@ -3004,7 +3004,7 @@
         11
       ],
       "url": "https://www.silverskiff.org/",
-      "nextDate": "2026-11-08"
+      "nextDate": "2027-11-06"
     },
     {
       "name": "Head of the River Amstel",
@@ -3864,11 +3864,12 @@
         1
       ],
       "months": [
+        1,
         11,
         12
       ],
       "url": "https://www.bonditobronte.com.au/",
-      "nextDate": "2026-11-08"
+      "nextDate": "2027-01-24"
     },
     {
       "name": "Bean Rock",
@@ -3887,7 +3888,7 @@
       "nextDate": "2026-12-12"
     },
     {
-      "name": "Island Hop",
+      "name": "Roberton Island Hop",
       "nameZh": null,
       "city": "Russell (Bay of Islands)",
       "country": "New Zealand",
@@ -3899,7 +3900,7 @@
       "months": [
         1
       ],
-      "url": "https://www.oceanswim.co.nz/pages/island-hope-sxe",
+      "url": "https://www.oceanswim.co.nz/pages/roberton-island-hop",
       "nextDate": "2027-01-30"
     },
     {
@@ -4370,8 +4371,8 @@
         11,
         12
       ],
-      "url": "https://www.runthrough.co.uk/event/victoria-park-half-marathon-10k-5k-november-2026",
-      "nextDate": "2026-11-07"
+      "url": "https://www.runthrough.co.uk/event/victoria-park-half-marathon-10k-5k-december-2026",
+      "nextDate": "2026-12-12"
     },
     {
       "name": "RunThrough Battersea Park 5k, 10k & Half Marathon",
@@ -4396,8 +4397,8 @@
         11,
         12
       ],
-      "url": "https://www.runthrough.co.uk/event/battersea-park-half-marathon-november-2026",
-      "nextDate": "2026-11-14"
+      "url": "https://www.runthrough.co.uk/event/battersea-park-half-marathon-21st-november-2026",
+      "nextDate": "2026-11-21"
     },
     {
       "name": "RunThrough Fulham 10k",
@@ -4411,8 +4412,8 @@
       "months": [
         11
       ],
-      "url": "https://www.runthrough.co.uk/event/fulham-10k-november-2026",
-      "nextDate": "2026-11-15"
+      "url": "https://www.runthrough.co.uk/event/fulham-10k-november-2027",
+      "nextDate": "2027-11-07"
     },
     {
       "name": "RunThrough Queen Elizabeth Olympic Park 5k & 10k",
@@ -4835,7 +4836,7 @@
         11
       ],
       "url": "https://onerace.events/events/victoria-park-half-marathon-10-mile-10k-november-2026",
-      "nextDate": "2026-11-15"
+      "nextDate": null
     },
     {
       "name": "The One In The Park Greenwich (Greenwich Park 10K & 5K)",
@@ -4918,8 +4919,8 @@
         3,
         11
       ],
-      "url": "https://www.runuk.co.uk/e/run-battersea-park-10k-13404",
-      "nextDate": "2026-11-15"
+      "url": "https://www.runuk.co.uk/e/run-battersea-park-half-marathon-winter-14235",
+      "nextDate": "2027-01-31"
     },
     {
       "name": "RunUK Kingston 10K & Half Marathon",
@@ -5162,7 +5163,7 @@
         11
       ],
       "url": "https://www.nice-work.org.uk/e/regents-park-10k-9231",
-      "nextDate": "2026-11-08"
+      "nextDate": "2027-11-07"
     },
     {
       "name": "Bushy Park 10K",
@@ -5349,7 +5350,7 @@
         11
       ],
       "url": "https://www.mo-running.com/london",
-      "nextDate": "2026-11-08"
+      "nextDate": null
     },
     {
       "name": "World AIDS Day Red Run (Victoria Park)",
@@ -5532,7 +5533,20 @@
       "distancesKm": [
         5
       ],
-      "months": [],
+      "months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
       "url": "https://www.parkrun.com",
       "nextDate": null
     },
@@ -5569,7 +5583,7 @@
         11
       ],
       "url": "https://www.queenstown-marathon.co.nz/",
-      "nextDate": "2026-11-14"
+      "nextDate": "2027-11-13"
     },
     {
       "name": "Christchurch Marathon",
@@ -5654,7 +5668,7 @@
       "months": [
         2
       ],
-      "url": "https://www.oceanswim.co.nz/pages/banana-boat-legend-of-the-lake-rotorua",
+      "url": "https://www.oceanswim.co.nz/pages/legend-of-the-lake",
       "nextDate": "2027-02-27"
     },
     {
@@ -5807,7 +5821,7 @@
         11
       ],
       "url": "https://rowing.org.hk/",
-      "nextDate": "2026-11-13"
+      "nextDate": null
     },
     {
       "name": "Macao International Marathon",
@@ -5817,7 +5831,8 @@
       "sport": "run",
       "distancesKm": [
         42.195,
-        21.0975
+        21.0975,
+        5
       ],
       "months": [
         12
@@ -5885,8 +5900,7 @@
         5
       ],
       "months": [
-        2,
-        4
+        2
       ],
       "url": "https://daegumarathon.daegu.go.kr/",
       "nextDate": "2027-02-28"
@@ -6134,14 +6148,4440 @@
       "country": "Canada",
       "sport": "bike",
       "distancesKm": [
+        50,
+        30
+      ],
+      "months": [
+        6
+      ],
+      "url": "https://festivalgovelo.velo.qc.ca/evenement/tour-de-lile-de-montreal/",
+      "nextDate": "2027-06-06"
+    },
+    {
+      "name": "Run Melbourne",
+      "nameZh": null,
+      "city": "Melbourne",
+      "country": "Australia",
+      "sport": "run",
+      "distancesKm": [
+        21.0975,
+        10,
+        5.5
+      ],
+      "months": [
+        7
+      ],
+      "url": "https://www.runmelbourne.com.au/",
+      "nextDate": "2027-07-18"
+    },
+    {
+      "name": "Bridge to Brisbane",
+      "nameZh": null,
+      "city": "Brisbane",
+      "country": "Australia",
+      "sport": "run",
+      "distancesKm": [
+        10,
+        5
+      ],
+      "months": [
+        9
+      ],
+      "url": "https://www.bridgetobrisbane.com.au/",
+      "nextDate": null
+    },
+    {
+      "name": "Chevron City to Surf for genU (Perth)",
+      "nameZh": null,
+      "city": "Perth",
+      "country": "Australia",
+      "sport": "run",
+      "distancesKm": [
+        12,
+        4
+      ],
+      "months": [
+        8
+      ],
+      "url": "https://www.perthcitytosurf.com/",
+      "nextDate": "2027-08-29"
+    },
+    {
+      "name": "HOKA Runaway Sydney Half Marathon",
+      "nameZh": "悉尼半程馬拉松",
+      "city": "Sydney",
+      "country": "Australia",
+      "sport": "run",
+      "distancesKm": [
+        21.0975,
+        10
+      ],
+      "months": [
+        5
+      ],
+      "url": "https://www.runawaysydneyhalf.com.au/",
+      "nextDate": "2027-05-02"
+    },
+    {
+      "name": "Canberra Times Marathon Festival",
+      "nameZh": null,
+      "city": "Canberra",
+      "country": "Australia",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        4
+      ],
+      "url": "https://solemotive.com/pages/canberra-marathon",
+      "nextDate": "2027-04-11"
+    },
+    {
+      "name": "Hobart Marathon Festival",
+      "nameZh": null,
+      "city": "Hobart",
+      "country": "Australia",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        4
+      ],
+      "url": "https://www.hobartmarathon.com.au/",
+      "nextDate": "2027-04-04"
+    },
+    {
+      "name": "Sunshine Coast Marathon Festival",
+      "nameZh": null,
+      "city": "Sunshine Coast (Alexandra Headland)",
+      "country": "Australia",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        8
+      ],
+      "url": "https://www.sunshinecoastmarathon.com.au/",
+      "nextDate": "2027-08-01"
+    },
+    {
+      "name": "Perth Running Festival (Perth Marathon)",
+      "nameZh": null,
+      "city": "Perth (Burswood)",
+      "country": "Australia",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10,
+        4
+      ],
+      "months": [
+        10
+      ],
+      "url": "https://www.perthrunningfestival.com.au/",
+      "nextDate": null
+    },
+    {
+      "name": "Townsville Running Festival",
+      "nameZh": null,
+      "city": "Townsville",
+      "country": "Australia",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        8
+      ],
+      "url": "https://townsvillerunningfestival.com/",
+      "nextDate": null
+    },
+    {
+      "name": "Great Ocean Road Running Festival",
+      "nameZh": null,
+      "city": "Lorne / Apollo Bay",
+      "country": "Australia",
+      "sport": "run",
+      "distancesKm": [
+        44,
+        21.0975,
+        14,
+        10,
+        6
+      ],
+      "months": [
+        5
+      ],
+      "url": "https://greatoceanroadrunfest.com.au/",
+      "nextDate": "2027-05-16"
+    },
+    {
+      "name": "Run for the Kids",
+      "nameZh": null,
+      "city": "Melbourne",
+      "country": "Australia",
+      "sport": "run",
+      "distancesKm": [
+        21.0975,
+        14.4
+      ],
+      "months": [
+        3,
+        4
+      ],
+      "url": "https://www.runforthekids.com.au/",
+      "nextDate": "2027-03-21"
+    },
+    {
+      "name": "City-Bay Fun Run",
+      "nameZh": null,
+      "city": "Adelaide",
+      "country": "Australia",
+      "sport": "run",
+      "distancesKm": [
+        21.0975,
+        12,
+        6
+      ],
+      "months": [
+        9
+      ],
+      "url": "https://city-bay.org.au/",
+      "nextDate": "2027-09-19"
+    },
+    {
+      "name": "Burnie Ten",
+      "nameZh": null,
+      "city": "Burnie",
+      "country": "Australia",
+      "sport": "run",
+      "distancesKm": [
+        10,
+        5
+      ],
+      "months": [
+        10
+      ],
+      "url": "https://burnieten.com.au/",
+      "nextDate": "2027-10-24"
+    },
+    {
+      "name": "Point to Pinnacle",
+      "nameZh": null,
+      "city": "Hobart",
+      "country": "Australia",
+      "sport": "run",
+      "distancesKm": [
+        21.0975,
+        10
+      ],
+      "months": [
+        11
+      ],
+      "url": "https://www.pointtopinnacle.com.au/",
+      "nextDate": null
+    },
+    {
+      "name": "HBF Run for a Reason",
+      "nameZh": null,
+      "city": "Perth",
+      "country": "Australia",
+      "sport": "run",
+      "distancesKm": [
+        21.0975,
+        12
+      ],
+      "months": [
+        5
+      ],
+      "url": "https://www.hbf.com.au/run",
+      "nextDate": "2027-05-23"
+    },
+    {
+      "name": "Henderson Newcastle Marathon",
+      "nameZh": null,
+      "city": "Newcastle",
+      "country": "Australia",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975
+      ],
+      "months": [
+        4
+      ],
+      "url": "https://hevents.com.au/events/henderson-newcastle-marathon",
+      "nextDate": "2027-04-18"
+    },
+    {
+      "name": "Cairns Marathon Festival",
+      "nameZh": null,
+      "city": "Cairns",
+      "country": "Australia",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        7
+      ],
+      "url": "https://www.cairnsmarathon.com.au/",
+      "nextDate": "2027-07-11"
+    },
+    {
+      "name": "Runaway Noosa Marathon",
+      "nameZh": null,
+      "city": "Noosa",
+      "country": "Australia",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        5
+      ],
+      "url": "https://www.runawaynoosamarathon.com.au/",
+      "nextDate": "2027-05-22"
+    },
+    {
+      "name": "Gold Coast Running Festival",
+      "nameZh": null,
+      "city": "Gold Coast (Robina)",
+      "country": "Australia",
+      "sport": "run",
+      "distancesKm": [
+        32,
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        4
+      ],
+      "url": "https://www.theeventcrew.com.au/event/gold-coast-running-festival/",
+      "nextDate": "2027-04-18"
+    },
+    {
+      "name": "Hervey Bay Half Marathon Festival",
+      "nameZh": null,
+      "city": "Hervey Bay",
+      "country": "Australia",
+      "sport": "run",
+      "distancesKm": [
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        6
+      ],
+      "url": "https://www.herveybayhalfmarathon.com.au/",
+      "nextDate": "2027-06-20"
+    },
+    {
+      "name": "Real Insurance Harbour 10",
+      "nameZh": null,
+      "city": "Sydney",
+      "country": "Australia",
+      "sport": "run",
+      "distancesKm": [
+        10,
+        5
+      ],
+      "months": [
+        7
+      ],
+      "url": "https://harbour10.com.au/harbour10/",
+      "nextDate": null
+    },
+    {
+      "name": "Tradies Sutherland 2 Surf",
+      "nameZh": null,
+      "city": "Sydney (Sutherland–Cronulla)",
+      "country": "Australia",
+      "sport": "run",
+      "distancesKm": [
+        11
+      ],
+      "months": [
+        7
+      ],
+      "url": "https://www.sutherland2surf.com.au/",
+      "nextDate": null
+    },
+    {
+      "name": "NT City2Surf",
+      "nameZh": null,
+      "city": "Darwin",
+      "country": "Australia",
+      "sport": "run",
+      "distancesKm": [
+        13,
+        4
+      ],
+      "months": [
+        6
+      ],
+      "url": "https://www.ntcity2surf.com.au/",
+      "nextDate": "2027-06-06"
+    },
+    {
+      "name": "Rottnest Running Festival",
+      "nameZh": null,
+      "city": "Rottnest Island",
+      "country": "Australia",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        6
+      ],
+      "url": "https://www.wamc.org.au/",
+      "nextDate": null
+    },
+    {
+      "name": "Portsea Swim Classic",
+      "nameZh": null,
+      "city": "Portsea",
+      "country": "Australia",
+      "sport": "swim",
+      "distancesKm": [
+        2.5,
+        1.5
+      ],
+      "months": [
+        1
+      ],
+      "url": "https://portseasurf.com.au/portsea-swim-classic/",
+      "nextDate": "2027-01-16"
+    },
+    {
+      "name": "Macquarie Bank Big Swim (Palm Beach to Whale Beach)",
+      "nameZh": null,
+      "city": "Sydney (Palm Beach)",
+      "country": "Australia",
+      "sport": "swim",
+      "distancesKm": [
+        2.8,
+        1
+      ],
+      "months": [
+        1
+      ],
+      "url": "https://www.thebigswim.org.au/",
+      "nextDate": "2027-01-31"
+    },
+    {
+      "name": "Coogee Island Challenge",
+      "nameZh": null,
+      "city": "Sydney (Coogee)",
+      "country": "Australia",
+      "sport": "swim",
+      "distancesKm": [
+        2.4,
+        1,
+        0.8
+      ],
+      "months": [
+        4,
+        11
+      ],
+      "url": "https://www.coogeeoceanevents.com.au/",
+      "nextDate": "2026-11-29"
+    },
+    {
+      "name": "Noosa Summer Swim Festival",
+      "nameZh": null,
+      "city": "Noosa",
+      "country": "Australia",
+      "sport": "swim",
+      "distancesKm": [
+        5,
+        3,
+        2,
+        1
+      ],
+      "months": [
+        2
+      ],
+      "url": "https://worldseriesswims.com.au/",
+      "nextDate": "2027-02-20"
+    },
+    {
+      "name": "Mooloolaba Mile Ocean Swim",
+      "nameZh": null,
+      "city": "Mooloolaba",
+      "country": "Australia",
+      "sport": "swim",
+      "distancesKm": [
+        6,
+        4.5,
+        3,
+        1.6
+      ],
+      "months": [
+        3,
+        4
+      ],
+      "url": "https://worldseriesswims.com.au/mooloolaba-mile/",
+      "nextDate": "2027-03-21"
+    },
+    {
+      "name": "Terrigal Swim Fest",
+      "nameZh": null,
+      "city": "Terrigal",
+      "country": "Australia",
+      "sport": "swim",
+      "distancesKm": [
+        5,
+        3,
+        2,
+        1
+      ],
+      "months": [
+        2
+      ],
+      "url": "https://worldseriesswims.com.au/",
+      "nextDate": null
+    },
+    {
+      "name": "Cooly Classic",
+      "nameZh": null,
+      "city": "Gold Coast (Coolangatta)",
+      "country": "Australia",
+      "sport": "swim",
+      "distancesKm": [
+        5,
+        3,
+        2,
+        1
+      ],
+      "months": [
+        5
+      ],
+      "url": "https://worldseriesswims.com.au/",
+      "nextDate": "2027-05-15"
+    },
+    {
+      "name": "Busselton Jetty Swim",
+      "nameZh": null,
+      "city": "Busselton",
+      "country": "Australia",
+      "sport": "swim",
+      "distancesKm": [
+        3.6,
+        1.6
+      ],
+      "months": [
+        2
+      ],
+      "url": "https://busseltonjettyswim.org.au/",
+      "nextDate": "2027-02-14"
+    },
+    {
+      "name": "Peaks Challenge Falls Creek",
+      "nameZh": null,
+      "city": "Falls Creek",
+      "country": "Australia",
+      "sport": "bike",
+      "distancesKm": [
+        235
+      ],
+      "months": [
+        3
+      ],
+      "url": "https://bicyclenetwork.com.au/rides-and-events/peaks-challenge/",
+      "nextDate": "2027-03-07"
+    },
+    {
+      "name": "UCI Tour de Brisbane",
+      "nameZh": null,
+      "city": "Brisbane",
+      "country": "Australia",
+      "sport": "bike",
+      "distancesKm": [
+        110,
+        80,
         50
+      ],
+      "months": [
+        4
+      ],
+      "url": "https://tourdebrisbane.org/",
+      "nextDate": "2027-04-04"
+    },
+    {
+      "name": "MS Gong Ride",
+      "nameZh": null,
+      "city": "Sydney–Wollongong",
+      "country": "Australia",
+      "sport": "bike",
+      "distancesKm": [
+        80,
+        53
+      ],
+      "months": [
+        11
+      ],
+      "url": "https://www.msgongride.org.au/",
+      "nextDate": null
+    },
+    {
+      "name": "Spring Cycle",
+      "nameZh": null,
+      "city": "Sydney",
+      "country": "Australia",
+      "sport": "bike",
+      "distancesKm": [
+        50,
+        10
+      ],
+      "months": [
+        10
+      ],
+      "url": "https://www.springcycle.com.au/",
+      "nextDate": null
+    },
+    {
+      "name": "Bowral Classic",
+      "nameZh": null,
+      "city": "Bowral",
+      "country": "Australia",
+      "sport": "bike",
+      "distancesKm": [
+        150,
+        120,
+        85
+      ],
+      "months": [
+        10
+      ],
+      "url": "https://cyclingclassics.com.au/bowral/",
+      "nextDate": "2027-10-17"
+    },
+    {
+      "name": "RoadNats Perth Gran Fondo",
+      "nameZh": null,
+      "city": "Perth",
+      "country": "Australia",
+      "sport": "bike",
+      "distancesKm": [
+        81.6,
+        27.2
+      ],
+      "months": [
+        1
+      ],
+      "url": "https://roadnationals.org.au/",
+      "nextDate": "2027-01-10"
+    },
+    {
+      "name": "Australian Rowing Championships",
+      "nameZh": null,
+      "city": "Perth (Champion Lakes)",
+      "country": "Australia",
+      "sport": "row",
+      "distancesKm": [
+        2
+      ],
+      "months": [
+        3
+      ],
+      "url": "https://rowingaustralia.com.au/national-events-arc",
+      "nextDate": "2027-03-15"
+    },
+    {
+      "name": "Australian Masters Rowing Championships",
+      "nameZh": null,
+      "city": "Canberra",
+      "country": "Australia",
+      "sport": "row",
+      "distancesKm": [
+        1
+      ],
+      "months": [
+        5
+      ],
+      "url": "https://rowingaustralia.com.au/australian-masters-championships",
+      "nextDate": null
+    },
+    {
+      "name": "7 Bridges Walk",
+      "nameZh": null,
+      "city": "Sydney",
+      "country": "Australia",
+      "sport": "walk",
+      "distancesKm": [
+        28
+      ],
+      "months": [
+        10
+      ],
+      "url": "https://www.7bridgeswalk.com.au/",
+      "nextDate": null
+    },
+    {
+      "name": "Coastrek Sydney",
+      "nameZh": null,
+      "city": "Sydney",
+      "country": "Australia",
+      "sport": "hike",
+      "distancesKm": [
+        50,
+        30,
+        20
+      ],
+      "months": [
+        3
+      ],
+      "url": "https://www.coastrek.com.au/",
+      "nextDate": "2027-03-19"
+    },
+    {
+      "name": "Coastrek Sunshine Coast",
+      "nameZh": null,
+      "city": "Sunshine Coast (Noosa–Mooloolaba)",
+      "country": "Australia",
+      "sport": "hike",
+      "distancesKm": [
+        50,
+        30,
+        20
+      ],
+      "months": [
+        7
+      ],
+      "url": "https://www.coastrek.com.au/",
+      "nextDate": null
+    },
+    {
+      "name": "Kokoda Challenge Gold Coast",
+      "nameZh": null,
+      "city": "Gold Coast Hinterland",
+      "country": "Australia",
+      "sport": "hike",
+      "distancesKm": [
+        96,
+        48,
+        30
+      ],
+      "months": [
+        7
+      ],
+      "url": "https://www.kokodachallenge.com/",
+      "nextDate": null
+    },
+    {
+      "name": "Kokoda Challenge Brisbane",
+      "nameZh": null,
+      "city": "Brisbane (D'Aguilar NP)",
+      "country": "Australia",
+      "sport": "hike",
+      "distancesKm": [
+        48,
+        30,
+        18
+      ],
+      "months": [
+        6
+      ],
+      "url": "https://www.kokodachallenge.com/brisbane",
+      "nextDate": null
+    },
+    {
+      "name": "Servus Edmonton Marathon",
+      "nameZh": "2026 edition 16 Aug 2026 (Race Roster organiser page); 2027 date not yet published by organiser (aggregators say 15 Aug 2027). Site cert expired.",
+      "city": "Edmonton",
+      "country": "Canada",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        8
+      ],
+      "url": "https://www.edmontonmarathon.com/",
+      "nextDate": null
+    },
+    {
+      "name": "Manitoba Marathon",
+      "nameZh": null,
+      "city": "Winnipeg",
+      "country": "Canada",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        6
+      ],
+      "url": "https://manitobamarathon.mb.ca/",
+      "nextDate": "2027-06-20"
+    },
+    {
+      "name": "Medavie Blue Nose Marathon",
+      "nameZh": null,
+      "city": "Halifax",
+      "country": "Canada",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        5
+      ],
+      "url": "https://bluenosemarathon.com/",
+      "nextDate": "2027-05-23"
+    },
+    {
+      "name": "Saskatchewan Marathon",
+      "nameZh": null,
+      "city": "Saskatoon",
+      "country": "Canada",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10,
+        5
       ],
       "months": [
         5,
         6
       ],
-      "url": "https://www.velo.qc.ca/evenement/festival-go-velo-mtl/tour-ile-montreal/classique/",
+      "url": "https://www.saskmarathon.ca/",
+      "nextDate": "2027-05-30"
+    },
+    {
+      "name": "Marathon Beneva de Québec",
+      "nameZh": null,
+      "city": "Quebec City",
+      "country": "Canada",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        10
+      ],
+      "url": "https://www.jecoursqc.com/en/beneva-quebec-city-marathon-presented-by-montellier/",
+      "nextDate": "2027-10-03"
+    },
+    {
+      "name": "Demi-marathon Promutuel Assurance de Lévis",
+      "nameZh": null,
+      "city": "Lévis",
+      "country": "Canada",
+      "sport": "run",
+      "distancesKm": [
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        5
+      ],
+      "url": "https://www.jecoursqc.com/en/promutuel-insurance-levis-half-marathon/",
       "nextDate": null
+    },
+    {
+      "name": "GMS Queen City Marathon",
+      "nameZh": "2026 edition Sept 11-13; 2027 not published (site cert expired).",
+      "city": "Regina",
+      "country": "Canada",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        9
+      ],
+      "url": "https://www.queencitymarathon.com/",
+      "nextDate": null
+    },
+    {
+      "name": "Niagara Falls International Marathon",
+      "nameZh": "2026 edition Oct 25, 2026; no 2027 date yet.",
+      "city": "Niagara Falls",
+      "country": "Canada",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        10
+      ],
+      "url": "https://www.niagarafallsmarathon.com/",
+      "nextDate": null
+    },
+    {
+      "name": "Beneva Mississauga Marathon",
+      "nameZh": null,
+      "city": "Mississauga",
+      "country": "Canada",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        4,
+        5
+      ],
+      "url": "https://www.mississaugamarathon.com/",
+      "nextDate": "2027-04-25"
+    },
+    {
+      "name": "Toronto Marathon",
+      "nameZh": null,
+      "city": "Toronto",
+      "country": "Canada",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        5
+      ],
+      "url": "https://www.torontomarathon.com/",
+      "nextDate": "2027-05-02"
+    },
+    {
+      "name": "Prince Edward Island Marathon",
+      "nameZh": "Oct event; 2027 date not published. Half/15K/10K/5K also have walk categories.",
+      "city": "Charlottetown",
+      "country": "Canada",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        15,
+        10,
+        5
+      ],
+      "months": [
+        10
+      ],
+      "url": "https://www.peimarathon.ca/",
+      "nextDate": null
+    },
+    {
+      "name": "Tely 10 Mile Road Race",
+      "nameZh": null,
+      "city": "St. John's",
+      "country": "Canada",
+      "sport": "run",
+      "distancesKm": [
+        16.09
+      ],
+      "months": [
+        6,
+        7
+      ],
+      "url": "https://www.nlaa.ca/tely10/",
+      "nextDate": "2027-06-27"
+    },
+    {
+      "name": "Banff Half Marathon & 10K",
+      "nameZh": null,
+      "city": "Banff",
+      "country": "Canada",
+      "sport": "run",
+      "distancesKm": [
+        21.0975,
+        10
+      ],
+      "months": [
+        6
+      ],
+      "url": "https://www.banffhalf.com/",
+      "nextDate": "2027-06-20"
+    },
+    {
+      "name": "TC10K",
+      "nameZh": null,
+      "city": "Victoria",
+      "country": "Canada",
+      "sport": "run",
+      "distancesKm": [
+        10
+      ],
+      "months": [
+        4
+      ],
+      "url": "https://tc10k.ca/",
+      "nextDate": "2027-04-25"
+    },
+    {
+      "name": "First Half Half Marathon",
+      "nameZh": "2027 at capacity.",
+      "city": "Vancouver",
+      "country": "Canada",
+      "sport": "run",
+      "distancesKm": [
+        21.0975
+      ],
+      "months": [
+        2
+      ],
+      "url": "https://www.firsthalf.ca/",
+      "nextDate": "2027-02-07"
+    },
+    {
+      "name": "Chilly Half Marathon",
+      "nameZh": "Organiser's Race Roster page (own site didn't load).",
+      "city": "Burlington",
+      "country": "Canada",
+      "sport": "run",
+      "distancesKm": [
+        21.0975
+      ],
+      "months": [
+        2,
+        3
+      ],
+      "url": "https://www.chillyhalfmarathon.com/",
+      "nextDate": "2027-02-28"
+    },
+    {
+      "name": "Hamilton Marathon Road2Hope",
+      "nameZh": null,
+      "city": "Hamilton",
+      "country": "Canada",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        11
+      ],
+      "url": "https://www.hamiltonmarathon.ca/",
+      "nextDate": "2027-11-07"
+    },
+    {
+      "name": "Canada Army Run",
+      "nameZh": "2026 in-person Sept 20; 2027 not published.",
+      "city": "Ottawa",
+      "country": "Canada",
+      "sport": "run",
+      "distancesKm": [
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        9
+      ],
+      "url": "https://www.armyrun.ca/",
+      "nextDate": null
+    },
+    {
+      "name": "Melissa's Road Race",
+      "nameZh": null,
+      "city": "Banff",
+      "country": "Canada",
+      "sport": "run",
+      "distancesKm": [
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        9
+      ],
+      "url": "https://melissasroadrace.com/",
+      "nextDate": "2027-09-25"
+    },
+    {
+      "name": "Stewart McKelvey Fredericton Marathon",
+      "nameZh": "Organiser's Race Roster page: May 7-9, marathon Sun May 9.",
+      "city": "Fredericton",
+      "country": "Canada",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        5
+      ],
+      "url": "https://www.frederictonmarathon.ca/",
+      "nextDate": "2027-05-09"
+    },
+    {
+      "name": "Valley Harvest Marathon",
+      "nameZh": null,
+      "city": "Wolfville",
+      "country": "Canada",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        10
+      ],
+      "url": "https://valleyharvestmarathon.ca/",
+      "nextDate": "2027-10-10"
+    },
+    {
+      "name": "21K Nespresso de Montréal",
+      "nameZh": null,
+      "city": "Montreal",
+      "country": "Canada",
+      "sport": "run",
+      "distancesKm": [
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        4
+      ],
+      "url": "https://couronsmtl.com/en/",
+      "nextDate": null
+    },
+    {
+      "name": "Beneva Spring Run-Off",
+      "nameZh": null,
+      "city": "Toronto",
+      "country": "Canada",
+      "sport": "run",
+      "distancesKm": [
+        8,
+        5
+      ],
+      "months": [
+        4
+      ],
+      "url": "https://canadarunningseries.com/spring-run-off/",
+      "nextDate": "2027-04-03"
+    },
+    {
+      "name": "Under Armour Toronto 10K",
+      "nameZh": null,
+      "city": "Toronto",
+      "country": "Canada",
+      "sport": "run",
+      "distancesKm": [
+        10
+      ],
+      "months": [
+        6
+      ],
+      "url": "https://canadarunningseries.com/toronto-10k/",
+      "nextDate": "2027-06-19"
+    },
+    {
+      "name": "Oasis ZooRun",
+      "nameZh": null,
+      "city": "Toronto",
+      "country": "Canada",
+      "sport": "run",
+      "distancesKm": [
+        10,
+        5
+      ],
+      "months": [
+        9
+      ],
+      "url": "https://canadarunningseries.com/oasis-zoorun/",
+      "nextDate": "2027-09-11"
+    },
+    {
+      "name": "Beneva Vancouver Half Marathon",
+      "nameZh": null,
+      "city": "Vancouver",
+      "country": "Canada",
+      "sport": "run",
+      "distancesKm": [
+        21.0975,
+        5
+      ],
+      "months": [
+        6
+      ],
+      "url": "https://canadarunningseries.com/vancouver-half-marathon/",
+      "nextDate": "2027-06-27"
+    },
+    {
+      "name": "Under Armour Eastside 10K",
+      "nameZh": null,
+      "city": "Vancouver",
+      "country": "Canada",
+      "sport": "run",
+      "distancesKm": [
+        10
+      ],
+      "months": [
+        9
+      ],
+      "url": "https://canadarunningseries.com/vancouver-eastside-10k/",
+      "nextDate": "2027-09-26"
+    },
+    {
+      "name": "Canada Life Forest City Road Races",
+      "nameZh": null,
+      "city": "London",
+      "country": "Canada",
+      "sport": "run",
+      "distancesKm": [
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        6
+      ],
+      "url": "https://www.forestcityroadraces.com/",
+      "nextDate": "2027-06-06"
+    },
+    {
+      "name": "Across the Lake Swim Westwood Lake",
+      "nameZh": null,
+      "city": "Nanaimo",
+      "country": "Canada",
+      "sport": "swim",
+      "distancesKm": [
+        5,
+        2.5,
+        1.5
+      ],
+      "months": [
+        6
+      ],
+      "url": "https://acrossthelakeswim.com/",
+      "nextDate": "2027-06-05"
+    },
+    {
+      "name": "Across the Lake Swim Thetis Lake",
+      "nameZh": null,
+      "city": "Victoria",
+      "country": "Canada",
+      "sport": "swim",
+      "distancesKm": [
+        4,
+        2,
+        1
+      ],
+      "months": [
+        6
+      ],
+      "url": "https://acrossthelakeswim.com/",
+      "nextDate": "2027-06-06"
+    },
+    {
+      "name": "Across the Lake Swim Osoyoos",
+      "nameZh": null,
+      "city": "Osoyoos",
+      "country": "Canada",
+      "sport": "swim",
+      "distancesKm": [
+        5,
+        3,
+        1.5
+      ],
+      "months": [
+        7
+      ],
+      "url": "https://acrossthelakeswim.com/",
+      "nextDate": "2027-07-04"
+    },
+    {
+      "name": "Across the Lake Swim Kalamalka Lake",
+      "nameZh": null,
+      "city": "Coldstream",
+      "country": "Canada",
+      "sport": "swim",
+      "distancesKm": [
+        10,
+        4.5,
+        1.5
+      ],
+      "months": [
+        7,
+        8
+      ],
+      "url": "https://acrossthelakeswim.com/",
+      "nextDate": "2027-07-24"
+    },
+    {
+      "name": "Across the Lake Swim Rattlesnake Island",
+      "nameZh": null,
+      "city": "Peachland",
+      "country": "Canada",
+      "sport": "swim",
+      "distancesKm": [
+        7.1,
+        4,
+        1.5
+      ],
+      "months": [
+        7,
+        8
+      ],
+      "url": "https://acrossthelakeswim.com/",
+      "nextDate": "2027-07-31"
+    },
+    {
+      "name": "Across the Lake Swim Skaha Lake",
+      "nameZh": null,
+      "city": "Penticton",
+      "country": "Canada",
+      "sport": "swim",
+      "distancesKm": [
+        11.8,
+        4.5,
+        2.5
+      ],
+      "months": [
+        8
+      ],
+      "url": "https://acrossthelakeswim.com/",
+      "nextDate": "2027-08-08"
+    },
+    {
+      "name": "Across the Lake Swim Copper Island",
+      "nameZh": null,
+      "city": "Shuswap",
+      "country": "Canada",
+      "sport": "swim",
+      "distancesKm": [
+        5,
+        2.6
+      ],
+      "months": [
+        9
+      ],
+      "url": "https://acrossthelakeswim.com/",
+      "nextDate": "2027-09-11"
+    },
+    {
+      "name": "Across the Lake Swim Cultus Lake",
+      "nameZh": null,
+      "city": "Cultus Lake",
+      "country": "Canada",
+      "sport": "swim",
+      "distancesKm": [
+        3,
+        1.5,
+        0.75
+      ],
+      "months": [
+        9
+      ],
+      "url": "https://acrossthelakeswim.com/",
+      "nextDate": "2027-09-12"
+    },
+    {
+      "name": "Mudskipper Sasamat Open Water Swim",
+      "nameZh": "Canaqua Sports' own Race Roster page; 1/3/5 laps of 1 km in Sasamat Lake, alongside the swimrun champs.",
+      "city": "Port Moody",
+      "country": "Canada",
+      "sport": "swim",
+      "distancesKm": [
+        5,
+        3,
+        1
+      ],
+      "months": [
+        9
+      ],
+      "url": "https://www.canaquasports.com/",
+      "nextDate": "2027-09-12"
+    },
+    {
+      "name": "Princess Margaret Ride to Conquer Cancer",
+      "nameZh": null,
+      "city": "Toronto",
+      "country": "Canada",
+      "sport": "bike",
+      "distancesKm": [
+        260,
+        200,
+        100,
+        50
+      ],
+      "months": [
+        6
+      ],
+      "url": "https://www.ridetoconquercancer.ca/",
+      "nextDate": "2027-06-12"
+    },
+    {
+      "name": "Tour de Victoria",
+      "nameZh": null,
+      "city": "Victoria",
+      "country": "Canada",
+      "sport": "bike",
+      "distancesKm": [
+        160
+      ],
+      "months": [
+        8
+      ],
+      "url": "https://www.tourdevictoria.com/",
+      "nextDate": "2027-08-14"
+    },
+    {
+      "name": "Tour la Nuit",
+      "nameZh": null,
+      "city": "Montreal",
+      "country": "Canada",
+      "sport": "bike",
+      "distancesKm": [
+        25,
+        12
+      ],
+      "months": [
+        6
+      ],
+      "url": "https://festivalgovelo.velo.qc.ca/evenement/tour-la-nuit/",
+      "nextDate": "2027-06-04"
+    },
+    {
+      "name": "Head of the Trent Regatta",
+      "nameZh": "2026 edition Oct 3-4; 2027 not published. Course length approx (head race on the Otonabee) - verify.",
+      "city": "Peterborough",
+      "country": "Canada",
+      "sport": "row",
+      "distancesKm": [
+        5
+      ],
+      "months": [
+        10
+      ],
+      "url": "https://www.hotr.ca/",
+      "nextDate": null
+    },
+    {
+      "name": "Coldest Night of the Year",
+      "nameZh": "Charity walk in ~190 Canadian communities same night; city set to 'Canada-wide' - adjust to app convention if needed.",
+      "city": "Canada-wide",
+      "country": "Canada",
+      "sport": "walk",
+      "distancesKm": [
+        5,
+        2
+      ],
+      "months": [
+        2
+      ],
+      "url": "https://cnoy.org/",
+      "nextDate": "2027-02-27"
+    },
+    {
+      "name": "ASICS Hong Kong Half Marathon Championships",
+      "nameZh": "ASICS香港半馬拉松錦標賽",
+      "city": "Hong Kong",
+      "country": "",
+      "sport": "run",
+      "distancesKm": [
+        21.0975
+      ],
+      "months": [
+        12
+      ],
+      "url": "https://hkaaa.com/tc/comp_details.php?id=293",
+      "nextDate": "2026-12-13"
+    },
+    {
+      "name": "Hong Kong 10km Championships",
+      "nameZh": "香港十公里錦標賽",
+      "city": "Hong Kong",
+      "country": "",
+      "sport": "run",
+      "distancesKm": [
+        10
+      ],
+      "months": [
+        10
+      ],
+      "url": "https://hkaaa.com/tc/comp_details.php?id=287",
+      "nextDate": null
+    },
+    {
+      "name": "PEGASUS Shek Mun 10K",
+      "nameZh": "PEGASUS 石門10公里賽",
+      "city": "Hong Kong",
+      "country": "",
+      "sport": "run",
+      "distancesKm": [
+        10
+      ],
+      "months": [
+        1,
+        3,
+        12
+      ],
+      "url": "http://hkmarathonpro.com/index.htm",
+      "nextDate": "2026-12-06"
+    },
+    {
+      "name": "RMAC Shatin 10K Classic Riverside Race",
+      "nameZh": "RMAC「沙田10K」河畔賽",
+      "city": "Hong Kong",
+      "country": "",
+      "sport": "run",
+      "distancesKm": [
+        10
+      ],
+      "months": [
+        3
+      ],
+      "url": "http://hkmarathonpro.com/index.htm",
+      "nextDate": "2027-03-07"
+    },
+    {
+      "name": "PEGASUS Tsuen Wan 10K Super Summer Challenge",
+      "nameZh": "PEGASUS 荃灣10K—超級夏日挑戰賽",
+      "city": "Hong Kong",
+      "country": "",
+      "sport": "run",
+      "distancesKm": [
+        10
+      ],
+      "months": [
+        8
+      ],
+      "url": "http://hkmarathonpro.com/index.htm",
+      "nextDate": null
+    },
+    {
+      "name": "RMAC Gold Coast 15K",
+      "nameZh": "RMAC 黃金海岸15公里賽",
+      "city": "Hong Kong",
+      "country": "",
+      "sport": "run",
+      "distancesKm": [
+        15
+      ],
+      "months": [
+        11
+      ],
+      "url": "http://hkmarathonpro.com/index.htm",
+      "nextDate": null
+    },
+    {
+      "name": "UNICEF Charity Run HERO RUN",
+      "nameZh": "聯合國兒童基金會慈善跑 HERO RUN",
+      "city": "Hong Kong",
+      "country": "",
+      "sport": "run",
+      "distancesKm": [
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        1
+      ],
+      "url": "https://run.unicef.org.hk/",
+      "nextDate": "2027-01-03"
+    },
+    {
+      "name": "Run With Love – Friends of Caritas Charity Run",
+      "nameZh": "明愛之友慈善跑",
+      "city": "Hong Kong",
+      "country": "",
+      "sport": "run",
+      "distancesKm": [
+        10,
+        5,
+        3
+      ],
+      "months": [
+        1,
+        2
+      ],
+      "url": "https://runwithlove.org.hk/",
+      "nextDate": "2027-01-31"
+    },
+    {
+      "name": "Hong Kong Disneyland Magic Run Fest",
+      "nameZh": "香港迪士尼奇妙跑步嘉年華",
+      "city": "Hong Kong",
+      "country": "",
+      "sport": "run",
+      "distancesKm": [
+        10,
+        5,
+        3
+      ],
+      "months": [
+        11
+      ],
+      "url": "https://www.hongkongdisneyland.com/events/magic-run-fest/",
+      "nextDate": "2026-11-28"
+    },
+    {
+      "name": "Henderson x Pok Oi Central Charity Run",
+      "nameZh": "恒基x博愛中環慈善跑",
+      "city": "Hong Kong",
+      "country": "",
+      "sport": "run",
+      "distancesKm": [
+        10,
+        3
+      ],
+      "months": [
+        2
+      ],
+      "url": "https://www.pokoirun.hk/",
+      "nextDate": "2027-02-14"
+    },
+    {
+      "name": "Run For Girls! Charity Run",
+      "nameZh": null,
+      "city": "Hong Kong",
+      "country": "",
+      "sport": "run",
+      "distancesKm": [
+        10
+      ],
+      "months": [
+        3,
+        4
+      ],
+      "url": "https://www.plan.org.hk/en/run_for_girls/",
+      "nextDate": "2027-03-14"
+    },
+    {
+      "name": "Hong Kong Open Water Swimming Series",
+      "nameZh": "香港公開水域游泳系列賽",
+      "city": "Hong Kong",
+      "country": "",
+      "sport": "swim",
+      "distancesKm": [
+        10,
+        3.3
+      ],
+      "months": [
+        1,
+        5,
+        10
+      ],
+      "url": "https://hkgswimming.org.hk/zh-hant/activities/135/",
+      "nextDate": null
+    },
+    {
+      "name": "Clean Half Extreme Marathon Swim",
+      "nameZh": "清潔半程游泳賽",
+      "city": "Hong Kong",
+      "country": "",
+      "sport": "swim",
+      "distancesKm": [
+        15
+      ],
+      "months": [
+        10
+      ],
+      "url": "https://www.oceanrecov.org/open-water-swims",
+      "nextDate": null
+    },
+    {
+      "name": "Sheko Challenge",
+      "nameZh": null,
+      "city": "Hong Kong",
+      "country": "",
+      "sport": "swim",
+      "distancesKm": [
+        3,
+        1,
+        0.4
+      ],
+      "months": [
+        9
+      ],
+      "url": "https://www.oceanrecov.org/open-water-swims",
+      "nextDate": null
+    },
+    {
+      "name": "Shanghai Commercial Bank Pok Oi Cycling for Millions",
+      "nameZh": "上海商業．博愛單車百萬行",
+      "city": "Hong Kong",
+      "country": "",
+      "sport": "bike",
+      "distancesKm": [
+        21,
+        13
+      ],
+      "months": [
+        3
+      ],
+      "url": "https://pokoi.org.hk/",
+      "nextDate": null
+    },
+    {
+      "name": "Hong Kong Harbour Regatta",
+      "nameZh": "維港賽艇賽",
+      "city": "Hong Kong",
+      "country": "",
+      "sport": "row",
+      "distancesKm": [
+        0.63
+      ],
+      "months": [
+        3
+      ],
+      "url": "https://rowing.org.hk/event/%e7%ac%ac10%e5%b1%86%e7%b6%ad%e6%b8%af%e8%b3%bd%e8%89%87%e8%b3%bd/",
+      "nextDate": null
+    },
+    {
+      "name": "Head of the Bay",
+      "nameZh": "深水灣繞圈賽",
+      "city": "Hong Kong",
+      "country": "",
+      "sport": "row",
+      "distancesKm": [
+        4.2,
+        2.5
+      ],
+      "months": [
+        4
+      ],
+      "url": "https://rowing.org.hk/event/%e7%ac%ac69%e5%b1%86%e6%b7%b1%e6%b0%b4%e7%81%a3%e7%b9%9e%e5%9c%88%e8%b3%bd/",
+      "nextDate": null
+    },
+    {
+      "name": "Hong Kong Rowing International Masters Regatta",
+      "nameZh": "香港賽艇國際大師賽",
+      "city": "Hong Kong",
+      "country": "",
+      "sport": "row",
+      "distancesKm": [
+        1
+      ],
+      "months": [
+        4
+      ],
+      "url": "https://rowing.org.hk/event/%e7%ac%ac10%e5%b1%86%e9%a6%99%e6%b8%af%e8%b3%bd%e8%89%87%e5%9c%8b%e9%9a%9b%e5%a4%a7%e5%b8%ab%e8%b3%bd/",
+      "nextDate": null
+    },
+    {
+      "name": "Shing Mun River Regatta",
+      "nameZh": "城門河賽艇賽",
+      "city": "Hong Kong",
+      "country": "",
+      "sport": "row",
+      "distancesKm": [
+        2,
+        1
+      ],
+      "months": [
+        6,
+        7,
+        10
+      ],
+      "url": "https://rowing.org.hk/race-bulletin-shing-mun-river-regatta-i-2026/",
+      "nextDate": null
+    },
+    {
+      "name": "Hong Kong Rowing Coastal Championships",
+      "nameZh": "香港海岸賽艇錦標賽",
+      "city": "Hong Kong",
+      "country": "",
+      "sport": "row",
+      "distancesKm": [
+        4.6
+      ],
+      "months": [
+        9
+      ],
+      "url": "https://rowing.org.hk/event/%e7%ac%ac13%e5%b1%86%e9%a6%99%e6%b8%af%e6%b5%b7%e5%b2%b8%e8%b3%bd%e8%89%87%e9%8c%a6%e6%a8%99%e8%b3%bd/",
+      "nextDate": null
+    },
+    {
+      "name": "Community Chest Hong Kong & Kowloon Walk for Millions",
+      "nameZh": "公益金港島、九龍區百萬行",
+      "city": "Hong Kong",
+      "country": "",
+      "sport": "walk",
+      "distancesKm": [
+        10
+      ],
+      "months": [
+        1
+      ],
+      "url": "https://www.commchest.org/en/event/hkwalk2026",
+      "nextDate": "2027-01-03"
+    },
+    {
+      "name": "Community Chest New Territories Walk for Millions",
+      "nameZh": "公益金新界區百萬行",
+      "city": "Hong Kong",
+      "country": "",
+      "sport": "walk",
+      "distancesKm": [
+        6
+      ],
+      "months": [
+        3
+      ],
+      "url": "https://www.commchest.org/en/event/ntwalk2026",
+      "nextDate": null
+    },
+    {
+      "name": "Oxfam Trailwalker",
+      "nameZh": "樂施毅行者",
+      "city": "Hong Kong",
+      "country": "",
+      "sport": "hike",
+      "distancesKm": [
+        100,
+        20
+      ],
+      "months": [
+        11
+      ],
+      "url": "https://www.oxfamtrailwalker.org.hk/en/",
+      "nextDate": "2026-11-20"
+    },
+    {
+      "name": "Green Power Hike",
+      "nameZh": "綠色力量環島行",
+      "city": "Hong Kong",
+      "country": "",
+      "sport": "hike",
+      "distancesKm": [
+        50,
+        25,
+        10
+      ],
+      "months": [
+        1,
+        2
+      ],
+      "url": "https://hike.greenpower.org.hk/eng/home",
+      "nextDate": "2027-01-30"
+    },
+    {
+      "name": "Incheon Marathon",
+      "nameZh": "仁川馬拉松",
+      "city": "Incheon",
+      "country": "South Korea",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        10,
+        5
+      ],
+      "months": [
+        11
+      ],
+      "url": "https://incheonmarathon.or.kr/",
+      "nextDate": "2026-11-22"
+    },
+    {
+      "name": "Gunsan Saemangeum Marathon",
+      "nameZh": "群山新萬金馬拉松",
+      "city": "Gunsan",
+      "country": "South Korea",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        10,
+        5
+      ],
+      "months": [
+        4
+      ],
+      "url": "http://www.gunsanmarathon.com/",
+      "nextDate": null
+    },
+    {
+      "name": "Jeju MBC International Peace Marathon",
+      "nameZh": null,
+      "city": "Jeju",
+      "country": "South Korea",
+      "sport": "run",
+      "distancesKm": [
+        21.0975,
+        10
+      ],
+      "months": [
+        2,
+        3
+      ],
+      "url": "http://marathon.jejumbc.com/",
+      "nextDate": "2027-03-28"
+    },
+    {
+      "name": "Bucheon International 10K Road Race",
+      "nameZh": null,
+      "city": "Bucheon",
+      "country": "South Korea",
+      "sport": "run",
+      "distancesKm": [
+        10
+      ],
+      "months": [
+        3
+      ],
+      "url": "http://bskrun.co.kr/",
+      "nextDate": "2027-03-07"
+    },
+    {
+      "name": "Yeosu Ocean Marathon",
+      "nameZh": "麗水海洋馬拉松",
+      "city": "Yeosu",
+      "country": "South Korea",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        1
+      ],
+      "url": "http://www.ysmarathon.co.kr/",
+      "nextDate": "2027-01-10"
+    },
+    {
+      "name": "Haenam Ttangkkeut Marathon",
+      "nameZh": null,
+      "city": "Haenam",
+      "country": "South Korea",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        2,
+        11
+      ],
+      "url": "http://haenammarathon.co.kr/",
+      "nextDate": "2027-02-14"
+    },
+    {
+      "name": "Incheon International Half Marathon",
+      "nameZh": "仁川國際半程馬拉松",
+      "city": "Incheon",
+      "country": "South Korea",
+      "sport": "run",
+      "distancesKm": [
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        3
+      ],
+      "url": "http://www.incheonmarathon.co.kr/",
+      "nextDate": null
+    },
+    {
+      "name": "Gyeongju Cherry Blossom Marathon",
+      "nameZh": "慶州櫻花馬拉松",
+      "city": "Gyeongju",
+      "country": "South Korea",
+      "sport": "run",
+      "distancesKm": [
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        4
+      ],
+      "url": "http://www.cherrymarathon.co.kr/",
+      "nextDate": null
+    },
+    {
+      "name": "Cheorwon DMZ International Peace Marathon",
+      "nameZh": null,
+      "city": "Cheorwon",
+      "country": "South Korea",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10
+      ],
+      "months": [
+        9
+      ],
+      "url": "https://dmzrun.kr/",
+      "nextDate": null
+    },
+    {
+      "name": "Jeju International Tourism Marathon Festival",
+      "nameZh": null,
+      "city": "Jeju",
+      "country": "South Korea",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10
+      ],
+      "months": [
+        6
+      ],
+      "url": "http://jejumarathon.com/",
+      "nextDate": null
+    },
+    {
+      "name": "Jeju Tangerine Marathon",
+      "nameZh": null,
+      "city": "Jeju",
+      "country": "South Korea",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10
+      ],
+      "months": [
+        11
+      ],
+      "url": "http://marathon.ihalla.com/",
+      "nextDate": null
+    },
+    {
+      "name": "Yeongnam Ilbo International Half Marathon",
+      "nameZh": null,
+      "city": "Daegu",
+      "country": "South Korea",
+      "sport": "run",
+      "distancesKm": [
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        4
+      ],
+      "url": "http://ynmarathon.kr/",
+      "nextDate": null
+    },
+    {
+      "name": "Goyang Half Marathon",
+      "nameZh": null,
+      "city": "Goyang",
+      "country": "South Korea",
+      "sport": "run",
+      "distancesKm": [
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        3
+      ],
+      "url": "https://www.goyangmarathon.com/",
+      "nextDate": null
+    },
+    {
+      "name": "Ban Ki-moon Marathon",
+      "nameZh": "潘基文馬拉松",
+      "city": "Eumseong",
+      "country": "South Korea",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10
+      ],
+      "months": [
+        4
+      ],
+      "url": "http://bankimoonmarathon.kr/",
+      "nextDate": null
+    },
+    {
+      "name": "Yangpyeong Lee Bong-ju Marathon",
+      "nameZh": null,
+      "city": "Yangpyeong",
+      "country": "South Korea",
+      "sport": "run",
+      "distancesKm": [
+        21.0975,
+        10
+      ],
+      "months": [
+        6
+      ],
+      "url": "http://www.hangangmarathon.net/",
+      "nextDate": null
+    },
+    {
+      "name": "Suncheon Nam Seung-ryong Marathon",
+      "nameZh": null,
+      "city": "Suncheon",
+      "country": "South Korea",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        11
+      ],
+      "url": "http://sc-marathon.kr/",
+      "nextDate": null
+    },
+    {
+      "name": "Son Kee-chung Peace Marathon",
+      "nameZh": "孫基禎和平馬拉松",
+      "city": "Paju",
+      "country": "South Korea",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10,
+        6
+      ],
+      "months": [
+        11
+      ],
+      "url": "https://sonkeechungrun.com/",
+      "nextDate": null
+    },
+    {
+      "name": "Jeongeup Donghak Marathon",
+      "nameZh": null,
+      "city": "Jeongeup",
+      "country": "South Korea",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        3
+      ],
+      "url": "http://www.jdmarathon.com/",
+      "nextDate": null
+    },
+    {
+      "name": "Boryeong Mud Marathon",
+      "nameZh": null,
+      "city": "Boryeong",
+      "country": "South Korea",
+      "sport": "run",
+      "distancesKm": [
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        5
+      ],
+      "url": "http://brrun.co.kr/",
+      "nextDate": null
+    },
+    {
+      "name": "The Race Seoul 21K",
+      "nameZh": null,
+      "city": "Seoul",
+      "country": "South Korea",
+      "sport": "run",
+      "distancesKm": [
+        21.0975,
+        10
+      ],
+      "months": [
+        4
+      ],
+      "url": "http://www.theraceseoul21k.com/",
+      "nextDate": null
+    },
+    {
+      "name": "Seoul Race",
+      "nameZh": null,
+      "city": "Seoul",
+      "country": "South Korea",
+      "sport": "run",
+      "distancesKm": [
+        21.0975,
+        10
+      ],
+      "months": [
+        10
+      ],
+      "url": "http://www.seoul-race.co.kr/",
+      "nextDate": null
+    },
+    {
+      "name": "MBN Seoul Marathon",
+      "nameZh": null,
+      "city": "Seoul",
+      "country": "South Korea",
+      "sport": "run",
+      "distancesKm": [
+        21.0975,
+        10
+      ],
+      "months": [
+        11
+      ],
+      "url": "http://mbn-seoulmarathon.com/",
+      "nextDate": null
+    },
+    {
+      "name": "Run Seoul Run (Ilgan Sports Seoul Marathon)",
+      "nameZh": null,
+      "city": "Seoul",
+      "country": "South Korea",
+      "sport": "run",
+      "distancesKm": [
+        21.0975,
+        10
+      ],
+      "months": [
+        9
+      ],
+      "url": "http://runseoulrun.com/",
+      "nextDate": null
+    },
+    {
+      "name": "YTN Seoul Tour Marathon",
+      "nameZh": null,
+      "city": "Seoul",
+      "country": "South Korea",
+      "sport": "run",
+      "distancesKm": [
+        21.0975,
+        11
+      ],
+      "months": [
+        9
+      ],
+      "url": "http://run.ytn.co.kr/",
+      "nextDate": null
+    },
+    {
+      "name": "Hankyung Seoul Marathon",
+      "nameZh": null,
+      "city": "Seoul",
+      "country": "South Korea",
+      "sport": "run",
+      "distancesKm": [
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        10
+      ],
+      "url": "http://www.hk-marathon.com/",
+      "nextDate": null
+    },
+    {
+      "name": "Busan International Marathon (Kookje)",
+      "nameZh": null,
+      "city": "Busan",
+      "country": "South Korea",
+      "sport": "run",
+      "distancesKm": [
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        11
+      ],
+      "url": "http://kjmarathon.com/",
+      "nextDate": null
+    },
+    {
+      "name": "Hwacheon DMZ Rally",
+      "nameZh": null,
+      "city": "Hwacheon",
+      "country": "South Korea",
+      "sport": "bike",
+      "distancesKm": [
+        71.35
+      ],
+      "months": [
+        5
+      ],
+      "url": "http://dmzrally.com/",
+      "nextDate": null
+    },
+    {
+      "name": "Korea International Walking Festival",
+      "nameZh": null,
+      "city": "Seoul",
+      "country": "South Korea",
+      "sport": "walk",
+      "distancesKm": [
+        42,
+        25,
+        10,
+        5
+      ],
+      "months": [
+        10
+      ],
+      "url": "https://www.walking.or.kr/02_04/",
+      "nextDate": null
+    },
+    {
+      "name": "Seoul Walking Festival",
+      "nameZh": null,
+      "city": "Seoul",
+      "country": "South Korea",
+      "sport": "walk",
+      "distancesKm": [
+        25,
+        10,
+        9,
+        5
+      ],
+      "months": [
+        5
+      ],
+      "url": "https://www.walking.or.kr/02_02/",
+      "nextDate": "2027-05-29"
+    },
+    {
+      "name": "Seogwipo Canola Flower International Walking Festival",
+      "nameZh": null,
+      "city": "Seogwipo",
+      "country": "South Korea",
+      "sport": "walk",
+      "distancesKm": [
+        21,
+        11,
+        6
+      ],
+      "months": [
+        3
+      ],
+      "url": "https://www.walking.or.kr/02_01/",
+      "nextDate": "2027-03-27"
+    },
+    {
+      "name": "Suncheon Bay ECO Walking Festival",
+      "nameZh": null,
+      "city": "Suncheon",
+      "country": "South Korea",
+      "sport": "walk",
+      "distancesKm": [
+        25,
+        10,
+        5
+      ],
+      "months": [
+        11
+      ],
+      "url": "https://www.walking.or.kr/02_08/",
+      "nextDate": "2026-11-28"
+    },
+    {
+      "name": "Ara Waterway Night Walk 66km",
+      "nameZh": null,
+      "city": "Incheon",
+      "country": "South Korea",
+      "sport": "walk",
+      "distancesKm": [
+        66,
+        30,
+        20,
+        5
+      ],
+      "months": [
+        9
+      ],
+      "url": "https://www.walking.or.kr/02_09/",
+      "nextDate": "2027-09-25"
+    },
+    {
+      "name": "March 1st 120km All-Night Walk",
+      "nameZh": null,
+      "city": "Seoul",
+      "country": "South Korea",
+      "sport": "walk",
+      "distancesKm": [
+        120,
+        60,
+        34,
+        10
+      ],
+      "months": [
+        2,
+        3
+      ],
+      "url": "https://www.walking.or.kr/02_05/",
+      "nextDate": "2027-02-27"
+    },
+    {
+      "name": "Seorak International Trekking Festival",
+      "nameZh": null,
+      "city": "Sokcho",
+      "country": "South Korea",
+      "sport": "hike",
+      "distancesKm": [
+        20,
+        10,
+        5
+      ],
+      "months": [
+        6
+      ],
+      "url": "https://www.walking.or.kr/02_03/",
+      "nextDate": null
+    },
+    {
+      "name": "Kinmen Marathon",
+      "nameZh": "金門馬拉松",
+      "city": "Kinmen",
+      "country": "Taiwan",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10,
+        4
+      ],
+      "months": [
+        1
+      ],
+      "url": "https://www.sportsnet.org.tw/20270117_web/",
+      "nextDate": "2027-01-17"
+    },
+    {
+      "name": "Nan Shan Taipei Freeway Marathon",
+      "nameZh": "南山人壽臺北國道馬拉松",
+      "city": "Taipei",
+      "country": "Taiwan",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975
+      ],
+      "months": [
+        3
+      ],
+      "url": "https://www.taipeifreewaymarathon.com/",
+      "nextDate": "2027-03-07"
+    },
+    {
+      "name": "Taishin Women Run Taipei",
+      "nameZh": null,
+      "city": "Taipei",
+      "country": "Taiwan",
+      "sport": "run",
+      "distancesKm": [
+        21.0975,
+        10,
+        3
+      ],
+      "months": [
+        4
+      ],
+      "url": "https://www.womenruntpe.com/",
+      "nextDate": "2027-04-11"
+    },
+    {
+      "name": "NS Run Nan Shan Life Half Marathon",
+      "nameZh": "南山人壽半程馬拉松",
+      "city": "Taipei",
+      "country": "Taiwan",
+      "sport": "run",
+      "distancesKm": [
+        21.0975,
+        10,
+        3
+      ],
+      "months": [
+        11
+      ],
+      "url": "https://www.nanshanrun.com/",
+      "nextDate": "2026-11-22"
+    },
+    {
+      "name": "Taiwan National Park Marathon – Yangmingshan",
+      "nameZh": "臺灣國家公園馬拉松－陽明山",
+      "city": "Taipei",
+      "country": "Taiwan",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        5
+      ],
+      "months": [
+        11
+      ],
+      "url": "https://www.sportsnet.org.tw/20261101_web/",
+      "nextDate": null
+    },
+    {
+      "name": "Panasonic Taipei City Run",
+      "nameZh": "Panasonic台北城市路跑賽",
+      "city": "Taipei",
+      "country": "Taiwan",
+      "sport": "run",
+      "distancesKm": [
+        12.5,
+        3
+      ],
+      "months": [
+        9
+      ],
+      "url": "https://taipeicityrun.com/",
+      "nextDate": null
+    },
+    {
+      "name": "Taipei Supau Cup Road Race",
+      "nameZh": "臺北市舒跑杯路跑賽",
+      "city": "Taipei",
+      "country": "Taiwan",
+      "sport": "run",
+      "distancesKm": [
+        9,
+        3
+      ],
+      "months": [
+        5
+      ],
+      "url": "https://www.sportsnet.org.tw/20260510_web/",
+      "nextDate": null
+    },
+    {
+      "name": "Kaohsiung Supau Cup Road Race",
+      "nameZh": "高雄市舒跑杯路跑競賽",
+      "city": "Kaohsiung",
+      "country": "Taiwan",
+      "sport": "run",
+      "distancesKm": [
+        9.7,
+        3
+      ],
+      "months": [
+        10
+      ],
+      "url": "https://www.sportsnet.org.tw/20261018_web/",
+      "nextDate": null
+    },
+    {
+      "name": "Taichung Metropolitan International Half Marathon",
+      "nameZh": "台中都會國際半程馬拉松",
+      "city": "Taichung",
+      "country": "Taiwan",
+      "sport": "run",
+      "distancesKm": [
+        21.0975,
+        10,
+        3.5
+      ],
+      "months": [
+        1
+      ],
+      "url": "https://www.ctrun.com.tw/Activity?EventMain_ID=362",
+      "nextDate": "2027-01-17"
+    },
+    {
+      "name": "New Taipei Metropolitan International Half Marathon",
+      "nameZh": "新北都會國際半程馬拉松",
+      "city": "New Taipei",
+      "country": "Taiwan",
+      "sport": "run",
+      "distancesKm": [
+        21.0975,
+        10.5,
+        4.5
+      ],
+      "months": [
+        1
+      ],
+      "url": "https://www.ctrun.com.tw/Activity?EventMain_ID=363",
+      "nextDate": "2027-01-03"
+    },
+    {
+      "name": "Tainan Fucheng International Half Marathon",
+      "nameZh": "台南府城國際半程馬拉松",
+      "city": "Tainan",
+      "country": "Taiwan",
+      "sport": "run",
+      "distancesKm": [
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        12
+      ],
+      "url": "https://www.ctrun.com.tw/Activity?EventMain_ID=349",
+      "nextDate": "2026-12-20"
+    },
+    {
+      "name": "Kaohsiung Harbour City International Half Marathon",
+      "nameZh": "高雄港都國際半程馬拉松",
+      "city": "Kaohsiung",
+      "country": "Taiwan",
+      "sport": "run",
+      "distancesKm": [
+        21.0975,
+        10,
+        3
+      ],
+      "months": [
+        12
+      ],
+      "url": "https://www.ctrun.com.tw/Activity?EventMain_ID=344",
+      "nextDate": "2026-12-13"
+    },
+    {
+      "name": "ZEPRO RUN National Half Marathon – Taipei",
+      "nameZh": "ZEPRO RUN全國半程馬拉松－台北場",
+      "city": "Taipei",
+      "country": "Taiwan",
+      "sport": "run",
+      "distancesKm": [
+        21.0975,
+        10,
+        4
+      ],
+      "months": [
+        12
+      ],
+      "url": "https://www.ctrun.com.tw/Activity?EventMain_ID=342",
+      "nextDate": "2026-12-06"
+    },
+    {
+      "name": "ZEPRO RUN National Half Marathon – Tainan",
+      "nameZh": "ZEPRO RUN全國半程馬拉松－台南場",
+      "city": "Tainan",
+      "country": "Taiwan",
+      "sport": "run",
+      "distancesKm": [
+        21.0975,
+        10,
+        3.5
+      ],
+      "months": [
+        11
+      ],
+      "url": "https://www.ctrun.com.tw/Activity?EventMain_ID=320",
+      "nextDate": null
+    },
+    {
+      "name": "ZEPRO RUN National Half Marathon – Hsinchu",
+      "nameZh": "ZEPRO RUN全國半程馬拉松－新竹場",
+      "city": "Hsinchu",
+      "country": "Taiwan",
+      "sport": "run",
+      "distancesKm": [
+        21.0975,
+        10,
+        5.5
+      ],
+      "months": [
+        11
+      ],
+      "url": "https://www.ctrun.com.tw/Activity?EventMain_ID=324",
+      "nextDate": null
+    },
+    {
+      "name": "Pingtung Marathon",
+      "nameZh": "屏東馬拉松",
+      "city": "Pingtung",
+      "country": "Taiwan",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        11,
+        5
+      ],
+      "months": [
+        11
+      ],
+      "url": "https://www.ctrun.com.tw/Activity?EventMain_ID=351",
+      "nextDate": null
+    },
+    {
+      "name": "Taiwan Sugar Charity Road Race",
+      "nameZh": "台糖公益路跑",
+      "city": "Tainan",
+      "country": "Taiwan",
+      "sport": "run",
+      "distancesKm": [
+        21.0975,
+        11,
+        3
+      ],
+      "months": [
+        10,
+        12
+      ],
+      "url": "https://www.ctrun.com.tw/Activity?EventMain_ID=338",
+      "nextDate": "2026-12-12"
+    },
+    {
+      "name": "Chiayi Christian Hospital BLESS RUN",
+      "nameZh": "嘉基愛+1 八福公益路跑",
+      "city": "Chiayi",
+      "country": "Taiwan",
+      "sport": "run",
+      "distancesKm": [
+        21.0975,
+        11,
+        5
+      ],
+      "months": [
+        3
+      ],
+      "url": "https://www.ctrun.com.tw/Activity?EventMain_ID=372",
+      "nextDate": "2027-03-06"
+    },
+    {
+      "name": "Taoyuan Bald Cypress Secret Realm Marathon",
+      "nameZh": "桃園落羽松秘境馬拉松",
+      "city": "Taoyuan",
+      "country": "Taiwan",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        11,
+        5
+      ],
+      "months": [
+        11
+      ],
+      "url": "https://www.ctrun.com.tw/Activity?EventMain_ID=318",
+      "nextDate": "2026-11-22"
+    },
+    {
+      "name": "Jiaoxi Hot Spring Marathon",
+      "nameZh": "礁溪溫泉馬拉松",
+      "city": "Yilan",
+      "country": "Taiwan",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10,
+        3
+      ],
+      "months": [
+        12
+      ],
+      "url": "https://irunner.biji.co/2026jiaoxihotspring?page=5097",
+      "nextDate": "2026-12-12"
+    },
+    {
+      "name": "Sinphar Yilan Marathon",
+      "nameZh": "杏輝宜蘭馬拉松",
+      "city": "Yilan",
+      "country": "Taiwan",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        11,
+        5
+      ],
+      "months": [
+        4
+      ],
+      "url": "https://lohasnet.tw/SinpharMarathon2027/",
+      "nextDate": "2027-04-10"
+    },
+    {
+      "name": "Yilan Four Seasons Twin Reefs Marathon",
+      "nameZh": "宜蘭四季絕代雙礁馬拉松",
+      "city": "Yilan",
+      "country": "Taiwan",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10,
+        4
+      ],
+      "months": [
+        1
+      ],
+      "url": "https://irunner.biji.co/Yilan2027?page=5513",
+      "nextDate": "2027-01-10"
+    },
+    {
+      "name": "National Geographic Run – Run for Earth",
+      "nameZh": "國家地理路跑 RUN FOR EARTH",
+      "city": "Taipei",
+      "country": "Taiwan",
+      "sport": "run",
+      "distancesKm": [
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        3
+      ],
+      "url": "https://irunner.biji.co/2027NGR?page=5606",
+      "nextDate": "2027-03-14"
+    },
+    {
+      "name": "Changhua Kiwanis Cup National Marathon",
+      "nameZh": "彰化同濟盃全國馬拉松",
+      "city": "Changhua",
+      "country": "Taiwan",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10,
+        3
+      ],
+      "months": [
+        2
+      ],
+      "url": "https://irunner.biji.co/2027Changhua?page=5694",
+      "nextDate": "2027-02-28"
+    },
+    {
+      "name": "Lukang Marathon",
+      "nameZh": "鹿港馬拉松",
+      "city": "Changhua",
+      "country": "Taiwan",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        11
+      ],
+      "url": "https://lohasnet.tw/Lukang2026/",
+      "nextDate": null
+    },
+    {
+      "name": "Lichen Taichung International Marathon",
+      "nameZh": "麗晨臺中國際馬拉松",
+      "city": "Taichung",
+      "country": "Taiwan",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        12
+      ],
+      "url": "https://irunner.biji.co/2026-2livetruemarathon?page=5002",
+      "nextDate": "2026-12-06"
+    },
+    {
+      "name": "Gaomei Wetlands Marathon",
+      "nameZh": "高美濕地馬拉松",
+      "city": "Taichung",
+      "country": "Taiwan",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        3
+      ],
+      "url": "https://lohasnet.tw/Taichung_Harbor2027/",
+      "nextDate": "2027-03-14"
+    },
+    {
+      "name": "National Palace Museum Southern Branch Marathon",
+      "nameZh": "故宮南院馬拉松",
+      "city": "Chiayi",
+      "country": "Taiwan",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10.7,
+        7,
+        3
+      ],
+      "months": [
+        12
+      ],
+      "url": "https://lohasnet.tw/SouthNPM2026/",
+      "nextDate": "2026-12-06"
+    },
+    {
+      "name": "Sun Moon Lake Come! BikeDay",
+      "nameZh": "Come!BikeDay 日月潭自行車嘉年華",
+      "city": "Nantou",
+      "country": "Taiwan",
+      "sport": "bike",
+      "distancesKm": [
+        30,
+        20,
+        10
+      ],
+      "months": [
+        11
+      ],
+      "url": "https://theme.sunmoonlake.gov.tw/comebikeday/Articles.aspx?a=314&l=1",
+      "nextDate": "2026-11-21"
+    },
+    {
+      "name": "Lunzhuan Taiwan 100K Cycling Challenge – Changhua",
+      "nameZh": "輪轉台灣百K單車挑戰賽－彰化站",
+      "city": "Changhua",
+      "country": "Taiwan",
+      "sport": "bike",
+      "distancesKm": [
+        100,
+        62
+      ],
+      "months": [
+        11
+      ],
+      "url": "https://www.ctrun.com.tw/",
+      "nextDate": "2026-11-22"
+    },
+    {
+      "name": "Round the Bays Auckland",
+      "nameZh": null,
+      "city": "Auckland",
+      "country": "New Zealand",
+      "sport": "run",
+      "distancesKm": [
+        8.4
+      ],
+      "months": [
+        3
+      ],
+      "url": "https://www.roundthebays.co.nz/auckland",
+      "nextDate": "2027-03-07"
+    },
+    {
+      "name": "Round the Bays Auckland (Walk)",
+      "nameZh": null,
+      "city": "Auckland",
+      "country": "New Zealand",
+      "sport": "walk",
+      "distancesKm": [
+        8.4
+      ],
+      "months": [
+        3
+      ],
+      "url": "https://www.roundthebays.co.nz/auckland",
+      "nextDate": "2027-03-07"
+    },
+    {
+      "name": "Round the Bays Wellington",
+      "nameZh": null,
+      "city": "Wellington",
+      "country": "New Zealand",
+      "sport": "run",
+      "distancesKm": [
+        21.0975,
+        8.4,
+        5.5
+      ],
+      "months": [
+        2
+      ],
+      "url": "https://www.roundthebays.co.nz/wellington",
+      "nextDate": "2027-02-14"
+    },
+    {
+      "name": "Round the Bays Christchurch",
+      "nameZh": null,
+      "city": "Christchurch",
+      "country": "New Zealand",
+      "sport": "run",
+      "distancesKm": [
+        8.4
+      ],
+      "months": [
+        2
+      ],
+      "url": "https://www.roundthebays.co.nz/christchurch",
+      "nextDate": "2027-02-21"
+    },
+    {
+      "name": "Whanganui 3 Bridges Marathon",
+      "nameZh": null,
+      "city": "Whanganui",
+      "country": "New Zealand",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10.5,
+        5
+      ],
+      "months": [
+        12
+      ],
+      "url": "https://www.whanganuithreebridges.co.nz/",
+      "nextDate": "2026-12-06"
+    },
+    {
+      "name": "Waterfront Half Marathon",
+      "nameZh": null,
+      "city": "Auckland",
+      "country": "New Zealand",
+      "sport": "run",
+      "distancesKm": [
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        4
+      ],
+      "url": "https://waterfront.werun.nz/",
+      "nextDate": "2027-04-11"
+    },
+    {
+      "name": "Maraetai Half Marathon",
+      "nameZh": null,
+      "city": "Auckland (Maraetai)",
+      "country": "New Zealand",
+      "sport": "run",
+      "distancesKm": [
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        3
+      ],
+      "url": "https://maraetai.werun.nz/",
+      "nextDate": "2027-03-14"
+    },
+    {
+      "name": "Coatesville Half Marathon",
+      "nameZh": null,
+      "city": "Auckland (Coatesville)",
+      "country": "New Zealand",
+      "sport": "run",
+      "distancesKm": [
+        21.0975,
+        8,
+        5
+      ],
+      "months": [
+        2
+      ],
+      "url": "https://coatesville.werun.nz/",
+      "nextDate": null
+    },
+    {
+      "name": "Omaha Half Marathon",
+      "nameZh": null,
+      "city": "Omaha",
+      "country": "New Zealand",
+      "sport": "run",
+      "distancesKm": [
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        11
+      ],
+      "url": "https://omaha.werun.nz/",
+      "nextDate": "2026-11-29"
+    },
+    {
+      "name": "Taupō Marathon",
+      "nameZh": null,
+      "city": "Taupō",
+      "country": "New Zealand",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        8
+      ],
+      "url": "https://www.taupomarathon.co.nz/",
+      "nextDate": "2027-08-07"
+    },
+    {
+      "name": "Dunedin Marathon",
+      "nameZh": null,
+      "city": "Dunedin",
+      "country": "New Zealand",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        9
+      ],
+      "url": "https://www.dunedinmarathon.co.nz/",
+      "nextDate": "2027-09-12"
+    },
+    {
+      "name": "North Shore Marathon",
+      "nameZh": null,
+      "city": "Auckland (North Shore)",
+      "country": "New Zealand",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10.5,
+        5
+      ],
+      "months": [
+        8
+      ],
+      "url": "https://www.northshoremarathon.co.nz/",
+      "nextDate": "2027-08-29"
+    },
+    {
+      "name": "Huntly Half Marathon",
+      "nameZh": null,
+      "city": "Huntly",
+      "country": "New Zealand",
+      "sport": "run",
+      "distancesKm": [
+        21.0975,
+        10,
+        6
+      ],
+      "months": [
+        5
+      ],
+      "url": "https://huntlyhalf.co.nz/",
+      "nextDate": null
+    },
+    {
+      "name": "Kerikeri Half Marathon",
+      "nameZh": null,
+      "city": "Kerikeri",
+      "country": "New Zealand",
+      "sport": "run",
+      "distancesKm": [
+        21.0975,
+        5
+      ],
+      "months": [
+        11
+      ],
+      "url": "https://sportnorthlandevents.co.nz/",
+      "nextDate": "2026-11-21"
+    },
+    {
+      "name": "Buller Gorge Marathon",
+      "nameZh": null,
+      "city": "Westport",
+      "country": "New Zealand",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10
+      ],
+      "months": [
+        2
+      ],
+      "url": "https://bgm.nz/",
+      "nextDate": "2027-02-13"
+    },
+    {
+      "name": "Christchurch Motorway Half Marathon",
+      "nameZh": null,
+      "city": "Christchurch",
+      "country": "New Zealand",
+      "sport": "run",
+      "distancesKm": [
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        2
+      ],
+      "url": "https://raceroster.com/events/2027/116673/christchurch-motorway-half-marathon",
+      "nextDate": "2027-02-28"
+    },
+    {
+      "name": "Hike for a Cure",
+      "nameZh": null,
+      "city": "Lake Hāwea",
+      "country": "New Zealand",
+      "sport": "hike",
+      "distancesKm": [
+        26,
+        20,
+        10,
+        5
+      ],
+      "months": [
+        3
+      ],
+      "url": "https://breastcancercure.org.nz/pages/event-hike-for-a-cure-lake-hawea-station-march-2027",
+      "nextDate": "2027-03-20"
+    },
+    {
+      "name": "Whangamatā Ocean Swim",
+      "nameZh": null,
+      "city": "Whangamatā",
+      "country": "New Zealand",
+      "sport": "swim",
+      "distancesKm": [
+        3.8,
+        2,
+        0.5
+      ],
+      "months": [
+        3
+      ],
+      "url": "https://www.oceanswim.co.nz/pages/whangamata",
+      "nextDate": "2027-03-13"
+    },
+    {
+      "name": "Lake Karāpiro Swim Fest",
+      "nameZh": null,
+      "city": "Cambridge (Lake Karāpiro)",
+      "country": "New Zealand",
+      "sport": "swim",
+      "distancesKm": [
+        25,
+        10,
+        5,
+        3.5,
+        2.5,
+        1,
+        0.5
+      ],
+      "months": [
+        3,
+        4
+      ],
+      "url": "https://www.oceanswim.co.nz/pages/lake-karapiro-swim-fest",
+      "nextDate": "2027-04-03"
+    },
+    {
+      "name": "Ignite Freshwater Swim Fest",
+      "nameZh": null,
+      "city": "Auckland (Lake Pupuke)",
+      "country": "New Zealand",
+      "sport": "swim",
+      "distancesKm": [
+        10,
+        7.5,
+        5,
+        2.5
+      ],
+      "months": [
+        2
+      ],
+      "url": "https://www.freshwaterswimfest.com/",
+      "nextDate": "2027-02-13"
+    },
+    {
+      "name": "The Whakatipu Legend",
+      "nameZh": null,
+      "city": "Queenstown",
+      "country": "New Zealand",
+      "sport": "swim",
+      "distancesKm": [
+        4,
+        2,
+        1
+      ],
+      "months": [
+        3
+      ],
+      "url": "https://www.thewhakatipulegend.co.nz/",
+      "nextDate": "2027-03-20"
+    },
+    {
+      "name": "Flannagan Cup",
+      "nameZh": null,
+      "city": "New Plymouth",
+      "country": "New Zealand",
+      "sport": "swim",
+      "distancesKm": [
+        3.6,
+        1.2,
+        0.4
+      ],
+      "months": [
+        2
+      ],
+      "url": "https://flannagancup.co.nz/",
+      "nextDate": "2027-02-06"
+    },
+    {
+      "name": "Matiu/Somes Island Swim",
+      "nameZh": null,
+      "city": "Wellington (Petone)",
+      "country": "New Zealand",
+      "sport": "swim",
+      "distancesKm": [
+        3.2
+      ],
+      "months": [
+        3
+      ],
+      "url": "https://oceanswims.com/event/somes-island-challenge/",
+      "nextDate": "2027-03-07"
+    },
+    {
+      "name": "Le Race",
+      "nameZh": null,
+      "city": "Christchurch–Akaroa",
+      "country": "New Zealand",
+      "sport": "bike",
+      "distancesKm": [
+        100
+      ],
+      "months": [
+        3
+      ],
+      "url": "https://lerace.co.nz/",
+      "nextDate": "2027-03-20"
+    },
+    {
+      "name": "Around Brunner",
+      "nameZh": null,
+      "city": "Lake Brunner (Moana)",
+      "country": "New Zealand",
+      "sport": "bike",
+      "distancesKm": [
+        280,
+        140,
+        108
+      ],
+      "months": [
+        5
+      ],
+      "url": "https://raceroster.com/events/2027/130224/ride-holidays-around-brunner",
+      "nextDate": "2027-05-01"
+    },
+    {
+      "name": "New Zealand Rowing Championships",
+      "nameZh": null,
+      "city": "Twizel (Lake Ruataniwha) / Cambridge (Lake Karāpiro)",
+      "country": "New Zealand",
+      "sport": "row",
+      "distancesKm": [
+        2
+      ],
+      "months": [
+        2
+      ],
+      "url": "https://www.rowingnz.kiwi/",
+      "nextDate": null
+    },
+    {
+      "name": "2XU Singapore Compression Run",
+      "nameZh": null,
+      "city": "Singapore",
+      "country": "",
+      "sport": "run",
+      "distancesKm": [
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        3,
+        4
+      ],
+      "url": "https://2xurun.com/",
+      "nextDate": "2027-03-21"
+    },
+    {
+      "name": "Income Eco Run",
+      "nameZh": null,
+      "city": "Singapore",
+      "country": "",
+      "sport": "run",
+      "distancesKm": [
+        21.0975,
+        15,
+        10,
+        5
+      ],
+      "months": [
+        4
+      ],
+      "url": "https://www.income.com.sg/ecorun",
+      "nextDate": null
+    },
+    {
+      "name": "Great Eastern Women's Run",
+      "nameZh": null,
+      "city": "Singapore",
+      "country": "",
+      "sport": "run",
+      "distancesKm": [
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        11
+      ],
+      "url": "https://greateasternwomensrun.com/",
+      "nextDate": null
+    },
+    {
+      "name": "Run For Hope",
+      "nameZh": null,
+      "city": "Singapore",
+      "country": "",
+      "sport": "run",
+      "distancesKm": [
+        10,
+        5
+      ],
+      "months": [
+        11
+      ],
+      "url": "https://www.runforhopesg.com/",
+      "nextDate": "2026-11-29"
+    },
+    {
+      "name": "Singtel-Singapore Cancer Society Race Against Cancer",
+      "nameZh": null,
+      "city": "Singapore",
+      "country": "",
+      "sport": "run",
+      "distancesKm": [
+        15,
+        10,
+        5
+      ],
+      "months": [
+        9
+      ],
+      "url": "https://singaporecancersociety.org.sg/event/raceagainstcancer2026/",
+      "nextDate": null
+    },
+    {
+      "name": "Unlabelled Run",
+      "nameZh": null,
+      "city": "Singapore",
+      "country": "",
+      "sport": "run",
+      "distancesKm": [
+        10,
+        5
+      ],
+      "months": [
+        6
+      ],
+      "url": "https://www.unlabelledrun.org/",
+      "nextDate": null
+    },
+    {
+      "name": "Run for Inclusion",
+      "nameZh": null,
+      "city": "Singapore",
+      "country": "",
+      "sport": "run",
+      "distancesKm": [
+        8
+      ],
+      "months": [
+        11
+      ],
+      "url": "https://runninghour.com/rfi2026",
+      "nextDate": "2027-01-23"
+    },
+    {
+      "name": "ISCA Run",
+      "nameZh": null,
+      "city": "Singapore",
+      "country": "",
+      "sport": "run",
+      "distancesKm": [
+        10,
+        5
+      ],
+      "months": [
+        10
+      ],
+      "url": "https://iscarun.isca.org.sg/",
+      "nextDate": null
+    },
+    {
+      "name": "HomeTeamNS REAL Run",
+      "nameZh": null,
+      "city": "Singapore",
+      "country": "",
+      "sport": "run",
+      "distancesKm": [
+        10,
+        5
+      ],
+      "months": [
+        10
+      ],
+      "url": "https://www.hometeamns.sg/",
+      "nextDate": null
+    },
+    {
+      "name": "Yellow Ribbon Run",
+      "nameZh": null,
+      "city": "Singapore",
+      "country": "",
+      "sport": "run",
+      "distancesKm": [
+        10,
+        5
+      ],
+      "months": [
+        9
+      ],
+      "url": "https://www.yellowribbon.gov.sg/yellow-ribbon-project/our-events-and-initiatives",
+      "nextDate": null
+    },
+    {
+      "name": "Great Green Run",
+      "nameZh": null,
+      "city": "Singapore",
+      "country": "",
+      "sport": "run",
+      "distancesKm": [
+        10,
+        5
+      ],
+      "months": [
+        6
+      ],
+      "url": "https://www.activesgcircle.gov.sg/things-to-do/events/great-green-run-2026-504213",
+      "nextDate": null
+    },
+    {
+      "name": "Pink Ribbon Walk",
+      "nameZh": null,
+      "city": "Singapore",
+      "country": "",
+      "sport": "walk",
+      "distancesKm": [
+        5,
+        3
+      ],
+      "months": [
+        10
+      ],
+      "url": "https://bcf.org.sg/event/pink-ribbon-walk-2026/",
+      "nextDate": "2027-01-09"
+    },
+    {
+      "name": "Just Jalan",
+      "nameZh": null,
+      "city": "Singapore",
+      "country": "",
+      "sport": "walk",
+      "distancesKm": [
+        10.54,
+        5
+      ],
+      "months": [
+        3
+      ],
+      "url": "https://justjalan.probono.sg/",
+      "nextDate": null
+    },
+    {
+      "name": "Singapore National Indoor Rowing Championships",
+      "nameZh": null,
+      "city": "Singapore",
+      "country": "",
+      "sport": "row",
+      "distancesKm": [
+        2,
+        0.5
+      ],
+      "months": [
+        11
+      ],
+      "url": "https://www.sgrowing.org/",
+      "nextDate": null
+    },
+    {
+      "name": "The MoonWalk London",
+      "nameZh": null,
+      "city": "London",
+      "country": "United Kingdom",
+      "sport": "walk",
+      "distancesKm": [
+        42.195,
+        24.3,
+        16.09,
+        10
+      ],
+      "months": [
+        5
+      ],
+      "url": "https://www.walkthewalk.org/challenges/the-moonwalk-london",
+      "nextDate": "2027-05-15"
+    },
+    {
+      "name": "Shine Night Walk London",
+      "nameZh": null,
+      "city": "London",
+      "country": "United Kingdom",
+      "sport": "walk",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10
+      ],
+      "months": [
+        9
+      ],
+      "url": "https://www.cancerresearchuk.org/get-involved/find-an-event/charity-walks-treks-and-hikes/shine-night-walk/london",
+      "nextDate": "2027-09-18"
+    },
+    {
+      "name": "Shine Night Walk Glasgow",
+      "nameZh": null,
+      "city": "Glasgow",
+      "country": "United Kingdom",
+      "sport": "walk",
+      "distancesKm": [
+        21.0975,
+        10
+      ],
+      "months": [
+        8
+      ],
+      "url": "https://www.cancerresearchuk.org/get-involved/find-an-event/charity-walks-treks-and-hikes/shine-night-walk/glasgow",
+      "nextDate": "2027-08-28"
+    },
+    {
+      "name": "Shine Night Walk Manchester",
+      "nameZh": null,
+      "city": "Manchester",
+      "country": "United Kingdom",
+      "sport": "walk",
+      "distancesKm": [
+        21.0975,
+        10
+      ],
+      "months": [
+        10
+      ],
+      "url": "https://www.cancerresearchuk.org/get-involved/find-an-event/charity-walks-treks-and-hikes/shine-night-walk/manchester",
+      "nextDate": "2027-10-08"
+    },
+    {
+      "name": "Shine Night Walk Edinburgh",
+      "nameZh": null,
+      "city": "Edinburgh",
+      "country": "United Kingdom",
+      "sport": "walk",
+      "distancesKm": [
+        10
+      ],
+      "months": [
+        9
+      ],
+      "url": "https://www.cancerresearchuk.org/get-involved/find-an-event/charity-walks-treks-and-hikes/shine-night-walk/edinburgh",
+      "nextDate": "2027-09-25"
+    },
+    {
+      "name": "Glasgow Kiltwalk",
+      "nameZh": null,
+      "city": "Glasgow",
+      "country": "United Kingdom",
+      "sport": "walk",
+      "distancesKm": [
+        37.0,
+        22.5,
+        4.8
+      ],
+      "months": [
+        4
+      ],
+      "url": "https://thekiltwalk.co.uk/events/glasgow",
+      "nextDate": "2027-04-24"
+    },
+    {
+      "name": "Edinburgh Kiltwalk",
+      "nameZh": null,
+      "city": "Edinburgh",
+      "country": "United Kingdom",
+      "sport": "walk",
+      "distancesKm": [
+        32.2,
+        17.7,
+        6.4
+      ],
+      "months": [
+        9
+      ],
+      "url": "https://thekiltwalk.co.uk/events/edinburgh",
+      "nextDate": "2027-09-12"
+    },
+    {
+      "name": "Aberdeen Kiltwalk",
+      "nameZh": null,
+      "city": "Aberdeen",
+      "country": "United Kingdom",
+      "sport": "walk",
+      "distancesKm": [
+        29.0,
+        8.0
+      ],
+      "months": [
+        6
+      ],
+      "url": "https://thekiltwalk.co.uk/events/aberdeen",
+      "nextDate": "2027-06-06"
+    },
+    {
+      "name": "Dundee Kiltwalk",
+      "nameZh": null,
+      "city": "Dundee",
+      "country": "United Kingdom",
+      "sport": "walk",
+      "distancesKm": [
+        32.2,
+        6.4
+      ],
+      "months": [
+        8
+      ],
+      "url": "https://thekiltwalk.co.uk/events/dundee",
+      "nextDate": "2027-08-15"
+    },
+    {
+      "name": "Thames Path Ultra Challenge",
+      "nameZh": null,
+      "city": "London",
+      "country": "United Kingdom",
+      "sport": "walk",
+      "distancesKm": [
+        100,
+        72,
+        50,
+        25
+      ],
+      "months": [
+        9
+      ],
+      "url": "https://www.ultrachallenge.com/thames-path-challenge/",
+      "nextDate": "2027-09-11"
+    },
+    {
+      "name": "London 2 Brighton Ultra Challenge",
+      "nameZh": null,
+      "city": "London",
+      "country": "United Kingdom",
+      "sport": "walk",
+      "distancesKm": [
+        100,
+        75,
+        58,
+        42,
+        25
+      ],
+      "months": [
+        5
+      ],
+      "url": "https://www.ultrachallenge.com/london-2-brighton-challenge/",
+      "nextDate": "2027-05-29"
+    },
+    {
+      "name": "London Winter Walk",
+      "nameZh": null,
+      "city": "London",
+      "country": "United Kingdom",
+      "sport": "walk",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        1
+      ],
+      "url": "https://www.ultrachallenge.com/london-winter-walk/",
+      "nextDate": "2027-01-30"
+    },
+    {
+      "name": "Thames Bridges Trek",
+      "nameZh": null,
+      "city": "London",
+      "country": "United Kingdom",
+      "sport": "walk",
+      "distancesKm": [
+        25,
+        10
+      ],
+      "months": [
+        9
+      ],
+      "url": "https://www.ultrachallenge.com/thames-bridges-trek/",
+      "nextDate": "2027-09-11"
+    },
+    {
+      "name": "Isle of Wight Ultra Challenge",
+      "nameZh": null,
+      "city": "Isle of Wight",
+      "country": "United Kingdom",
+      "sport": "hike",
+      "distancesKm": [
+        106,
+        53,
+        25,
+        16.1
+      ],
+      "months": [
+        5
+      ],
+      "url": "https://www.ultrachallenge.com/isle-of-wight-challenge/",
+      "nextDate": "2027-05-01"
+    },
+    {
+      "name": "Jurassic Coast Ultra Challenge",
+      "nameZh": null,
+      "city": "Corfe Castle",
+      "country": "United Kingdom",
+      "sport": "hike",
+      "distancesKm": [
+        100,
+        76,
+        58,
+        42,
+        34,
+        25,
+        10
+      ],
+      "months": [
+        5
+      ],
+      "url": "https://www.ultrachallenge.com/jurassic-coast-challenge/",
+      "nextDate": "2027-05-15"
+    },
+    {
+      "name": "Cotswold Way Ultra Challenge",
+      "nameZh": null,
+      "city": "Cirencester",
+      "country": "United Kingdom",
+      "sport": "hike",
+      "distancesKm": [
+        100,
+        76,
+        53,
+        47,
+        25,
+        10
+      ],
+      "months": [
+        6
+      ],
+      "url": "https://www.ultrachallenge.com/cotswold-way-challenge/",
+      "nextDate": "2027-06-12"
+    },
+    {
+      "name": "South Coast Ultra Challenge",
+      "nameZh": null,
+      "city": "Eastbourne",
+      "country": "United Kingdom",
+      "sport": "hike",
+      "distancesKm": [
+        100,
+        57,
+        43,
+        25
+      ],
+      "months": [
+        9
+      ],
+      "url": "https://www.ultrachallenge.com/south-coast-challenge/",
+      "nextDate": "2027-09-04"
+    },
+    {
+      "name": "Thames Path Mighty Hike",
+      "nameZh": null,
+      "city": "Windsor",
+      "country": "United Kingdom",
+      "sport": "hike",
+      "distancesKm": [
+        42.0,
+        20.8
+      ],
+      "months": [
+        6
+      ],
+      "url": "https://www.macmillan.org.uk/mighty-hikes/choose-a-hike/thames-path-hike",
+      "nextDate": "2027-06-12"
+    },
+    {
+      "name": "Lake District Mighty Hike",
+      "nameZh": null,
+      "city": "Ullswater",
+      "country": "United Kingdom",
+      "sport": "hike",
+      "distancesKm": [
+        42.195,
+        21.0975
+      ],
+      "months": [
+        6
+      ],
+      "url": "https://www.macmillan.org.uk/mighty-hikes/choose-a-hike/lake-district-hike",
+      "nextDate": "2027-06-12"
+    },
+    {
+      "name": "South Coast Mighty Hike",
+      "nameZh": null,
+      "city": "Brighton",
+      "country": "United Kingdom",
+      "sport": "hike",
+      "distancesKm": [
+        42.195,
+        21.0975
+      ],
+      "months": [
+        6
+      ],
+      "url": "https://www.macmillan.org.uk/mighty-hikes/choose-a-hike/south-coast-hike",
+      "nextDate": "2027-06-05"
+    },
+    {
+      "name": "Giant's Causeway Mighty Hike",
+      "nameZh": null,
+      "city": "Ballintoy",
+      "country": "United Kingdom",
+      "sport": "hike",
+      "distancesKm": [
+        42.195,
+        21.0975
+      ],
+      "months": [
+        6
+      ],
+      "url": "https://www.macmillan.org.uk/mighty-hikes/choose-a-hike/giants-causeway-hike",
+      "nextDate": "2027-06-19"
+    },
+    {
+      "name": "Cotswolds Mighty Hike",
+      "nameZh": null,
+      "city": "Chipping Norton",
+      "country": "United Kingdom",
+      "sport": "hike",
+      "distancesKm": [
+        42.195,
+        21.0975
+      ],
+      "months": [
+        6
+      ],
+      "url": "https://www.macmillan.org.uk/mighty-hikes/choose-a-hike/cotswolds-hike",
+      "nextDate": "2027-06-26"
+    },
+    {
+      "name": "Jurassic Coast Mighty Hike",
+      "nameZh": null,
+      "city": "Wareham",
+      "country": "United Kingdom",
+      "sport": "hike",
+      "distancesKm": [
+        42.195,
+        21.0975
+      ],
+      "months": [
+        7
+      ],
+      "url": "https://www.macmillan.org.uk/mighty-hikes/choose-a-hike/jurassic-coast-hike",
+      "nextDate": "2027-07-03"
+    },
+    {
+      "name": "Peak District Mighty Hike",
+      "nameZh": null,
+      "city": "Bakewell",
+      "country": "United Kingdom",
+      "sport": "hike",
+      "distancesKm": [
+        42.195,
+        21.0975
+      ],
+      "months": [
+        7
+      ],
+      "url": "https://www.macmillan.org.uk/mighty-hikes/choose-a-hike/peak-district-hike",
+      "nextDate": "2027-07-17"
+    },
+    {
+      "name": "Big Hike Peak District",
+      "nameZh": null,
+      "city": "Bakewell",
+      "country": "United Kingdom",
+      "sport": "hike",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10
+      ],
+      "months": [
+        6
+      ],
+      "url": "https://www.cancerresearchuk.org/get-involved/find-an-event/big-hike/big-hike-peak-district",
+      "nextDate": "2027-06-12"
+    },
+    {
+      "name": "Big Hike Lake District",
+      "nameZh": null,
+      "city": "Grasmere",
+      "country": "United Kingdom",
+      "sport": "hike",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10
+      ],
+      "months": [
+        6
+      ],
+      "url": "https://www.cancerresearchuk.org/get-involved/find-an-event/big-hike/big-hike-lake-district",
+      "nextDate": "2027-06-26"
+    },
+    {
+      "name": "Bataan Memorial Death March",
+      "nameZh": null,
+      "city": "White Sands Missile Range",
+      "country": "United States",
+      "sport": "walk",
+      "distancesKm": [
+        42.2,
+        22.9
+      ],
+      "months": [
+        3
+      ],
+      "url": "https://bataanmarch.com/",
+      "nextDate": "2027-03-20"
+    },
+    {
+      "name": "Great Saunter",
+      "nameZh": null,
+      "city": "New York",
+      "country": "United States",
+      "sport": "walk",
+      "distancesKm": [
+        51.5
+      ],
+      "months": [
+        5
+      ],
+      "url": "https://shorewalkers.org/our-walks",
+      "nextDate": null
+    },
+    {
+      "name": "Portland to Coast Walk Relay",
+      "nameZh": null,
+      "city": "Portland",
+      "country": "United States",
+      "sport": "walk",
+      "distancesKm": [
+        206
+      ],
+      "months": [
+        8
+      ],
+      "url": "https://hoodtocoast.com/htc-ptc/",
+      "nextDate": "2027-08-27"
+    },
+    {
+      "name": "Susan G. Komen 3-Day Boston",
+      "nameZh": null,
+      "city": "Boston",
+      "country": "United States",
+      "sport": "walk",
+      "distancesKm": [
+        96.6,
+        64.4,
+        32.2
+      ],
+      "months": [
+        8
+      ],
+      "url": "https://www.the3day.org/",
+      "nextDate": null
+    },
+    {
+      "name": "Susan G. Komen 3-Day Dallas/Fort Worth",
+      "nameZh": null,
+      "city": "Dallas",
+      "country": "United States",
+      "sport": "walk",
+      "distancesKm": [
+        96.6,
+        64.4,
+        32.2
+      ],
+      "months": [
+        10
+      ],
+      "url": "https://www.the3day.org/",
+      "nextDate": null
+    },
+    {
+      "name": "Susan G. Komen 3-Day San Diego",
+      "nameZh": null,
+      "city": "San Diego",
+      "country": "United States",
+      "sport": "walk",
+      "distancesKm": [
+        96.6,
+        64.4,
+        32.2
+      ],
+      "months": [
+        11
+      ],
+      "url": "https://www.the3day.org/",
+      "nextDate": null
+    },
+    {
+      "name": "Walk to End Alzheimer's",
+      "nameZh": null,
+      "city": "Nationwide",
+      "country": "United States",
+      "sport": "walk",
+      "distancesKm": [
+        3.2
+      ],
+      "months": [
+        9,
+        10,
+        11
+      ],
+      "url": "https://www.alz.org/walk",
+      "nextDate": null
+    },
+    {
+      "name": "Project Bread Walk for Hunger",
+      "nameZh": null,
+      "city": "Boston",
+      "country": "United States",
+      "sport": "walk",
+      "distancesKm": [
+        4.8
+      ],
+      "months": [
+        5
+      ],
+      "url": "https://projectbread.org/walk-for-hunger",
+      "nextDate": null
+    },
+    {
+      "name": "Japan Three-Day March (日本スリーデーマーチ)",
+      "nameZh": null,
+      "city": "Higashimatsuyama",
+      "country": "Japan",
+      "sport": "walk",
+      "distancesKm": [
+        50,
+        30,
+        20,
+        10,
+        5
+      ],
+      "months": [
+        11
+      ],
+      "url": "https://japan3day.jimdoweb.com/",
+      "nextDate": "2027-11-05"
+    },
+    {
+      "name": "Kyushu International Three Day March (九州国際スリーデーマーチ)",
+      "nameZh": null,
+      "city": "Yatsushiro",
+      "country": "Japan",
+      "sport": "walk",
+      "distancesKm": [
+        40,
+        30,
+        20,
+        10,
+        5
+      ],
+      "months": [
+        3
+      ],
+      "url": "https://www.9i-3daymarch.com/",
+      "nextDate": null
+    },
+    {
+      "name": "Setouchi Kurashiki Two Day March (瀬戸内倉敷ツーデーマーチ)",
+      "nameZh": null,
+      "city": "Kurashiki",
+      "country": "Japan",
+      "sport": "walk",
+      "distancesKm": [
+        40,
+        20,
+        10
+      ],
+      "months": [
+        3
+      ],
+      "url": "https://jwalking.jp/zenkoku/kurashiki2027/",
+      "nextDate": "2027-03-13"
+    },
+    {
+      "name": "Ibusuki Nanohana March (いぶすき菜の花マーチ)",
+      "nameZh": null,
+      "city": "Ibusuki",
+      "country": "Japan",
+      "sport": "walk",
+      "distancesKm": [
+        30,
+        23,
+        20,
+        11,
+        10,
+        4
+      ],
+      "months": [
+        2
+      ],
+      "url": "https://march59.wixsite.com/nanohana-march",
+      "nextDate": "2027-02-06"
+    },
+    {
+      "name": "Minami-Boso Flower March (南房総フラワーマーチ)",
+      "nameZh": null,
+      "city": "Minamiboso",
+      "country": "Japan",
+      "sport": "walk",
+      "distancesKm": [
+        35,
+        20,
+        12
+      ],
+      "months": [
+        2
+      ],
+      "url": "https://jwalking.jp/zenkoku/minamibousou2027/",
+      "nextDate": "2027-02-20"
+    },
+    {
+      "name": "Saitamarch Minuma Two Day Walk (さいたマーチ)",
+      "nameZh": null,
+      "city": "Saitama",
+      "country": "Japan",
+      "sport": "walk",
+      "distancesKm": [
+        30,
+        20,
+        10,
+        5
+      ],
+      "months": [
+        3
+      ],
+      "url": "https://jwalking.jp/zenkoku/saitamarch2027/",
+      "nextDate": "2027-03-27"
+    },
+    {
+      "name": "Kurume Tsutsuji March (久留米つつじマーチ)",
+      "nameZh": null,
+      "city": "Kurume",
+      "country": "Japan",
+      "sport": "walk",
+      "distancesKm": [
+        30,
+        20,
+        10,
+        5
+      ],
+      "months": [
+        4
+      ],
+      "url": "https://jwalking.jp/zenkoku/kurume2026/",
+      "nextDate": null
+    },
+    {
+      "name": "Wakasa Mikata-goko Two Day March (若狭・三方五湖ツーデーマーチ)",
+      "nameZh": null,
+      "city": "Wakasa",
+      "country": "Japan",
+      "sport": "walk",
+      "distancesKm": [
+        30,
+        20,
+        10,
+        5
+      ],
+      "months": [
+        5
+      ],
+      "url": "https://wakasa-2dm.com/",
+      "nextDate": null
+    },
+    {
+      "name": "Dekkaido Okhotsk Kitami Two Day March (でっかいどうオホーツク北見ツーデーマーチ)",
+      "nameZh": null,
+      "city": "Kitami",
+      "country": "Japan",
+      "sport": "walk",
+      "distancesKm": [
+        30,
+        20,
+        10,
+        6
+      ],
+      "months": [
+        6
+      ],
+      "url": "https://jwalking.jp/zenkoku/kitami2026/",
+      "nextDate": null
+    },
+    {
+      "name": "Oku no Hosomichi Chokai Two Day March (奥の細道鳥海ツーデーマーチ)",
+      "nameZh": null,
+      "city": "Yuza",
+      "country": "Japan",
+      "sport": "walk",
+      "distancesKm": [
+        30,
+        20,
+        10,
+        5
+      ],
+      "months": [
+        9
+      ],
+      "url": "https://jwalking.jp/zenkoku/chokai2dm2025/",
+      "nextDate": null
+    },
+    {
+      "name": "Kakogawa Two Day March (加古川ツーデーマーチ)",
+      "nameZh": null,
+      "city": "Kakogawa",
+      "country": "Japan",
+      "sport": "walk",
+      "distancesKm": [
+        20,
+        10,
+        5
+      ],
+      "months": [
+        11
+      ],
+      "url": "https://kakogawa-2daymarch.jp/",
+      "nextDate": null
+    },
+    {
+      "name": "Mt Fuji Lake Momiji Walk (富士山・湖・もみじウォーク)",
+      "nameZh": null,
+      "city": "Fujikawaguchiko",
+      "country": "Japan",
+      "sport": "walk",
+      "distancesKm": [
+        30,
+        20,
+        10,
+        5
+      ],
+      "months": [
+        11
+      ],
+      "url": "https://jwalking.jp/zenkoku/momijiwalk2026/",
+      "nextDate": null
+    },
+    {
+      "name": "Tokyo Bayside Two Day March (東京ベイサイドツーデーマーチ)",
+      "nameZh": null,
+      "city": "Tokyo",
+      "country": "Japan",
+      "sport": "walk",
+      "distancesKm": [
+        30,
+        20,
+        10,
+        5
+      ],
+      "months": [
+        11
+      ],
+      "url": "https://jwalking.jp/zenkoku/tbtm2026/",
+      "nextDate": "2026-11-28"
     }
   ]
 }
