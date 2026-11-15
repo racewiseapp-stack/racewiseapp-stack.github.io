@@ -338,8 +338,12 @@
 .v2 .hero .qr img { width: 150px; height: 150px; flex: none; }
 .v2 .hero .qr figcaption { max-width: none; font-size: 16px; line-height: 1.45; font-weight: 600; color: rgba(255,255,255,.85); }
 .v2 .hero .soon { margin-top: 18px; }
-/* Get RaceWise (bottom of the page): the same QR panel, on the light background. */
-.v2 .get .store { gap: 24px; }
-.v2 .get .qr { padding: 14px 22px 14px 14px; gap: 20px; border-radius: 28px; background: #fff; border: 1px solid var(--line); }
-.v2 .get .qr img { width: 150px; height: 150px; flex: none; filter: none; }
-.v2 .get .qr figcaption { font-size: 16px; line-height: 1.45; font-weight: 600; color: var(--ink); }
+/* Get RaceWise (bottom of the page): one card, QR on the left, the line and the App Store badge on the right.
+   Uses theme tokens so it reads in light and dark. Under 900px the QR hides and only the badge shows. */
+.v2 .get .store { display: grid; grid-template-columns: auto auto; grid-template-areas: "qr cap" "qr badge"; align-items: center; justify-content: start;
+  column-gap: 28px; row-gap: 14px; width: fit-content; padding: 18px 32px 18px 18px; border-radius: 28px; background: var(--soft); border: 1px solid var(--line); }
+.v2 .get .qr { display: contents; }
+.v2 .get .qr img { grid-area: qr; width: 168px; height: 168px; filter: none; }
+.v2 .get .qr figcaption { grid-area: cap; align-self: end; max-width: 13em; font-size: 18px; line-height: 1.4; font-weight: 600; color: var(--ink); }
+.v2 .get .store-badge { grid-area: badge; align-self: start; }
+@media (max-width: 900px) { .v2 .get .store { display: flex; padding: 0; border: 0; background: none; } .v2 .get .qr { display: none; } }
