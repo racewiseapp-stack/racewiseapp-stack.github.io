@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updated": "2026-11-15",
-  "note": "Running shoes for the app's shoe picker: the current models and those from about the last three years (Howard, 15/11: runners keep older pairs). Checked and updated monthly; anything not here can be typed in.",
+  "updated": "2026-11-16",
+  "note": "Running shoes for the app's shoe picker: the current models and those from about the last three years (Howard, 15/11: runners keep older pairs). Checked and updated every two weeks; anything not here can be typed in.",
   "shoes": [
     {
       "brand": "Nike",
@@ -53,19 +53,15 @@
     },
     {
       "brand": "Nike",
-      "model": "Pegasus Trail 5"
+      "model": "ACG Pegasus Trail"
     },
     {
       "brand": "Nike",
-      "model": "Ultrafly"
+      "model": "ACG Ultrafly"
     },
     {
       "brand": "Nike",
       "model": "Pegasus 41"
-    },
-    {
-      "brand": "Nike",
-      "model": "Pegasus 40"
     },
     {
       "brand": "Nike",
@@ -77,35 +73,15 @@
     },
     {
       "brand": "Nike",
-      "model": "Structure 25"
-    },
-    {
-      "brand": "Nike",
-      "model": "Zoom Fly 5"
-    },
-    {
-      "brand": "Nike",
-      "model": "Vaporfly 3"
-    },
-    {
-      "brand": "Nike",
       "model": "Alphafly 3"
     },
     {
       "brand": "Nike",
-      "model": "Streakfly"
+      "model": "Pegasus Trail 5"
     },
     {
       "brand": "Nike",
-      "model": "Pegasus Trail 4"
-    },
-    {
-      "brand": "Nike",
-      "model": "Invincible 3"
-    },
-    {
-      "brand": "Nike",
-      "model": "Infinity Run 4"
+      "model": "Ultrafly"
     },
     {
       "brand": "adidas",
@@ -161,27 +137,15 @@
     },
     {
       "brand": "adidas",
-      "model": "Adizero Boston 12"
-    },
-    {
-      "brand": "adidas",
       "model": "Adizero Adios Pro 4"
     },
     {
       "brand": "adidas",
-      "model": "Adizero Adios Pro 3"
+      "model": "Adizero Adios Pro Evo 2"
     },
     {
       "brand": "adidas",
       "model": "Adizero Adios Pro Evo 1"
-    },
-    {
-      "brand": "adidas",
-      "model": "Adizero SL"
-    },
-    {
-      "brand": "adidas",
-      "model": "Adizero Adios 8"
     },
     {
       "brand": "adidas",
@@ -202,18 +166,6 @@
     {
       "brand": "adidas",
       "model": "Supernova Solution 2"
-    },
-    {
-      "brand": "adidas",
-      "model": "Adistar 2"
-    },
-    {
-      "brand": "adidas",
-      "model": "Ultraboost Light"
-    },
-    {
-      "brand": "adidas",
-      "model": "Terrex Agravic Speed"
     },
     {
       "brand": "ASICS",
@@ -273,6 +225,10 @@
     },
     {
       "brand": "ASICS",
+      "model": "Blazeblast"
+    },
+    {
+      "brand": "ASICS",
       "model": "Gel-Kayano 32"
     },
     {
@@ -293,10 +249,6 @@
     },
     {
       "brand": "ASICS",
-      "model": "Gel-Nimbus 25"
-    },
-    {
-      "brand": "ASICS",
       "model": "Novablast 5"
     },
     {
@@ -305,15 +257,7 @@
     },
     {
       "brand": "ASICS",
-      "model": "Novablast 3"
-    },
-    {
-      "brand": "ASICS",
       "model": "Superblast 2"
-    },
-    {
-      "brand": "ASICS",
-      "model": "Superblast"
     },
     {
       "brand": "ASICS",
@@ -325,10 +269,6 @@
     },
     {
       "brand": "ASICS",
-      "model": "Gel-Cumulus 25"
-    },
-    {
-      "brand": "ASICS",
       "model": "GT-2000 14"
     },
     {
@@ -337,15 +277,7 @@
     },
     {
       "brand": "ASICS",
-      "model": "GT-2000 12"
-    },
-    {
-      "brand": "ASICS",
       "model": "Magic Speed 4"
-    },
-    {
-      "brand": "ASICS",
-      "model": "Magic Speed 3"
     },
     {
       "brand": "ASICS",
@@ -378,6 +310,10 @@
     {
       "brand": "HOKA",
       "model": "Clifton 11"
+    },
+    {
+      "brand": "HOKA",
+      "model": "Clifton PRO"
     },
     {
       "brand": "HOKA",
@@ -433,15 +369,11 @@
     },
     {
       "brand": "HOKA",
+      "model": "Mafate X"
+    },
+    {
+      "brand": "HOKA",
       "model": "Clifton 10"
-    },
-    {
-      "brand": "HOKA",
-      "model": "Clifton 9"
-    },
-    {
-      "brand": "HOKA",
-      "model": "Bondi 8"
     },
     {
       "brand": "HOKA",
@@ -449,27 +381,11 @@
     },
     {
       "brand": "HOKA",
-      "model": "Mach 5"
-    },
-    {
-      "brand": "HOKA",
       "model": "Mach X 2"
     },
     {
       "brand": "HOKA",
-      "model": "Mach X"
-    },
-    {
-      "brand": "HOKA",
-      "model": "Rocket X 2"
-    },
-    {
-      "brand": "HOKA",
       "model": "Cielo X1 2.0"
-    },
-    {
-      "brand": "HOKA",
-      "model": "Cielo X1"
     },
     {
       "brand": "HOKA",
@@ -481,15 +397,7 @@
     },
     {
       "brand": "HOKA",
-      "model": "Gaviota 5"
-    },
-    {
-      "brand": "HOKA",
       "model": "Skyward X"
-    },
-    {
-      "brand": "HOKA",
-      "model": "Rincon 3"
     },
     {
       "brand": "HOKA",
@@ -497,27 +405,15 @@
     },
     {
       "brand": "HOKA",
-      "model": "Speedgoat 5"
-    },
-    {
-      "brand": "HOKA",
       "model": "Tecton X 3"
-    },
-    {
-      "brand": "HOKA",
-      "model": "Tecton X 2"
-    },
-    {
-      "brand": "HOKA",
-      "model": "Challenger 7"
-    },
-    {
-      "brand": "HOKA",
-      "model": "Mafate Speed 4"
     },
     {
       "brand": "Brooks",
       "model": "Ghost 18"
+    },
+    {
+      "brand": "Brooks",
+      "model": "Ghost AMP"
     },
     {
       "brand": "Brooks",
@@ -530,6 +426,10 @@
     {
       "brand": "Brooks",
       "model": "Glycerin GTS 23"
+    },
+    {
+      "brand": "Brooks",
+      "model": "Glycerin Flex"
     },
     {
       "brand": "Brooks",
@@ -573,10 +473,6 @@
     },
     {
       "brand": "Brooks",
-      "model": "Ghost 15"
-    },
-    {
-      "brand": "Brooks",
       "model": "Ghost Max 3"
     },
     {
@@ -613,10 +509,6 @@
     },
     {
       "brand": "Brooks",
-      "model": "Adrenaline GTS 23"
-    },
-    {
-      "brand": "Brooks",
       "model": "Hyperion Max 3"
     },
     {
@@ -641,10 +533,6 @@
     },
     {
       "brand": "Brooks",
-      "model": "Launch 10"
-    },
-    {
-      "brand": "Brooks",
       "model": "Cascadia 19"
     },
     {
@@ -653,15 +541,7 @@
     },
     {
       "brand": "Brooks",
-      "model": "Cascadia 17"
-    },
-    {
-      "brand": "Brooks",
       "model": "Caldera 7"
-    },
-    {
-      "brand": "Brooks",
-      "model": "Caldera 6"
     },
     {
       "brand": "Saucony",
@@ -686,6 +566,10 @@
     {
       "brand": "Saucony",
       "model": "Triumph 24"
+    },
+    {
+      "brand": "Saucony",
+      "model": "Paramount Max"
     },
     {
       "brand": "Saucony",
@@ -721,23 +605,11 @@
     },
     {
       "brand": "Saucony",
-      "model": "Endorphin Speed 3"
-    },
-    {
-      "brand": "Saucony",
       "model": "Endorphin Pro 4"
     },
     {
       "brand": "Saucony",
-      "model": "Endorphin Pro 3"
-    },
-    {
-      "brand": "Saucony",
       "model": "Endorphin Elite 2"
-    },
-    {
-      "brand": "Saucony",
-      "model": "Endorphin Elite"
     },
     {
       "brand": "Saucony",
@@ -746,10 +618,6 @@
     {
       "brand": "Saucony",
       "model": "Ride 17"
-    },
-    {
-      "brand": "Saucony",
-      "model": "Ride 16"
     },
     {
       "brand": "Saucony",
@@ -773,19 +641,11 @@
     },
     {
       "brand": "Saucony",
-      "model": "Guide 16"
-    },
-    {
-      "brand": "Saucony",
       "model": "Kinvara 15"
     },
     {
       "brand": "Saucony",
-      "model": "Kinvara 14"
-    },
-    {
-      "brand": "Saucony",
-      "model": "Tempus"
+      "model": "Hurricane 25"
     },
     {
       "brand": "Saucony",
@@ -801,15 +661,7 @@
     },
     {
       "brand": "Saucony",
-      "model": "Peregrine 13"
-    },
-    {
-      "brand": "Saucony",
       "model": "Xodus Ultra 3"
-    },
-    {
-      "brand": "Saucony",
-      "model": "Xodus Ultra 2"
     },
     {
       "brand": "New Balance",
@@ -841,6 +693,10 @@
     },
     {
       "brand": "New Balance",
+      "model": "Ellipse"
+    },
+    {
+      "brand": "New Balance",
       "model": "Fresh Foam X More v6"
     },
     {
@@ -857,15 +713,7 @@
     },
     {
       "brand": "New Balance",
-      "model": "1080 v13"
-    },
-    {
-      "brand": "New Balance",
       "model": "FuelCell Rebel v4"
-    },
-    {
-      "brand": "New Balance",
-      "model": "FuelCell Rebel v3"
     },
     {
       "brand": "New Balance",
@@ -877,19 +725,7 @@
     },
     {
       "brand": "New Balance",
-      "model": "FuelCell SuperComp Trainer v2"
-    },
-    {
-      "brand": "New Balance",
-      "model": "FuelCell SuperComp Pacer"
-    },
-    {
-      "brand": "New Balance",
       "model": "Fresh Foam X 880 v14"
-    },
-    {
-      "brand": "New Balance",
-      "model": "Fresh Foam X 880 v13"
     },
     {
       "brand": "New Balance",
@@ -897,15 +733,7 @@
     },
     {
       "brand": "New Balance",
-      "model": "Fresh Foam X More v4"
-    },
-    {
-      "brand": "New Balance",
       "model": "Fresh Foam X 860 v14"
-    },
-    {
-      "brand": "New Balance",
-      "model": "Fresh Foam X 860 v13"
     },
     {
       "brand": "New Balance",
@@ -930,6 +758,10 @@
     {
       "brand": "On",
       "model": "Cloudsurfer Next"
+    },
+    {
+      "brand": "On",
+      "model": "Cloudsurfer Max"
     },
     {
       "brand": "On",
@@ -965,23 +797,11 @@
     },
     {
       "brand": "On",
-      "model": "Cloudmonster"
-    },
-    {
-      "brand": "On",
       "model": "Cloudmonster Hyper"
     },
     {
       "brand": "On",
-      "model": "Cloudsurfer"
-    },
-    {
-      "brand": "On",
       "model": "Cloudboom Strike"
-    },
-    {
-      "brand": "On",
-      "model": "Cloudboom Echo 3"
     },
     {
       "brand": "On",
@@ -992,20 +812,16 @@
       "model": "Cloudrunner 2"
     },
     {
-      "brand": "On",
-      "model": "Cloudultra"
-    },
-    {
-      "brand": "On",
-      "model": "Cloudvista"
-    },
-    {
       "brand": "PUMA",
       "model": "Deviate Nitro 4"
     },
     {
       "brand": "PUMA",
       "model": "Deviate Nitro Elite 4"
+    },
+    {
+      "brand": "PUMA",
+      "model": "Deviate Pure Nitro"
     },
     {
       "brand": "PUMA",
@@ -1033,15 +849,7 @@
     },
     {
       "brand": "PUMA",
-      "model": "Deviate Nitro 2"
-    },
-    {
-      "brand": "PUMA",
       "model": "Deviate Nitro Elite 3"
-    },
-    {
-      "brand": "PUMA",
-      "model": "Deviate Nitro Elite 2"
     },
     {
       "brand": "PUMA",
@@ -1053,19 +861,7 @@
     },
     {
       "brand": "PUMA",
-      "model": "Velocity Nitro 2"
-    },
-    {
-      "brand": "PUMA",
-      "model": "Magnify Nitro 2"
-    },
-    {
-      "brand": "PUMA",
       "model": "MagMax Nitro"
-    },
-    {
-      "brand": "PUMA",
-      "model": "ForeverRun Nitro"
     },
     {
       "brand": "PUMA",
@@ -1085,11 +881,15 @@
     },
     {
       "brand": "Mizuno",
-      "model": "Wave Rebellion Pro 3"
+      "model": "Hyperwarp Racer"
     },
     {
       "brand": "Mizuno",
-      "model": "Wave Rebellion Flash 3"
+      "model": "Hyperwarp Elite 2"
+    },
+    {
+      "brand": "Mizuno",
+      "model": "Hyperwarp Pure 2"
     },
     {
       "brand": "Mizuno",
@@ -1101,15 +901,15 @@
     },
     {
       "brand": "Mizuno",
+      "model": "Sky Prime"
+    },
+    {
+      "brand": "Mizuno",
       "model": "Wave Rider 29"
     },
     {
       "brand": "Mizuno",
       "model": "Wave Rider 28"
-    },
-    {
-      "brand": "Mizuno",
-      "model": "Wave Rider 27"
     },
     {
       "brand": "Mizuno",
@@ -1129,7 +929,23 @@
     },
     {
       "brand": "Mizuno",
-      "model": "Wave Inspire 19"
+      "model": "Hyperwarp Pro"
+    },
+    {
+      "brand": "Mizuno",
+      "model": "Hyperwarp Elite"
+    },
+    {
+      "brand": "Mizuno",
+      "model": "Hyperwarp Pure"
+    },
+    {
+      "brand": "Mizuno",
+      "model": "Wave Rebellion Pro 3"
+    },
+    {
+      "brand": "Mizuno",
+      "model": "Wave Rebellion Flash 3"
     },
     {
       "brand": "Mizuno",
@@ -1169,7 +985,19 @@
     },
     {
       "brand": "Altra",
+      "model": "Olympus 7"
+    },
+    {
+      "brand": "Altra",
+      "model": "FWD VIA 2"
+    },
+    {
+      "brand": "Altra",
       "model": "Via Olympus 2"
+    },
+    {
+      "brand": "Altra",
+      "model": "Vanish Carbon 3"
     },
     {
       "brand": "Altra",
@@ -1178,10 +1006,6 @@
     {
       "brand": "Altra",
       "model": "Torin 8"
-    },
-    {
-      "brand": "Altra",
-      "model": "Torin 7"
     },
     {
       "brand": "Altra",
@@ -1196,20 +1020,12 @@
       "model": "Lone Peak 8"
     },
     {
-      "brand": "Altra",
-      "model": "Lone Peak 7"
-    },
-    {
-      "brand": "Altra",
-      "model": "Via Olympus"
-    },
-    {
-      "brand": "Altra",
-      "model": "Vanish Carbon"
+      "brand": "Salomon",
+      "model": "Aero Glide 4"
     },
     {
       "brand": "Salomon",
-      "model": "Aero Glide 4"
+      "model": "Aero Blaze 4"
     },
     {
       "brand": "Salomon",
@@ -1285,6 +1101,10 @@
     },
     {
       "brand": "ANTA",
+      "model": "C202 7"
+    },
+    {
+      "brand": "ANTA",
       "model": "C202 6"
     },
     {
@@ -1305,7 +1125,11 @@
     },
     {
       "brand": "Xtep",
-      "model": "160X 7.0 Pro"
+      "model": "160X 8.0 Ultra"
+    },
+    {
+      "brand": "Xtep",
+      "model": "160X 8.0 Pro"
     },
     {
       "brand": "Xtep",
@@ -1313,7 +1137,11 @@
     },
     {
       "brand": "Xtep",
-      "model": "360X 2.0"
+      "model": "360X 3.0"
+    },
+    {
+      "brand": "Xtep",
+      "model": "160X 7.0 Pro"
     },
     {
       "brand": "Xtep",
@@ -1326,6 +1154,10 @@
     {
       "brand": "Xtep",
       "model": "260X 2.0"
+    },
+    {
+      "brand": "Xtep",
+      "model": "360X 2.0"
     },
     {
       "brand": "Xtep",
@@ -1361,15 +1193,19 @@
     },
     {
       "brand": "Under Armour",
+      "model": "Velociti SPD"
+    },
+    {
+      "brand": "Under Armour",
+      "model": "Velociti Pace"
+    },
+    {
+      "brand": "Under Armour",
       "model": "Infinite Elite"
     },
     {
       "brand": "Under Armour",
       "model": "Velociti Elite 2"
-    },
-    {
-      "brand": "Under Armour",
-      "model": "Velociti Elite"
     },
     {
       "brand": "Under Armour",
@@ -1392,16 +1228,12 @@
       "model": "Synchron 2.5"
     },
     {
-      "brand": "Karhu",
-      "model": "Ikoni 2.0"
-    },
-    {
-      "brand": "Karhu",
-      "model": "Fusion 3.5"
+      "brand": "Diadora",
+      "model": "Gara Carbon 3"
     },
     {
       "brand": "Diadora",
-      "model": "Gara Carbon 3"
+      "model": "Corsa"
     },
     {
       "brand": "Diadora",
