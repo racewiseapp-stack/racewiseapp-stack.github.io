@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-15",
+  "updated": "2026-11-18",
   "events": [
     {
       "name": "Sydney Marathon",
@@ -10569,6 +10569,786 @@
       ],
       "url": "https://jwalking.jp/zenkoku/tbtm2026/",
       "nextDate": "2026-11-28"
+    },
+    {
+      "name": "Oslo Marathon (Oslo Maraton)",
+      "nameZh": null,
+      "city": "Oslo",
+      "country": "Norway",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10
+      ],
+      "months": [
+        9
+      ],
+      "url": "https://www.oslomaraton.no",
+      "nextDate": "2027-09-18"
+    },
+    {
+      "name": "Bergen City Marathon",
+      "nameZh": null,
+      "city": "Bergen",
+      "country": "Norway",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        5
+      ],
+      "months": [
+        4
+      ],
+      "url": "https://www.bergencitymarathon.no",
+      "nextDate": "2027-04-24"
+    },
+    {
+      "name": "Midnight Sun Marathon",
+      "nameZh": null,
+      "city": "Tromsø",
+      "country": "Norway",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10
+      ],
+      "months": [
+        6
+      ],
+      "url": "https://msm.no/midnight-sun-marathon",
+      "nextDate": "2027-06-19"
+    },
+    {
+      "name": "Polar Night Marathon",
+      "nameZh": null,
+      "city": "Tromsø",
+      "country": "Norway",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        1
+      ],
+      "url": "https://msm.no/polar-night-marathon",
+      "nextDate": "2027-01-09"
+    },
+    {
+      "name": "Trondheim Marathon (Trondheim Maraton)",
+      "nameZh": null,
+      "city": "Trondheim",
+      "country": "Norway",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        9
+      ],
+      "url": "https://www.trondheimmaraton.no",
+      "nextDate": null
+    },
+    {
+      "name": "Stavanger Marathon",
+      "nameZh": null,
+      "city": "Stavanger",
+      "country": "Norway",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        5
+      ],
+      "months": [
+        8
+      ],
+      "url": "https://stavangermarathon.no",
+      "nextDate": "2027-08-28"
+    },
+    {
+      "name": "Sentrumsløpet",
+      "nameZh": null,
+      "city": "Oslo",
+      "country": "Norway",
+      "sport": "run",
+      "distancesKm": [
+        10,
+        5
+      ],
+      "months": [
+        4
+      ],
+      "url": "https://www.sentrumslopet.no",
+      "nextDate": null
+    },
+    {
+      "name": "Hytteplanmila",
+      "nameZh": null,
+      "city": "Hole (Røyse)",
+      "country": "Norway",
+      "sport": "run",
+      "distancesKm": [
+        10
+      ],
+      "months": [
+        10
+      ],
+      "url": "https://www.hytteplanmila.no",
+      "nextDate": "2027-10-16"
+    },
+    {
+      "name": "The Great Trial (Den Store Styrkeprøven) Trondheim–Oslo",
+      "nameZh": null,
+      "city": "Trondheim",
+      "country": "Norway",
+      "sport": "bike",
+      "distancesKm": [
+        515,
+        176
+      ],
+      "months": [
+        6
+      ],
+      "url": "https://www.styrkeproven.no",
+      "nextDate": "2027-06-18"
+    },
+    {
+      "name": "Bergen–Voss Cycle Ride (Vestlandsklassikeren)",
+      "nameZh": null,
+      "city": "Bergen",
+      "country": "Norway",
+      "sport": "bike",
+      "distancesKm": [
+        173
+      ],
+      "months": [
+        6
+      ],
+      "url": "https://www.bergen-voss.no",
+      "nextDate": "2027-06-05"
+    },
+    {
+      "name": "GravelBirken",
+      "nameZh": null,
+      "city": "Lillehammer",
+      "country": "Norway",
+      "sport": "bike",
+      "distancesKm": [
+        203.6,
+        110.4
+      ],
+      "months": [
+        8
+      ],
+      "url": "https://birken.no/en/cycling/gravelbirken",
+      "nextDate": "2027-08-28"
+    },
+    {
+      "name": "Zurich Marathon",
+      "nameZh": null,
+      "city": "Zurich",
+      "country": "Switzerland",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10
+      ],
+      "months": [
+        4
+      ],
+      "url": "https://www.zuerichmarathon.ch/",
+      "nextDate": "2027-04-11"
+    },
+    {
+      "name": "Swiss City Marathon Lucerne",
+      "nameZh": null,
+      "city": "Lucerne",
+      "country": "Switzerland",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10
+      ],
+      "months": [
+        10
+      ],
+      "url": "https://www.swisscitymarathon.ch/",
+      "nextDate": "2027-10-31"
+    },
+    {
+      "name": "Lausanne Marathon",
+      "nameZh": null,
+      "city": "Lausanne",
+      "country": "Switzerland",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10
+      ],
+      "months": [
+        10
+      ],
+      "url": "https://fr.lausanne-marathon.com/",
+      "nextDate": "2027-10-24"
+    },
+    {
+      "name": "Geneva Marathon (Generali Genève Marathon)",
+      "nameZh": null,
+      "city": "Geneva",
+      "country": "Switzerland",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10
+      ],
+      "months": [
+        5
+      ],
+      "url": "https://www.harmonygenevemarathon.com/",
+      "nextDate": null
+    },
+    {
+      "name": "Grand Prix von Bern",
+      "nameZh": null,
+      "city": "Bern",
+      "country": "Switzerland",
+      "sport": "run",
+      "distancesKm": [
+        16.093
+      ],
+      "months": [
+        5
+      ],
+      "url": "https://www.gpbern.ch/",
+      "nextDate": "2027-05-15"
+    },
+    {
+      "name": "Greifenseelauf",
+      "nameZh": null,
+      "city": "Uster",
+      "country": "Switzerland",
+      "sport": "run",
+      "distancesKm": [
+        21.0975,
+        10
+      ],
+      "months": [
+        9
+      ],
+      "url": "https://www.greifenseelauf.ch/",
+      "nextDate": "2027-09-18"
+    },
+    {
+      "name": "Course de l'Escalade",
+      "nameZh": null,
+      "city": "Geneva",
+      "country": "Switzerland",
+      "sport": "run",
+      "distancesKm": [
+        7.3
+      ],
+      "months": [
+        12
+      ],
+      "url": "https://escalade.ch/",
+      "nextDate": null
+    },
+    {
+      "name": "Murtenlauf (Course Morat-Fribourg)",
+      "nameZh": null,
+      "city": "Fribourg",
+      "country": "Switzerland",
+      "sport": "run",
+      "distancesKm": [
+        17.17,
+        9.65
+      ],
+      "months": [
+        10
+      ],
+      "url": "https://www.morat-fribourg.ch/",
+      "nextDate": "2027-10-03"
+    },
+    {
+      "name": "Biel 100 km Run (Bieler Lauftage)",
+      "nameZh": null,
+      "city": "Biel/Bienne",
+      "country": "Switzerland",
+      "sport": "run",
+      "distancesKm": [
+        100
+      ],
+      "months": [
+        6
+      ],
+      "url": "https://100km.ch/",
+      "nextDate": "2027-06-11"
+    },
+    {
+      "name": "Alpenbrevet",
+      "nameZh": null,
+      "city": "Andermatt",
+      "country": "Switzerland",
+      "sport": "bike",
+      "distancesKm": [
+        267,
+        212,
+        108,
+        68
+      ],
+      "months": [
+        9
+      ],
+      "url": "https://alpenbrevet.ch/",
+      "nextDate": "2027-09-04"
+    },
+    {
+      "name": "Swiss Two-Day March (Schweizerischer Zweitagemarsch)",
+      "nameZh": null,
+      "city": "Bern",
+      "country": "Switzerland",
+      "sport": "walk",
+      "distancesKm": [
+        40,
+        30,
+        20,
+        10
+      ],
+      "months": [
+        5
+      ],
+      "url": "https://www.2tm.ch/",
+      "nextDate": "2027-05-08"
+    },
+    {
+      "name": "Durban International Marathon",
+      "nameZh": null,
+      "city": "Durban",
+      "country": "South Africa",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        10
+      ],
+      "months": [
+        5
+      ],
+      "url": "https://durbanmarathon.co.za/",
+      "nextDate": null
+    },
+    {
+      "name": "Om Die Dam Ultra Marathon",
+      "nameZh": null,
+      "city": "Hartbeespoort",
+      "country": "South Africa",
+      "sport": "run",
+      "distancesKm": [
+        50,
+        21.0975,
+        8
+      ],
+      "months": [
+        3
+      ],
+      "url": "https://omdiedammarathon.co.za/",
+      "nextDate": "2027-03-20"
+    },
+    {
+      "name": "Sanlam Cape Town Peace Run",
+      "nameZh": null,
+      "city": "Cape Town",
+      "country": "South Africa",
+      "sport": "run",
+      "distancesKm": [
+        10,
+        5
+      ],
+      "months": [
+        5
+      ],
+      "url": "https://capetownmarathon.com/peace-runs/",
+      "nextDate": "2027-05-22"
+    },
+    {
+      "name": "SPAR Women's Challenge",
+      "nameZh": null,
+      "city": "Cape Town, Durban, Johannesburg and other cities",
+      "country": "South Africa",
+      "sport": "run",
+      "distancesKm": [
+        10,
+        5
+      ],
+      "months": [
+        3,
+        6,
+        10
+      ],
+      "url": "https://www.sparwomensrace.co.za/",
+      "nextDate": null
+    },
+    {
+      "name": "parkrun South Africa",
+      "nameZh": null,
+      "city": "Nationwide",
+      "country": "South Africa",
+      "sport": "run",
+      "distancesKm": [
+        5
+      ],
+      "months": [],
+      "url": "https://www.parkrun.co.za/",
+      "nextDate": null
+    },
+    {
+      "name": "Ride Joburg (947 Ride Joburg)",
+      "nameZh": null,
+      "city": "Johannesburg",
+      "country": "South Africa",
+      "sport": "bike",
+      "distancesKm": [
+        97,
+        35
+      ],
+      "months": [
+        11
+      ],
+      "url": "https://www.ridejoburg.co.za/",
+      "nextDate": "2026-11-22"
+    },
+    {
+      "name": "Amashova National Classic",
+      "nameZh": null,
+      "city": "Durban",
+      "country": "South Africa",
+      "sport": "bike",
+      "distancesKm": [
+        106,
+        70,
+        40
+      ],
+      "months": [
+        8
+      ],
+      "url": "https://shova.co.za/",
+      "nextDate": "2027-08-08"
+    },
+    {
+      "name": "702 Walk the Talk",
+      "nameZh": null,
+      "city": "Johannesburg",
+      "country": "South Africa",
+      "sport": "walk",
+      "distancesKm": [
+        15,
+        8,
+        5
+      ],
+      "months": [
+        7
+      ],
+      "url": "https://www.jozimyjozi.com/events/walk-the-talk",
+      "nextDate": null
+    },
+    {
+      "name": "Buffalo Regatta",
+      "nameZh": null,
+      "city": "East London",
+      "country": "South Africa",
+      "sport": "row",
+      "distancesKm": [
+        2,
+        0.5
+      ],
+      "months": [
+        2
+      ],
+      "url": "https://rowsa.co.za/",
+      "nextDate": null
+    },
+    {
+      "name": "ADNOC Abu Dhabi Marathon",
+      "nameZh": null,
+      "city": "Abu Dhabi",
+      "country": "United Arab Emirates",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        10,
+        5
+      ],
+      "months": [
+        12
+      ],
+      "url": "https://www.adnocabudhabimarathon.com/",
+      "nextDate": "2026-12-12"
+    },
+    {
+      "name": "Ras Al Khaimah Half Marathon",
+      "nameZh": null,
+      "city": "Ras Al Khaimah",
+      "country": "United Arab Emirates",
+      "sport": "run",
+      "distancesKm": [
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        1,
+        2
+      ],
+      "url": "https://rakhalfmarathon.com/",
+      "nextDate": "2027-01-30"
+    },
+    {
+      "name": "Dubai Run (Dubai Fitness Challenge)",
+      "nameZh": null,
+      "city": "Dubai",
+      "country": "United Arab Emirates",
+      "sport": "run",
+      "distancesKm": [
+        10,
+        5
+      ],
+      "months": [
+        11
+      ],
+      "url": "https://www.dubairun.com/",
+      "nextDate": "2026-11-22"
+    },
+    {
+      "name": "Dubai Creek Striders Half Marathon & 10K",
+      "nameZh": null,
+      "city": "Dubai",
+      "country": "United Arab Emirates",
+      "sport": "run",
+      "distancesKm": [
+        21.0975,
+        10
+      ],
+      "months": [
+        1
+      ],
+      "url": "https://www.dubaicreekstriders.com/",
+      "nextDate": "2027-01-10"
+    },
+    {
+      "name": "Cyber Run & Ride",
+      "nameZh": null,
+      "city": "Abu Dhabi",
+      "country": "United Arab Emirates",
+      "sport": "run",
+      "distancesKm": [
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        1
+      ],
+      "url": "https://www.adsc.ae/events/cyber-run-ride/",
+      "nextDate": "2027-01-31"
+    },
+    {
+      "name": "ADNOC Al Ain Half Marathon",
+      "nameZh": null,
+      "city": "Al Ain",
+      "country": "United Arab Emirates",
+      "sport": "run",
+      "distancesKm": [
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        11
+      ],
+      "url": "https://www.adnocabudhabimarathon.com/",
+      "nextDate": null
+    },
+    {
+      "name": "Ajman Half Marathon",
+      "nameZh": null,
+      "city": "Ajman",
+      "country": "United Arab Emirates",
+      "sport": "run",
+      "distancesKm": [
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        12
+      ],
+      "url": "https://www.visit-ajman.ae/en/news/ajman-tourism-organized-ajman-half-marathon-at-ajman-safia-park/",
+      "nextDate": null
+    },
+    {
+      "name": "Spinneys Dubai 92 Cycle Challenge",
+      "nameZh": null,
+      "city": "Dubai",
+      "country": "United Arab Emirates",
+      "sport": "bike",
+      "distancesKm": [
+        92,
+        35
+      ],
+      "months": [
+        2
+      ],
+      "url": "https://cyclechallenge.ae/",
+      "nextDate": "2027-02-07"
+    },
+    {
+      "name": "Gran Fondo Abu Dhabi (AD Ports Group Gran Fondo)",
+      "nameZh": null,
+      "city": "Al Ain to Abu Dhabi",
+      "country": "United Arab Emirates",
+      "sport": "bike",
+      "distancesKm": [
+        154
+      ],
+      "months": [
+        12
+      ],
+      "url": "https://www.adsc.ae/events/bike-abu-dhabi-gran-fondo-1/",
+      "nextDate": "2026-12-20"
+    },
+    {
+      "name": "Dubai Ride (Dubai Fitness Challenge)",
+      "nameZh": null,
+      "city": "Dubai",
+      "country": "United Arab Emirates",
+      "sport": "bike",
+      "distancesKm": [
+        12,
+        4
+      ],
+      "months": [
+        11
+      ],
+      "url": "https://www.dubairide.com/",
+      "nextDate": null
+    },
+    {
+      "name": "Tel Aviv Marathon (Bank Leumi Tel Aviv Marathon)",
+      "nameZh": "特拉維夫馬拉松",
+      "city": "Tel Aviv",
+      "country": "Israel",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        2
+      ],
+      "url": "https://www.tlvmarathon.co.il/en/",
+      "nextDate": "2027-02-26"
+    },
+    {
+      "name": "Jerusalem Marathon (International Jerusalem Winner Marathon)",
+      "nameZh": "耶路撒冷馬拉松",
+      "city": "Jerusalem",
+      "country": "Israel",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        3
+      ],
+      "url": "https://jerusalem-marathon.com/en/",
+      "nextDate": "2027-03-19"
+    },
+    {
+      "name": "Tiberias Marathon (Sea of Galilee Winner Marathon)",
+      "nameZh": null,
+      "city": "Tiberias",
+      "country": "Israel",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        1
+      ],
+      "url": "https://tiberiasmarathon.gold-fish.co.il/",
+      "nextDate": null
+    },
+    {
+      "name": "Sovev Jerusalem (Jerusalem Cycling Tour)",
+      "nameZh": null,
+      "city": "Jerusalem",
+      "country": "Israel",
+      "sport": "bike",
+      "distancesKm": [
+        50,
+        30,
+        15,
+        8
+      ],
+      "months": [
+        5
+      ],
+      "url": "https://www.sovevjerusalem.co.il/",
+      "nextDate": null
+    },
+    {
+      "name": "Kinneret Crossing Swim (Speedo Sea of Galilee Crossing)",
+      "nameZh": null,
+      "city": "Tzemach, Sea of Galilee",
+      "country": "Israel",
+      "sport": "swim",
+      "distancesKm": [
+        3.5,
+        1.5
+      ],
+      "months": [
+        9
+      ],
+      "url": "https://www.speedo.co.il/",
+      "nextDate": null
+    },
+    {
+      "name": "Jerusalem March",
+      "nameZh": null,
+      "city": "Jerusalem",
+      "country": "Israel",
+      "sport": "walk",
+      "distancesKm": [
+        12,
+        9,
+        5
+      ],
+      "months": [
+        9,
+        10
+      ],
+      "url": "https://itraveljerusalem.com/event/jerusalem-march",
+      "nextDate": null
     }
   ]
 }
