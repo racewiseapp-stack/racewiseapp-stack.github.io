@@ -11435,6 +11435,90 @@
       ],
       "url": "https://www.runrocknroll.com/events/taitung",
       "nextDate": "2027-03-13"
+    },
+    {
+      "name": "Rock 'n' Roll Quito",
+      "nameZh": null,
+      "city": "Quito",
+      "country": "Ecuador",
+      "sport": "run",
+      "distancesKm": [
+        21.0975,
+        10
+      ],
+      "months": [
+        11
+      ],
+      "url": "https://www.runrocknroll.com/events/quito",
+      "nextDate": "2026-11-22"
+    },
+    {
+      "name": "Rock 'n' Roll Manila",
+      "nameZh": null,
+      "city": "Manila",
+      "country": "Philippines",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        11
+      ],
+      "url": "https://www.runrocknroll.com/events/manila",
+      "nextDate": "2026-11-29"
+    },
+    {
+      "name": "Rock 'n' Roll Mexico City",
+      "nameZh": null,
+      "city": "Mexico City",
+      "country": "Mexico",
+      "sport": "run",
+      "distancesKm": [
+        21.0975,
+        10
+      ],
+      "months": [
+        12
+      ],
+      "url": "https://www.runrocknroll.com/events/mexico-city",
+      "nextDate": "2026-12-13"
+    },
+    {
+      "name": "Rock 'n' Roll Madrid",
+      "nameZh": null,
+      "city": "Madrid",
+      "country": "Spain",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10
+      ],
+      "months": [
+        4
+      ],
+      "url": "https://www.runrocknroll.com/events/madrid",
+      "nextDate": "2027-04-25"
+    },
+    {
+      "name": "Rock 'n' Roll Santiago",
+      "nameZh": null,
+      "city": "Santiago",
+      "country": "Chile",
+      "sport": "run",
+      "distancesKm": [
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        10
+      ],
+      "url": "https://www.runrocknroll.com/events/santiago",
+      "nextDate": null
     }
   ]
 }
