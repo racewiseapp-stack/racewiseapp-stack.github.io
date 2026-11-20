@@ -348,9 +348,7 @@
 .v2 .get .store-badge { grid-area: badge; align-self: start; }
 @media (max-width: 900px) { .v2 .get .store { display: flex; padding: 0; border: 0; background: none; } .v2 .get .qr { display: none; } }
 
-/* 20/11: who built it (hero) and the 40-second demo video */
-.v2 .hero .made-by { color: rgba(255,255,255,.72); font-size: 15px; margin: -10px 0 22px; max-width: 32em; }
-.v2 .hero .made-by a { color: var(--volt); font-weight: 600; }
+/* 20/11: demo video */
 .v2 .demo video { display: block; width: 100%; height: auto; margin-top: 18px; border-radius: var(--r-card); background: #0d0e10; }
 
 /* 20/11: guide pages (first-5k, races) */
@@ -383,12 +381,26 @@
 .v2 .measure .shoebar span { display: block; height: 100%; background: var(--volt); }
 @media (max-width: 560px) { .v2 .measure .metrics { grid-template-columns: repeat(2, 1fr); } }
 
-/* 20/11: What's new timeline, with "Coming soon" badges */
-.v2 .news .timeline { list-style: none; padding: 0; margin: 18px 0 0; border-left: 3px solid rgba(127,127,127,.2); }
-.v2 .news .timeline > li { position: relative; padding: 0 0 22px 22px; }
-.v2 .news .timeline > li::before { content: ""; position: absolute; left: -8px; top: 6px; width: 13px; height: 13px; border-radius: 50%; background: var(--accent); }
-.v2 .news .timeline > li.upcoming::before { background: var(--volt); box-shadow: 0 0 0 3px rgba(212,245,60,.3); }
-.v2 .news .when { font-weight: 700; margin: 0 0 6px; }
-.v2 .news .timeline ul { margin: 0; padding-left: 1.1em; }
-.v2 .news .timeline ul li { margin: 6px 0; }
-.v2 .soon { display: inline-block; margin-right: 8px; padding: 2px 10px; border-radius: 999px; background: var(--volt); color: #0d0e10; font-size: 12px; font-weight: 700; vertical-align: 2px; }
+
+/* 20/11: longer home headline in the bib stays on two lines; What's new panels */
+.v2 .hero .bib h1 { font-size: clamp(38px, 5.2vw, 64px); }
+.v2.zh .hero .bib h1 { font-size: clamp(36px, 4.8vw, 58px); }
+.v2 .news .news-head { margin: 0 0 12px; font-size: 17px; }
+.v2 .badge-soon { display: inline-block; padding: 3px 12px; border-radius: 999px; background: var(--volt); color: #0d0e10; font-size: 13px; font-weight: 700; }
+
+/* 20/11: First 5K page graphics, race calendar disclaimer */
+.v2 .first5k .g-hero { align-items: center; }
+.v2 .first5k .g-phone { margin: 0; text-align: center; }
+.v2 .first5k .g-phone img { width: min(280px, 70vw); height: auto; border-radius: 34px; box-shadow: 0 24px 60px -30px rgba(0,0,0,.55); }
+.v2 .first5k .g-ladder { margin: 40px 0 10px; }
+.v2 .first5k .g-ladder h2 { margin-top: 0; }
+.v2 .ladder.big { height: 170px; }
+.v2 .ladder.big i { min-height: 8px; }
+.v2 .first5k .also { margin-top: 14px; }
+.v2 .first5k .g-row { margin-top: 20px; }
+.v2 .g-path { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; margin: 14px 0; }
+.v2 .g-path span { padding: 6px 14px; border-radius: 999px; background: var(--soft); font-weight: 700; }
+.v2 .g-path span:first-child { background: var(--volt); color: #0d0e10; }
+.v2 .g-path i { font-style: normal; color: var(--muted, #6b7280); }
+.v2 .races-page .disclaimer { margin: 18px 0; border-left: 4px solid var(--volt); }
+.v2 .races-page .disclaimer p { margin: 0; font-size: 15px; }
