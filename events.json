@@ -12994,6 +12994,474 @@
       ],
       "url": "https://www.caf.com/es/especiales/maraton/",
       "nextDate": "2027-02-21"
+    },
+    {
+      "name": "Runtalya Marathon presented by Fraport TAV",
+      "nameZh": null,
+      "city": "Antalya",
+      "country": "Turkey",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        4
+      ],
+      "url": "https://tursetsports.com/en/races/runtalya",
+      "nextDate": "2027-04-04"
+    },
+    {
+      "name": "Gelibolu Marathon",
+      "nameZh": null,
+      "city": "Çanakkale",
+      "country": "Turkey",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10
+      ],
+      "months": [
+        10
+      ],
+      "url": "https://tursetsports.com/en/races/gelibolu",
+      "nextDate": null
+    },
+    {
+      "name": "Türkiye İş Bankası Istanbul Half Marathon",
+      "nameZh": null,
+      "city": "Istanbul",
+      "country": "Turkey",
+      "sport": "run",
+      "distancesKm": [
+        21.0975
+      ],
+      "months": [
+        4
+      ],
+      "url": "https://www.istanbulyarimaratonu.com",
+      "nextDate": null
+    },
+    {
+      "name": "International Trabzon Half Marathon",
+      "nameZh": null,
+      "city": "Trabzon",
+      "country": "Turkey",
+      "sport": "run",
+      "distancesKm": [
+        21.0975,
+        10
+      ],
+      "months": [
+        2,
+        3
+      ],
+      "url": "https://yarimaraton.trabzon.bel.tr/indexen.html",
+      "nextDate": "2027-03-21"
+    },
+    {
+      "name": "Eker I Run",
+      "nameZh": null,
+      "city": "Bursa",
+      "country": "Turkey",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        15,
+        5
+      ],
+      "months": [
+        10
+      ],
+      "url": "https://www.ekerkosu.com",
+      "nextDate": null
+    },
+    {
+      "name": "Salomon Çeşme Half Marathon",
+      "nameZh": null,
+      "city": "Çeşme",
+      "country": "Turkey",
+      "sport": "run",
+      "distancesKm": [
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        5
+      ],
+      "url": "https://cesmeyarimaratonu.com",
+      "nextDate": null
+    },
+    {
+      "name": "International 9 Eylül İzmir Half Marathon",
+      "nameZh": null,
+      "city": "İzmir",
+      "country": "Turkey",
+      "sport": "run",
+      "distancesKm": [
+        21.0975
+      ],
+      "months": [
+        9
+      ],
+      "url": "https://www.maratonizmir.org",
+      "nextDate": null
+    },
+    {
+      "name": "Work.ua Kyiv Unbroken Half Marathon",
+      "nameZh": null,
+      "city": "Kyiv",
+      "country": "Ukraine",
+      "sport": "run",
+      "distancesKm": [
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        4
+      ],
+      "url": "https://kyivhalfmarathon.org/en/",
+      "nextDate": null
+    },
+    {
+      "name": "PrivatBank Kyiv Unbroken Marathon",
+      "nameZh": null,
+      "city": "Kyiv",
+      "country": "Ukraine",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        10,
+        5
+      ],
+      "months": [
+        10
+      ],
+      "url": "https://kyivmarathon.org/en/",
+      "nextDate": null
+    },
+    {
+      "name": "NOVUS Unbroken Ten. Kyiv",
+      "nameZh": null,
+      "city": "Kyiv",
+      "country": "Ukraine",
+      "sport": "run",
+      "distancesKm": [
+        10,
+        5
+      ],
+      "months": [
+        3
+      ],
+      "url": "https://kyiv10km.runukraine.org/en/",
+      "nextDate": null
+    },
+    {
+      "name": "Tavria V Odesa Unbroken Half Marathon",
+      "nameZh": null,
+      "city": "Odesa",
+      "country": "Ukraine",
+      "sport": "run",
+      "distancesKm": [
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        6
+      ],
+      "url": "https://kyivhalfmarathon.org/",
+      "nextDate": null
+    },
+    {
+      "name": "NewRun Lviv Half Marathon",
+      "nameZh": null,
+      "city": "Lviv",
+      "country": "Ukraine",
+      "sport": "run",
+      "distancesKm": [
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        5
+      ],
+      "url": "https://newrun.com.ua",
+      "nextDate": null
+    },
+    {
+      "name": "Reykjavik Marathon",
+      "nameZh": null,
+      "city": "Reykjavik",
+      "country": "Iceland",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10
+      ],
+      "months": [
+        8
+      ],
+      "url": "https://www.rmi.is/en",
+      "nextDate": "2027-08-21"
+    },
+    {
+      "name": "Suzuki Midnight Sun Run",
+      "nameZh": null,
+      "city": "Reykjavik",
+      "country": "Iceland",
+      "sport": "run",
+      "distancesKm": [
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        6
+      ],
+      "url": "https://www.midnaeturhlaup.is/en",
+      "nextDate": "2027-06-24"
+    },
+    {
+      "name": "Reykjavik Spring Marathon",
+      "nameZh": null,
+      "city": "Reykjavik",
+      "country": "Iceland",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975
+      ],
+      "months": [
+        4
+      ],
+      "url": "https://marathonhlaup.is",
+      "nextDate": "2027-04-24"
+    },
+    {
+      "name": "Reykjavik Autumn Marathon",
+      "nameZh": null,
+      "city": "Reykjavik",
+      "country": "Iceland",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975
+      ],
+      "months": [
+        10
+      ],
+      "url": "https://marathonhlaup.is",
+      "nextDate": null
+    },
+    {
+      "name": "Powerade Belgrade Marathon",
+      "nameZh": null,
+      "city": "Belgrade",
+      "country": "Serbia",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10
+      ],
+      "months": [
+        4
+      ],
+      "url": "https://bgdmarathon.org/?lang=en",
+      "nextDate": "2027-04-17"
+    },
+    {
+      "name": "Sava osiguranje Belgrade Half Marathon",
+      "nameZh": null,
+      "city": "Belgrade",
+      "country": "Serbia",
+      "sport": "run",
+      "distancesKm": [
+        21.0975,
+        10
+      ],
+      "months": [
+        11
+      ],
+      "url": "https://bgdmarathon.org/?lang=en",
+      "nextDate": "2026-11-22"
+    },
+    {
+      "name": "10K Belgrade",
+      "nameZh": null,
+      "city": "Belgrade",
+      "country": "Serbia",
+      "sport": "run",
+      "distancesKm": [
+        10
+      ],
+      "months": [
+        9
+      ],
+      "url": "https://bgdmarathon.org/?lang=en",
+      "nextDate": null
+    },
+    {
+      "name": "Belgrade Women's Race",
+      "nameZh": null,
+      "city": "Belgrade",
+      "country": "Serbia",
+      "sport": "run",
+      "distancesKm": [
+        7.7
+      ],
+      "months": [
+        10
+      ],
+      "url": "https://bgdmarathon.org/womens-race-2026/?lang=en",
+      "nextDate": null
+    },
+    {
+      "name": "Novi Sad Marathon",
+      "nameZh": null,
+      "city": "Novi Sad",
+      "country": "Serbia",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975
+      ],
+      "months": [
+        10
+      ],
+      "url": "https://www.marathon.org.rs",
+      "nextDate": null
+    },
+    {
+      "name": "Tbilisi Marathon",
+      "nameZh": null,
+      "city": "Tbilisi",
+      "country": "Georgia",
+      "sport": "run",
+      "distancesKm": [
+        21.0975,
+        10
+      ],
+      "months": [
+        9
+      ],
+      "url": "https://www.tbilisimarathon.ge",
+      "nextDate": null
+    },
+    {
+      "name": "Yerevan Marathon",
+      "nameZh": null,
+      "city": "Yerevan",
+      "country": "Armenia",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        12,
+        5
+      ],
+      "months": [
+        10
+      ],
+      "url": "https://armeniamarathon.org",
+      "nextDate": null
+    },
+    {
+      "name": "Chișinău International Marathon",
+      "nameZh": null,
+      "city": "Chișinău",
+      "country": "Moldova",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10.5,
+        5
+      ],
+      "months": [
+        9
+      ],
+      "url": "https://marathon.md/en",
+      "nextDate": "2027-09-26"
+    },
+    {
+      "name": "Wizz Air Tirana Marathon",
+      "nameZh": null,
+      "city": "Tirana",
+      "country": "Albania",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        10,
+        11
+      ],
+      "url": "https://tiranamarathon.com",
+      "nextDate": "2027-10-10"
+    },
+    {
+      "name": "Persil Sarajevo Half Marathon",
+      "nameZh": null,
+      "city": "Sarajevo",
+      "country": "Bosnia and Herzegovina",
+      "sport": "run",
+      "distancesKm": [
+        21.0975,
+        5
+      ],
+      "months": [
+        9
+      ],
+      "url": "https://sarajevomarathon.ba/en",
+      "nextDate": null
+    },
+    {
+      "name": "NLB Podgorica Millennium Run",
+      "nameZh": null,
+      "city": "Podgorica",
+      "country": "Montenegro",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        10,
+        11
+      ],
+      "url": "https://www.podgorica.run/en/home",
+      "nextDate": null
+    },
+    {
+      "name": "Wizz Air Skopje Marathon",
+      "nameZh": null,
+      "city": "Skopje",
+      "country": "North Macedonia",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        5
+      ],
+      "months": [
+        10
+      ],
+      "url": "https://skopskimaraton.com.mk",
+      "nextDate": null
     }
   ]
 }
