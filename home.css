@@ -181,7 +181,7 @@
 .v2 footer .wrap { padding-bottom: 36px; }
 .v2 footer p { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 8px 20px; margin: 0 0 10px; font-size: 14px; color: var(--muted); }
 .v2 footer p.small { display: block; max-width: 60em; }
-.v2 footer span:last-child { display: flex; gap: 18px; }
+.v2 footer span:last-child { display: flex; flex-wrap: wrap; gap: 8px 18px; }
 
 @media (prefers-color-scheme: dark) {
   .v2 .day.hard .tile { background: #1d3b27; }
