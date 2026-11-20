@@ -322,7 +322,8 @@ nav a { margin-right: 0; }
 .press-icon { width: 120px; height: 120px; border-radius: 27px; box-shadow: 0 10px 24px -12px rgba(0,0,0,.35); }
 .press-facts dl { margin: 0; display: grid; grid-template-columns: auto 1fr; gap: 8px 16px; font-size: 15px; }
 .press-facts dt { color: var(--muted); }
-.press-facts dd { margin: 0; }
+.press-facts dd { margin: 0; overflow-wrap: anywhere; }
+.press-grid > * { min-width: 0; }
 .press-shots { display: grid; grid-template-columns: repeat(5, 1fr); gap: 12px; }
 .press-shots figure { margin: 0; }
 .press-shots img { display: block; width: 100%; height: auto; border-radius: var(--r-ctl); box-shadow: 0 8px 20px -12px rgba(0,0,0,.35); }
