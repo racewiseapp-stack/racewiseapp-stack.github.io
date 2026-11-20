@@ -347,3 +347,23 @@
 .v2 .get .qr figcaption { grid-area: cap; align-self: end; max-width: 13em; font-size: 18px; line-height: 1.4; font-weight: 600; color: var(--ink); }
 .v2 .get .store-badge { grid-area: badge; align-self: start; }
 @media (max-width: 900px) { .v2 .get .store { display: flex; padding: 0; border: 0; background: none; } .v2 .get .qr { display: none; } }
+
+/* 20/11: who built it (hero) and the 40-second demo video */
+.v2 .hero .made-by { color: rgba(255,255,255,.72); font-size: 15px; margin: -10px 0 22px; max-width: 32em; }
+.v2 .hero .made-by a { color: var(--volt); font-weight: 600; }
+.v2 .demo video { display: block; width: 100%; height: auto; margin-top: 18px; border-radius: var(--r-card); background: #0d0e10; }
+
+/* 20/11: guide pages (first-5k, races) */
+.v2 .guide-page h2 { margin-top: 36px; }
+.v2 .guide-page .steplist { padding-left: 1.2em; list-style: disc; }
+.v2 .guide-page .steplist li { margin: 10px 0; }
+.v2 .guide-page .note { font-weight: 600; margin-top: 28px; }
+.v2 .guide-page .store { margin: 14px 0 28px; }
+.v2 .races-page details.country { margin: 10px 0; border-radius: var(--r-ctl); background: var(--soft); padding: 12px 16px; }
+.v2 .races-page details.country summary { cursor: pointer; font-weight: 700; font-size: 18px; }
+.v2 .races-page details.country summary span { font-weight: 400; color: var(--muted, #6b7280); }
+.v2 .races-page .table-wrap { overflow-x: auto; margin-top: 10px; }
+.v2 .races-page table { width: 100%; border-collapse: collapse; font-size: 15px; }
+.v2 .races-page th, .v2 .races-page td { text-align: left; padding: 7px 10px 7px 0; border-top: 1px solid rgba(127,127,127,.18); vertical-align: top; }
+.v2 .races-page th { font-size: 13px; text-transform: none; color: var(--muted, #6b7280); border-top: 0; }
+.v2 .more-link { margin-top: 10px; font-weight: 600; }
