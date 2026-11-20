@@ -11519,6 +11519,38 @@
       ],
       "url": "https://www.runrocknroll.com/events/santiago",
       "nextDate": null
+    },
+    {
+      "name": "LifeStar Malta Marathon",
+      "nameZh": "馬耳他馬拉松",
+      "city": "Mdina–Sliema",
+      "country": "Malta",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        5
+      ],
+      "months": [
+        2
+      ],
+      "url": "https://maltamarathon.com/malta-marathon/",
+      "nextDate": "2027-02-28"
+    },
+    {
+      "name": "LifeStar Malta Marathon Walkathon",
+      "nameZh": null,
+      "city": "Mdina–Sliema",
+      "country": "Malta",
+      "sport": "walk",
+      "distancesKm": [
+        21.0975
+      ],
+      "months": [
+        2
+      ],
+      "url": "https://maltamarathon.com/malta-marathon/",
+      "nextDate": "2027-02-28"
     }
   ]
 }
