@@ -13462,6 +13462,1215 @@
       ],
       "url": "https://skopskimaraton.com.mk",
       "nextDate": null
+    },
+    {
+      "name": "Colombo Marathon",
+      "nameZh": "科倫坡馬拉松",
+      "city": "Colombo",
+      "country": "Sri Lanka",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        9
+      ],
+      "url": "https://www.colombomarathon.lk",
+      "nextDate": null
+    },
+    {
+      "name": "LSR Colombo Marathon",
+      "nameZh": null,
+      "city": "Colombo",
+      "country": "Sri Lanka",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        10
+      ],
+      "url": "https://www.colombomarathon.com",
+      "nextDate": null
+    },
+    {
+      "name": "ICA International Half-Marathon",
+      "nameZh": null,
+      "city": "Colombo",
+      "country": "Sri Lanka",
+      "sport": "run",
+      "distancesKm": [
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        12
+      ],
+      "url": "https://www.icainternationalmarathon.com",
+      "nextDate": "2026-12-13"
+    },
+    {
+      "name": "Ulaanbaatar Marathon",
+      "nameZh": "烏蘭巴托馬拉松",
+      "city": "Ulaanbaatar",
+      "country": "Mongolia",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        5
+      ],
+      "url": "https://ulaanbaatar.marathon.mn",
+      "nextDate": null
+    },
+    {
+      "name": "Hope and Possibility Ulaanbaatar",
+      "nameZh": null,
+      "city": "Ulaanbaatar",
+      "country": "Mongolia",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        9
+      ],
+      "url": "https://achilles.marathon.mn",
+      "nextDate": "2027-09-18"
+    },
+    {
+      "name": "Riyadh Marathon",
+      "nameZh": null,
+      "city": "Riyadh",
+      "country": "Saudi Arabia",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        1
+      ],
+      "url": "https://riyadhmarathon.org/",
+      "nextDate": null
+    },
+    {
+      "name": "Al Sharqiyah International Race",
+      "nameZh": null,
+      "city": "Al Khobar",
+      "country": "Saudi Arabia",
+      "sport": "run",
+      "distancesKm": [
+        21.0975,
+        5
+      ],
+      "months": [
+        12
+      ],
+      "url": "https://worldathletics.org/competition/calendar-results/results/7226627",
+      "nextDate": null
+    },
+    {
+      "name": "Doha Marathon by Ooredoo",
+      "nameZh": null,
+      "city": "Doha",
+      "country": "Qatar",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        1
+      ],
+      "url": "https://www.dohamarathonooredoo.com",
+      "nextDate": "2027-01-15"
+    },
+    {
+      "name": "QOC Half Marathon",
+      "nameZh": null,
+      "city": "Lusail",
+      "country": "Qatar",
+      "sport": "run",
+      "distancesKm": [
+        21.0975
+      ],
+      "months": [
+        2
+      ],
+      "url": "https://www.olympic.qa",
+      "nextDate": null
+    },
+    {
+      "name": "Standard Chartered Nairobi Marathon",
+      "nameZh": null,
+      "city": "Nairobi",
+      "country": "Kenya",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        10
+      ],
+      "url": "https://nairobimarathon.com/",
+      "nextDate": null
+    },
+    {
+      "name": "Nairobi City Marathon",
+      "nameZh": null,
+      "city": "Nairobi",
+      "country": "Kenya",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        6
+      ],
+      "url": "https://nairobicitymarathon.com",
+      "nextDate": null
+    },
+    {
+      "name": "Eldoret City Marathon",
+      "nameZh": null,
+      "city": "Eldoret",
+      "country": "Kenya",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        10
+      ],
+      "months": [
+        4
+      ],
+      "url": "https://www.eldoretcitymarathon.co.ke",
+      "nextDate": null
+    },
+    {
+      "name": "Access Bank Lagos City Marathon",
+      "nameZh": null,
+      "city": "Lagos",
+      "country": "Nigeria",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        10
+      ],
+      "months": [
+        2
+      ],
+      "url": "https://lagoscitymarathon.com",
+      "nextDate": null
+    },
+    {
+      "name": "Okpekpe International 10km Road Race",
+      "nameZh": null,
+      "city": "Okpekpe",
+      "country": "Nigeria",
+      "sport": "run",
+      "distancesKm": [
+        10
+      ],
+      "months": [
+        5
+      ],
+      "url": "https://okpekperoadrace.com",
+      "nextDate": null
+    },
+    {
+      "name": "Abuja City International Half Marathon",
+      "nameZh": null,
+      "city": "Abuja",
+      "country": "Nigeria",
+      "sport": "run",
+      "distancesKm": [
+        21.0975
+      ],
+      "months": [
+        11
+      ],
+      "url": "https://von.gov.ng/abuja-city-international-half-marathon-earns-world-athletics-label/",
+      "nextDate": null
+    },
+    {
+      "name": "Egyptian Marathon",
+      "nameZh": null,
+      "city": "Luxor",
+      "country": "Egypt",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        12,
+        5
+      ],
+      "months": [
+        1
+      ],
+      "url": "https://www.egyptianmarathon.com",
+      "nextDate": "2027-01-08"
+    },
+    {
+      "name": "Pyramids Half Marathon",
+      "nameZh": null,
+      "city": "Giza",
+      "country": "Egypt",
+      "sport": "run",
+      "distancesKm": [
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        12
+      ],
+      "url": "https://www.pyramidshalfmarathon.com",
+      "nextDate": "2026-12-12"
+    },
+    {
+      "name": "Sharm El Sheikh Half Marathon",
+      "nameZh": null,
+      "city": "Sharm El Sheikh",
+      "country": "Egypt",
+      "sport": "run",
+      "distancesKm": [
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        11
+      ],
+      "url": "https://www.egyptianmarathon.com",
+      "nextDate": "2026-11-28"
+    },
+    {
+      "name": "Marrakech International Marathon",
+      "nameZh": null,
+      "city": "Marrakech",
+      "country": "Morocco",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        5
+      ],
+      "months": [
+        1
+      ],
+      "url": "https://marathonmarrakech.ma/?lang=en",
+      "nextDate": "2027-01-31"
+    },
+    {
+      "name": "Casablanca International Marathon",
+      "nameZh": null,
+      "city": "Casablanca",
+      "country": "Morocco",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10
+      ],
+      "months": [
+        10
+      ],
+      "url": "https://www.casablanca-marathon.com",
+      "nextDate": null
+    },
+    {
+      "name": "Rabat International Marathon",
+      "nameZh": null,
+      "city": "Rabat",
+      "country": "Morocco",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10
+      ],
+      "months": [
+        5
+      ],
+      "url": "https://mirabat.ma",
+      "nextDate": null
+    },
+    {
+      "name": "Spiritual Marathon of Fez",
+      "nameZh": null,
+      "city": "Fez",
+      "country": "Morocco",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10
+      ],
+      "months": [
+        3
+      ],
+      "url": "https://marathonspiritueldefes.com",
+      "nextDate": null
+    },
+    {
+      "name": "20km International de Marrakech",
+      "nameZh": null,
+      "city": "Marrakech",
+      "country": "Morocco",
+      "sport": "run",
+      "distancesKm": [
+        20,
+        10
+      ],
+      "months": [
+        9
+      ],
+      "url": "https://www.rbmsports.com",
+      "nextDate": null
+    },
+    {
+      "name": "Royal Bahrain Night Half Marathon",
+      "nameZh": null,
+      "city": "Manama",
+      "country": "Bahrain",
+      "sport": "run",
+      "distancesKm": [
+        21.0975,
+        5
+      ],
+      "months": [
+        12
+      ],
+      "url": "https://www.bahrainhalfmarathon.bh",
+      "nextDate": null
+    },
+    {
+      "name": "Muscat Marathon",
+      "nameZh": null,
+      "city": "Muscat",
+      "country": "Oman",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        1
+      ],
+      "url": "https://www.muscatmarathon.om",
+      "nextDate": "2027-01-29"
+    },
+    {
+      "name": "Gulf Bank 642 Marathon",
+      "nameZh": null,
+      "city": "Kuwait City",
+      "country": "Kuwait",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        11
+      ],
+      "url": "https://www.gulfbank642marathon.com",
+      "nextDate": "2026-11-28"
+    },
+    {
+      "name": "Amman Marathon",
+      "nameZh": null,
+      "city": "Amman",
+      "country": "Jordan",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10
+      ],
+      "months": [
+        10
+      ],
+      "url": "https://petra.gov.jo/en/news/amman-marathon-set-for-16th-edition-after-securing-world-athletics-label",
+      "nextDate": null
+    },
+    {
+      "name": "Beirut Marathon",
+      "nameZh": null,
+      "city": "Beirut",
+      "country": "Lebanon",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10,
+        6
+      ],
+      "months": [
+        11
+      ],
+      "url": "https://beirutmarathon.org",
+      "nextDate": "2026-11-29"
+    },
+    {
+      "name": "Great Ethiopian Run",
+      "nameZh": null,
+      "city": "Addis Ababa",
+      "country": "Ethiopia",
+      "sport": "run",
+      "distancesKm": [
+        10
+      ],
+      "months": [
+        11
+      ],
+      "url": "https://www.ethiopianrun.org",
+      "nextDate": null
+    },
+    {
+      "name": "Lake Hawassa Half Marathon",
+      "nameZh": null,
+      "city": "Hawassa",
+      "country": "Ethiopia",
+      "sport": "run",
+      "distancesKm": [
+        21.0975
+      ],
+      "months": [
+        2
+      ],
+      "url": "https://www.ethiopianrun.org/events/",
+      "nextDate": null
+    },
+    {
+      "name": "Rwenzori Marathon",
+      "nameZh": null,
+      "city": "Kasese",
+      "country": "Uganda",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        9
+      ],
+      "url": "https://www.rwenzorimarathon.com",
+      "nextDate": "2027-09-04"
+    },
+    {
+      "name": "Kigali International Peace Marathon",
+      "nameZh": null,
+      "city": "Kigali",
+      "country": "Rwanda",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10
+      ],
+      "months": [
+        6
+      ],
+      "url": "https://kigalimarathon.org/",
+      "nextDate": "2027-06-13"
+    },
+    {
+      "name": "Kilimanjaro Marathon",
+      "nameZh": null,
+      "city": "Moshi",
+      "country": "Tanzania",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        5
+      ],
+      "months": [
+        2
+      ],
+      "url": "https://www.kilimanjaromarathon.com",
+      "nextDate": "2027-02-07"
+    },
+    {
+      "name": "FNB Accra Marathon",
+      "nameZh": null,
+      "city": "Accra",
+      "country": "Ghana",
+      "sport": "run",
+      "distancesKm": [
+        42.195
+      ],
+      "months": [
+        11
+      ],
+      "url": "https://gna.org.gh/2026/09/fnb-accra-marathon-returns-with-full-42-2km-race-in-november/",
+      "nextDate": null
+    },
+    {
+      "name": "COMAR Tunis-Carthage Marathon",
+      "nameZh": null,
+      "city": "Tunis",
+      "country": "Tunisia",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        5
+      ],
+      "months": [
+        11,
+        12
+      ],
+      "url": "https://marathon.comar.tn",
+      "nextDate": "2026-12-06"
+    },
+    {
+      "name": "Abidjan International Marathon",
+      "nameZh": null,
+      "city": "Abidjan",
+      "country": "Ivory Coast",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        11
+      ],
+      "url": "https://www.mida.ci",
+      "nextDate": "2026-11-29"
+    },
+    {
+      "name": "Diacore Gaborone Marathon",
+      "nameZh": null,
+      "city": "Gaborone",
+      "country": "Botswana",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10
+      ],
+      "months": [
+        4
+      ],
+      "url": "https://runsignup.com/Race/BW/Gaborone/DiacoreMarathon",
+      "nextDate": null
+    },
+    {
+      "name": "Victoria Falls Marathon",
+      "nameZh": null,
+      "city": "Victoria Falls",
+      "country": "Zimbabwe",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975
+      ],
+      "months": [
+        7
+      ],
+      "url": "https://www.vicfallsmarathon.com",
+      "nextDate": "2027-07-04"
+    },
+    {
+      "name": "parkrun Namibia",
+      "nameZh": null,
+      "city": "Nationwide",
+      "country": "Namibia",
+      "sport": "run",
+      "distancesKm": [
+        5
+      ],
+      "months": [],
+      "url": "https://www.parkrun.co.za/",
+      "nextDate": null
+    },
+    {
+      "name": "parkrun Eswatini",
+      "nameZh": null,
+      "city": "Nationwide",
+      "country": "Eswatini",
+      "sport": "run",
+      "distancesKm": [
+        5
+      ],
+      "months": [],
+      "url": "https://www.parkrun.co.za/",
+      "nextDate": null
+    },
+    {
+      "name": "Almaty Marathon",
+      "nameZh": null,
+      "city": "Almaty",
+      "country": "Kazakhstan",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10
+      ],
+      "months": [
+        9
+      ],
+      "url": "http://almaty-marathon.kz/ru/events/",
+      "nextDate": null
+    },
+    {
+      "name": "Almaty Half Marathon",
+      "nameZh": null,
+      "city": "Almaty",
+      "country": "Kazakhstan",
+      "sport": "run",
+      "distancesKm": [
+        21.0975,
+        10
+      ],
+      "months": [
+        4
+      ],
+      "url": "http://almaty-marathon.kz/ru/events/",
+      "nextDate": null
+    },
+    {
+      "name": "Astana Half Marathon",
+      "nameZh": null,
+      "city": "Astana",
+      "country": "Kazakhstan",
+      "sport": "run",
+      "distancesKm": [
+        21.0975,
+        10
+      ],
+      "months": [
+        6
+      ],
+      "url": "http://almaty-marathon.kz/ru/events/",
+      "nextDate": null
+    },
+    {
+      "name": "Turkistan Marathon",
+      "nameZh": null,
+      "city": "Turkistan",
+      "country": "Kazakhstan",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10
+      ],
+      "months": [
+        10
+      ],
+      "url": "http://almaty-marathon.kz/ru/events/",
+      "nextDate": null
+    },
+    {
+      "name": "Lahore Marathon",
+      "nameZh": null,
+      "city": "Lahore",
+      "country": "Pakistan",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        5
+      ],
+      "months": [
+        1,
+        2
+      ],
+      "url": "https://lahore-marathon.com/",
+      "nextDate": "2027-01-31"
+    },
+    {
+      "name": "Islamabad Marathon",
+      "nameZh": null,
+      "city": "Islamabad",
+      "country": "Pakistan",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        1
+      ],
+      "url": "https://islamabadrunwithus.com/event/view/islamabad-marathon-2027",
+      "nextDate": "2027-01-17"
+    },
+    {
+      "name": "Karachi Marathon",
+      "nameZh": null,
+      "city": "Karachi",
+      "country": "Pakistan",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        5
+      ],
+      "months": [
+        1
+      ],
+      "url": "https://sportsinpakistan.com/",
+      "nextDate": null
+    },
+    {
+      "name": "One Run Karachi Half Marathon",
+      "nameZh": null,
+      "city": "Karachi",
+      "country": "Pakistan",
+      "sport": "run",
+      "distancesKm": [
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        5
+      ],
+      "url": "https://sportsinpakistan.com/",
+      "nextDate": null
+    },
+    {
+      "name": "Kathmandu Marathon",
+      "nameZh": null,
+      "city": "Kathmandu",
+      "country": "Nepal",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        10,
+        11
+      ],
+      "url": "https://www.kathmandumarathon.com.np/",
+      "nextDate": null
+    },
+    {
+      "name": "Pokhara International Marathon",
+      "nameZh": null,
+      "city": "Pokhara",
+      "country": "Nepal",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        2
+      ],
+      "url": "https://www.pokharamarathon.org/",
+      "nextDate": "2027-02-13"
+    },
+    {
+      "name": "Reggae Marathon",
+      "nameZh": null,
+      "city": "Kingston",
+      "country": "Jamaica",
+      "sport": "run",
+      "distancesKm": [
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        12
+      ],
+      "url": "https://www.reggaemarathon.com/",
+      "nextDate": "2026-12-06"
+    },
+    {
+      "name": "Sagicor Sigma Corporate Run",
+      "nameZh": null,
+      "city": "Kingston",
+      "country": "Jamaica",
+      "sport": "run",
+      "distancesKm": [
+        5.5
+      ],
+      "months": [
+        2
+      ],
+      "url": "https://www.sagicor.com/en-JM/Sagicor%20Foundation/Sagicor%20Sigma%20Corporate%20Run",
+      "nextDate": null
+    },
+    {
+      "name": "MoBay City Run",
+      "nameZh": null,
+      "city": "Montego Bay",
+      "country": "Jamaica",
+      "sport": "run",
+      "distancesKm": [
+        10,
+        5
+      ],
+      "months": [
+        5
+      ],
+      "url": "https://www.mobaycityrun.com/",
+      "nextDate": "2027-05-02"
+    },
+    {
+      "name": "Tashkent International Marathon",
+      "nameZh": null,
+      "city": "Tashkent",
+      "country": "Uzbekistan",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        4
+      ],
+      "url": "https://visittashkent.uz/events/tashkent-international-marathon/",
+      "nextDate": null
+    },
+    {
+      "name": "Tashkent International Half Marathon",
+      "nameZh": null,
+      "city": "Tashkent",
+      "country": "Uzbekistan",
+      "sport": "run",
+      "distancesKm": [
+        21.0975
+      ],
+      "months": [
+        9
+      ],
+      "url": "https://en.uzathletics.uz/ijhh/news_post/6-september-in-tashkent-the-tashkent-international-half-marathon-2026-will-take-place",
+      "nextDate": null
+    },
+    {
+      "name": "Samarkand Marathon",
+      "nameZh": null,
+      "city": "Samarkand",
+      "country": "Uzbekistan",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10
+      ],
+      "months": [
+        11
+      ],
+      "url": "https://gov.uz/en/uzbektourism/news/view/240616",
+      "nextDate": null
+    },
+    {
+      "name": "Baku Marathon",
+      "nameZh": null,
+      "city": "Baku",
+      "country": "Azerbaijan",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10
+      ],
+      "months": [
+        5
+      ],
+      "url": "https://marathon.az/?lang=en",
+      "nextDate": null
+    },
+    {
+      "name": "Angkor Wat International Half Marathon",
+      "nameZh": "吳哥窟國際半程馬拉松",
+      "city": "Siem Reap",
+      "country": "Cambodia",
+      "sport": "run",
+      "distancesKm": [
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        12
+      ],
+      "url": "https://www.cambodia-events.org/events/7",
+      "nextDate": "2026-12-06"
+    },
+    {
+      "name": "Angkor Empire Marathon",
+      "nameZh": null,
+      "city": "Siem Reap",
+      "country": "Cambodia",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10
+      ],
+      "months": [
+        8
+      ],
+      "url": "https://www.cambodia-events.org/events/11",
+      "nextDate": "2027-08-08"
+    },
+    {
+      "name": "Sihanoukville International Half Marathon",
+      "nameZh": null,
+      "city": "Sihanoukville",
+      "country": "Cambodia",
+      "sport": "run",
+      "distancesKm": [
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        3
+      ],
+      "url": "https://www.cambodia-events.org/events/8",
+      "nextDate": "2027-03-28"
+    },
+    {
+      "name": "Phnom Penh International Half Marathon",
+      "nameZh": null,
+      "city": "Phnom Penh",
+      "country": "Cambodia",
+      "sport": "run",
+      "distancesKm": [
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        6
+      ],
+      "url": "https://www.cambodia-events.org/events/4",
+      "nextDate": null
+    },
+    {
+      "name": "Luang Prabang Half Marathon",
+      "nameZh": null,
+      "city": "Luang Prabang",
+      "country": "Laos",
+      "sport": "run",
+      "distancesKm": [
+        21.0975,
+        14,
+        7
+      ],
+      "months": [
+        10
+      ],
+      "url": "https://www.luangprabangmarathon.com/",
+      "nextDate": null
+    },
+    {
+      "name": "Bhutan International Marathon",
+      "nameZh": null,
+      "city": "Punakha",
+      "country": "Bhutan",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975
+      ],
+      "months": [
+        3
+      ],
+      "url": "https://bhutanolympiccommittee.org/",
+      "nextDate": null
+    },
+    {
+      "name": "Jolshiri RunBangla Marathon",
+      "nameZh": null,
+      "city": "Dhaka",
+      "country": "Bangladesh",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        11
+      ],
+      "url": "https://www.run-bangla.com/",
+      "nextDate": null
+    },
+    {
+      "name": "Run Bahamas",
+      "nameZh": null,
+      "city": "Nassau",
+      "country": "Bahamas",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        1
+      ],
+      "url": "https://www.runbahamas.net",
+      "nextDate": "2027-01-31"
+    },
+    {
+      "name": "Run Barbados Marathon Weekend",
+      "nameZh": null,
+      "city": "Bridgetown",
+      "country": "Barbados",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        12
+      ],
+      "url": "https://www.visitbarbados.org/run-barbados-marathon-weekend",
+      "nextDate": "2026-12-06"
+    },
+    {
+      "name": "Barbados Open Water Festival",
+      "nameZh": null,
+      "city": "Bridgetown",
+      "country": "Barbados",
+      "sport": "swim",
+      "distancesKm": [
+        10,
+        5,
+        3.33,
+        1.5
+      ],
+      "months": [
+        11
+      ],
+      "url": "https://www.visitbarbados.org/barbados-open-water-festival",
+      "nextDate": null
+    },
+    {
+      "name": "Cayman Islands Marathon",
+      "nameZh": null,
+      "city": "George Town",
+      "country": "Cayman Islands",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975
+      ],
+      "months": [
+        12
+      ],
+      "url": "https://www.caymanislandsmarathon.com/",
+      "nextDate": "2026-12-06"
+    },
+    {
+      "name": "Flowers Sea Swim",
+      "nameZh": null,
+      "city": "Grand Cayman",
+      "country": "Cayman Islands",
+      "sport": "swim",
+      "distancesKm": [
+        1.609
+      ],
+      "months": [
+        6
+      ],
+      "url": "https://www.visitcaymanislands.com/en-us/events/flowers-sea-swim-64b9a6f8601140afff9990b1d69bb08b",
+      "nextDate": null
+    },
+    {
+      "name": "UWI SPEC International Half-Marathon",
+      "nameZh": null,
+      "city": "St. Augustine",
+      "country": "Trinidad and Tobago",
+      "sport": "run",
+      "distancesKm": [
+        21.0975,
+        5
+      ],
+      "months": [
+        10
+      ],
+      "url": "https://sta.uwi.edu/spec/marathon/",
+      "nextDate": null
+    },
+    {
+      "name": "Trinidad and Tobago Midnight Marathon",
+      "nameZh": null,
+      "city": "Port of Spain",
+      "country": "Trinidad and Tobago",
+      "sport": "run",
+      "distancesKm": [
+        42.195
+      ],
+      "months": [
+        5
+      ],
+      "url": "https://bafasports.com/",
+      "nextDate": null
+    },
+    {
+      "name": "Suva Marathon",
+      "nameZh": null,
+      "city": "Suva",
+      "country": "Fiji",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10
+      ],
+      "months": [
+        8
+      ],
+      "url": "https://www.suvamarathon.org/",
+      "nextDate": null
     }
   ]
 }
