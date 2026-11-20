@@ -357,6 +357,7 @@
 .v2 .guide-page .steplist li { margin: 10px 0; }
 .v2 .guide-page .note { font-weight: 600; margin-top: 28px; }
 .v2 .guide-page .store { margin: 14px 0 28px; }
+.v2 .races-page p.updated { display: inline-block; margin: 4px 0 14px; padding: 4px 12px; border-radius: 999px; background: var(--soft); font-size: 14px; font-weight: 600; }
 .v2 .races-page details.country { margin: 10px 0; border-radius: var(--r-ctl); background: var(--soft); padding: 12px 16px; }
 .v2 .races-page details.country summary { cursor: pointer; font-weight: 700; font-size: 18px; }
 .v2 .races-page details.country summary span { font-weight: 400; color: var(--muted, #6b7280); }
