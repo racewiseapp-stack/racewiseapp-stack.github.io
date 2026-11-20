@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-18",
+  "updated": "2026-11-20",
   "events": [
     {
       "name": "Sydney Marathon",
@@ -11349,6 +11349,92 @@
       ],
       "url": "https://itraveljerusalem.com/event/jerusalem-march",
       "nextDate": null
+    },
+    {
+      "name": "Rock 'n' Roll Arizona",
+      "nameZh": null,
+      "city": "Tempe",
+      "country": "United States",
+      "sport": "run",
+      "distancesKm": [
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        1
+      ],
+      "url": "https://www.runrocknroll.com/events/arizona",
+      "nextDate": "2027-01-16"
+    },
+    {
+      "name": "Rock 'n' Roll Washington DC",
+      "nameZh": null,
+      "city": "Washington",
+      "country": "United States",
+      "sport": "run",
+      "distancesKm": [
+        21.0975,
+        5
+      ],
+      "months": [
+        3
+      ],
+      "url": "https://www.runrocknroll.com/events/washington-dc",
+      "nextDate": "2027-03-20"
+    },
+    {
+      "name": "Rock 'n' Roll Nashville",
+      "nameZh": null,
+      "city": "Nashville",
+      "country": "United States",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10,
+        5,
+        1.609
+      ],
+      "months": [
+        4
+      ],
+      "url": "https://www.runrocknroll.com/events/nashville",
+      "nextDate": "2027-04-24"
+    },
+    {
+      "name": "Rock 'n' Roll San Jose",
+      "nameZh": null,
+      "city": "San Jose",
+      "country": "United States",
+      "sport": "run",
+      "distancesKm": [
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        10
+      ],
+      "url": "https://www.runrocknroll.com/events/san-jose",
+      "nextDate": "2027-10-02"
+    },
+    {
+      "name": "Rock 'n' Roll Taitung",
+      "nameZh": null,
+      "city": "Taitung City",
+      "country": "Taiwan",
+      "sport": "run",
+      "distancesKm": [
+        21.0975,
+        10,
+        4
+      ],
+      "months": [
+        3
+      ],
+      "url": "https://www.runrocknroll.com/events/taitung",
+      "nextDate": "2027-03-13"
     }
   ]
 }
