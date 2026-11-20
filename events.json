@@ -11551,6 +11551,1449 @@
       ],
       "url": "https://maltamarathon.com/malta-marathon/",
       "nextDate": "2027-02-28"
+    },
+    {
+      "name": "Vedanta Delhi Half Marathon",
+      "nameZh": null,
+      "city": "New Delhi",
+      "country": "India",
+      "sport": "run",
+      "distancesKm": [
+        21.0975,
+        10
+      ],
+      "months": [
+        10
+      ],
+      "url": "https://vedantadelhihalfmarathon.procam.in/",
+      "nextDate": null
+    },
+    {
+      "name": "TCS World 10K Bengaluru",
+      "nameZh": null,
+      "city": "Bengaluru",
+      "country": "India",
+      "sport": "run",
+      "distancesKm": [
+        10
+      ],
+      "months": [
+        4,
+        5
+      ],
+      "url": "https://tcsworld10k.procam.in/",
+      "nextDate": "2027-04-25"
+    },
+    {
+      "name": "Tata Steel World 25K Kolkata",
+      "nameZh": null,
+      "city": "Kolkata",
+      "country": "India",
+      "sport": "run",
+      "distancesKm": [
+        25,
+        10
+      ],
+      "months": [
+        12
+      ],
+      "url": "https://tatasteelworld25k.procam.in/",
+      "nextDate": "2026-12-20"
+    },
+    {
+      "name": "New Delhi Marathon",
+      "nameZh": null,
+      "city": "New Delhi",
+      "country": "India",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        2
+      ],
+      "url": "https://newdelhimarathon.com/",
+      "nextDate": null
+    },
+    {
+      "name": "NMDC Hyderabad Marathon",
+      "nameZh": null,
+      "city": "Hyderabad",
+      "country": "India",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        8
+      ],
+      "url": "https://www.nmdchyderabadmarathon.com/",
+      "nextDate": null
+    },
+    {
+      "name": "Freshworks Chennai Marathon",
+      "nameZh": null,
+      "city": "Chennai",
+      "country": "India",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        32.186,
+        21.0975,
+        10
+      ],
+      "months": [
+        1
+      ],
+      "url": "https://thechennaimarathon.com",
+      "nextDate": "2027-01-03"
+    },
+    {
+      "name": "Wipro Bengaluru Marathon",
+      "nameZh": null,
+      "city": "Bengaluru",
+      "country": "India",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        9,
+        10
+      ],
+      "url": "https://bengalurumarathon.in/",
+      "nextDate": null
+    },
+    {
+      "name": "Pune International Marathon",
+      "nameZh": null,
+      "city": "Pune",
+      "country": "India",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        12
+      ],
+      "url": "https://marathonpune.com/",
+      "nextDate": "2026-12-06"
+    },
+    {
+      "name": "Ladakh Marathon",
+      "nameZh": null,
+      "city": "Leh",
+      "country": "India",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        11.2,
+        5
+      ],
+      "months": [
+        9
+      ],
+      "url": "https://ladakhmarathon.com/",
+      "nextDate": "2027-09-12"
+    },
+    {
+      "name": "JBG Kolkata Marathon",
+      "nameZh": null,
+      "city": "Kolkata",
+      "country": "India",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        11,
+        12
+      ],
+      "url": "https://www.jbgkolkatamarathon.com/",
+      "nextDate": null
+    },
+    {
+      "name": "IEM-UEM Kolkata Marathon",
+      "nameZh": null,
+      "city": "Kolkata",
+      "country": "India",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        2
+      ],
+      "url": "https://iemuemkolkatamarathon.org/",
+      "nextDate": "2027-02-21"
+    },
+    {
+      "name": "SKF Goa River Marathon",
+      "nameZh": null,
+      "city": "Vasco da Gama (Chicalim)",
+      "country": "India",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        32,
+        21.0975,
+        10
+      ],
+      "months": [
+        12
+      ],
+      "url": "https://skfgoarivermarathon.com/",
+      "nextDate": "2026-12-13"
+    },
+    {
+      "name": "Satara Hill Half Marathon",
+      "nameZh": null,
+      "city": "Satara",
+      "country": "India",
+      "sport": "run",
+      "distancesKm": [
+        21.0975
+      ],
+      "months": [
+        8,
+        9
+      ],
+      "url": "https://runsatara.com/",
+      "nextDate": null
+    },
+    {
+      "name": "Federal Bank Kochi Marathon",
+      "nameZh": null,
+      "city": "Kochi",
+      "country": "India",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10
+      ],
+      "months": [
+        2
+      ],
+      "url": "https://www.kochimarathon.in/",
+      "nextDate": null
+    },
+    {
+      "name": "MG Vadodara International Marathon",
+      "nameZh": null,
+      "city": "Vadodara",
+      "country": "India",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        1,
+        2
+      ],
+      "url": "https://www.vadodaramarathon.com/",
+      "nextDate": null
+    },
+    {
+      "name": "Adani Ahmedabad Marathon",
+      "nameZh": null,
+      "city": "Ahmedabad",
+      "country": "India",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        11
+      ],
+      "url": "https://www.ahmedabadmarathon.com/",
+      "nextDate": null
+    },
+    {
+      "name": "Kashmir Marathon",
+      "nameZh": null,
+      "city": "Srinagar",
+      "country": "India",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975
+      ],
+      "months": [
+        10
+      ],
+      "url": "https://kashmirmarathon.jk.gov.in/",
+      "nextDate": null
+    },
+    {
+      "name": "Penang Bridge International Marathon",
+      "nameZh": null,
+      "city": "Penang (Batu Kawan)",
+      "country": "Malaysia",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10
+      ],
+      "months": [
+        12
+      ],
+      "url": "https://www.penangmarathon.gov.my",
+      "nextDate": null
+    },
+    {
+      "name": "Borneo International Marathon",
+      "nameZh": null,
+      "city": "Kota Kinabalu",
+      "country": "Malaysia",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10
+      ],
+      "months": [
+        5
+      ],
+      "url": "https://www.borneomarathon.com",
+      "nextDate": null
+    },
+    {
+      "name": "Twincity Marathon",
+      "nameZh": null,
+      "city": "Putrajaya / Cyberjaya",
+      "country": "Malaysia",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        12,
+        10,
+        5
+      ],
+      "months": [
+        1
+      ],
+      "url": "https://twincitymarathon.com",
+      "nextDate": "2027-01-24"
+    },
+    {
+      "name": "SCORE Marathon",
+      "nameZh": null,
+      "city": "Putrajaya",
+      "country": "Malaysia",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        6,
+        7
+      ],
+      "url": "https://scoremarathon.com",
+      "nextDate": null
+    },
+    {
+      "name": "Kuching Marathon",
+      "nameZh": null,
+      "city": "Kuching",
+      "country": "Malaysia",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        9,
+        10
+      ],
+      "url": "https://www.marathonkuching.com",
+      "nextDate": "2027-10-17"
+    },
+    {
+      "name": "Miri Marathon",
+      "nameZh": null,
+      "city": "Miri",
+      "country": "Malaysia",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        3,
+        4
+      ],
+      "url": "https://www.marathonmiri.com",
+      "nextDate": "2027-03-21"
+    },
+    {
+      "name": "Terengganu Marathon",
+      "nameZh": null,
+      "city": "Kuala Terengganu",
+      "country": "Malaysia",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        5
+      ],
+      "url": "https://www.terengganumarathon.com",
+      "nextDate": null
+    },
+    {
+      "name": "Elopura Marathon Sandakan",
+      "nameZh": null,
+      "city": "Sandakan",
+      "country": "Malaysia",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10
+      ],
+      "months": [
+        11
+      ],
+      "url": "https://www.elopuramarathon.com",
+      "nextDate": "2026-11-22"
+    },
+    {
+      "name": "Kota Bharu Half Marathon",
+      "nameZh": null,
+      "city": "Kota Bharu",
+      "country": "Malaysia",
+      "sport": "run",
+      "distancesKm": [
+        21.0975,
+        10
+      ],
+      "months": [
+        9
+      ],
+      "url": "https://kbhalf.com",
+      "nextDate": "2027-09-11"
+    },
+    {
+      "name": "Taiping Half Marathon",
+      "nameZh": null,
+      "city": "Taiping",
+      "country": "Malaysia",
+      "sport": "run",
+      "distancesKm": [
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        8
+      ],
+      "url": "https://www.taipinghalfmarathon.com",
+      "nextDate": "2027-08-08"
+    },
+    {
+      "name": "National MILO Marathon",
+      "nameZh": null,
+      "city": "Multiple cities (finals in Clark)",
+      "country": "Philippines",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "url": "https://www.milo.com.ph/national-milo-marathon",
+      "nextDate": null
+    },
+    {
+      "name": "Ayala Philippine Marathon",
+      "nameZh": null,
+      "city": "Makati",
+      "country": "Philippines",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        2
+      ],
+      "url": "https://raceroster.com/events/2026/112415/ayala-philippine-marathon",
+      "nextDate": null
+    },
+    {
+      "name": "Galaxy Manila Marathon",
+      "nameZh": null,
+      "city": "Manila (Pasay)",
+      "country": "Philippines",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        6
+      ],
+      "url": "https://raceroster.com/events/2026/115048/galaxy-manila-marathon-2026",
+      "nextDate": null
+    },
+    {
+      "name": "Cebu Marathon",
+      "nameZh": null,
+      "city": "Cebu City",
+      "country": "Philippines",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        1
+      ],
+      "url": "https://cebumarathon.com",
+      "nextDate": null
+    },
+    {
+      "name": "Singlife Cebu International Marathon",
+      "nameZh": null,
+      "city": "Cebu City",
+      "country": "Philippines",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        7
+      ],
+      "url": "https://raceroster.com/events/2026/114290/singlife-cebu-international-marathon",
+      "nextDate": null
+    },
+    {
+      "name": "Singlife Iloilo Marathon",
+      "nameZh": null,
+      "city": "Iloilo City",
+      "country": "Philippines",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        4
+      ],
+      "url": "https://raceroster.com/events/2026/113718/singlife-iloilo-marathon",
+      "nextDate": null
+    },
+    {
+      "name": "Singlife Davao Marathon",
+      "nameZh": null,
+      "city": "Davao City",
+      "country": "Philippines",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        8
+      ],
+      "url": "https://raceroster.com/events/2026/114291/singlife-davao-marathon",
+      "nextDate": null
+    },
+    {
+      "name": "Singlife One Clark International Marathon",
+      "nameZh": null,
+      "city": "Clark",
+      "country": "Philippines",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        9
+      ],
+      "url": "https://raceroster.com/events/2026/129863/singlife-one-clark-international-marathon-2026",
+      "nextDate": null
+    },
+    {
+      "name": "Singlife Cagayan de Oro Marathon",
+      "nameZh": null,
+      "city": "Cagayan de Oro",
+      "country": "Philippines",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        12
+      ],
+      "url": "https://raceroster.com/events/2026/130696/singlife-cagayan-de-oro-marathon2026",
+      "nextDate": "2026-12-13"
+    },
+    {
+      "name": "Buriram Marathon",
+      "nameZh": null,
+      "city": "Buriram",
+      "country": "Thailand",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10
+      ],
+      "months": [
+        1
+      ],
+      "url": "https://www.burirammarathon.com",
+      "nextDate": null
+    },
+    {
+      "name": "Laguna Phuket Marathon",
+      "nameZh": null,
+      "city": "Phuket",
+      "country": "Thailand",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        6
+      ],
+      "url": "https://phuketmarathon.com/race-information/",
+      "nextDate": "2027-06-12"
+    },
+    {
+      "name": "Muang Thai-Chiang Mai Marathon",
+      "nameZh": null,
+      "city": "Chiang Mai",
+      "country": "Thailand",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10
+      ],
+      "months": [
+        12
+      ],
+      "url": "https://www.chiangmaimarathon.com",
+      "nextDate": "2026-12-20"
+    },
+    {
+      "name": "Khon Kaen International Marathon",
+      "nameZh": null,
+      "city": "Khon Kaen",
+      "country": "Thailand",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        11.55,
+        5.4
+      ],
+      "months": [
+        1
+      ],
+      "url": "https://www.khonkaenmarathon.com",
+      "nextDate": "2027-01-09"
+    },
+    {
+      "name": "Bangkok Marathon",
+      "nameZh": null,
+      "city": "Bangkok",
+      "country": "Thailand",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        1,
+        11
+      ],
+      "url": "https://www.bkkmarathon.com",
+      "nextDate": "2027-01-10"
+    },
+    {
+      "name": "Amazing Thailand Pattaya Marathon",
+      "nameZh": null,
+      "city": "Pattaya",
+      "country": "Thailand",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10
+      ],
+      "months": [
+        9
+      ],
+      "url": "https://www.pattayamarathon.com",
+      "nextDate": null
+    },
+    {
+      "name": "Bangsaen42 Chonburi Marathon",
+      "nameZh": null,
+      "city": "Chonburi",
+      "country": "Thailand",
+      "sport": "run",
+      "distancesKm": [
+        42.195
+      ],
+      "months": [
+        11
+      ],
+      "url": "https://www.bangsaen42.com",
+      "nextDate": null
+    },
+    {
+      "name": "Bangsaen21 Half Marathon",
+      "nameZh": null,
+      "city": "Chonburi",
+      "country": "Thailand",
+      "sport": "run",
+      "distancesKm": [
+        21.0975
+      ],
+      "months": [
+        12
+      ],
+      "url": "https://www.bangsaen21.com",
+      "nextDate": null
+    },
+    {
+      "name": "Korat Marathon",
+      "nameZh": null,
+      "city": "Nakhon Ratchasima",
+      "country": "Thailand",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        11
+      ],
+      "url": "https://www.koratmarathon.com",
+      "nextDate": null
+    },
+    {
+      "name": "X-WATERS Thailand",
+      "nameZh": null,
+      "city": "Phuket",
+      "country": "Thailand",
+      "sport": "swim",
+      "distancesKm": [
+        5,
+        3,
+        1
+      ],
+      "months": [
+        2,
+        3
+      ],
+      "url": "https://x-waters.com/events/thailand/?lang=en",
+      "nextDate": "2027-03-27"
+    },
+    {
+      "name": "Laguna Phuket Open Water Swim",
+      "nameZh": null,
+      "city": "Phuket",
+      "country": "Thailand",
+      "sport": "swim",
+      "distancesKm": [
+        5,
+        2,
+        1
+      ],
+      "months": [
+        11
+      ],
+      "url": "https://www.lagunaphukettri.com/laguna-open-water-swim-by-trihub/",
+      "nextDate": null
+    },
+    {
+      "name": "Techcombank Ho Chi Minh City International Marathon",
+      "nameZh": null,
+      "city": "Ho Chi Minh City",
+      "country": "Vietnam",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        12
+      ],
+      "url": "https://marathonhcmc.com/",
+      "nextDate": "2026-12-06"
+    },
+    {
+      "name": "Standard Chartered Hanoi Marathon Heritage Race",
+      "nameZh": null,
+      "city": "Hanoi",
+      "country": "Vietnam",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        11
+      ],
+      "url": "https://hanoi-marathon.com/",
+      "nextDate": null
+    },
+    {
+      "name": "Danang International Marathon",
+      "nameZh": null,
+      "city": "Da Nang",
+      "country": "Vietnam",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10
+      ],
+      "months": [
+        3
+      ],
+      "url": "https://rundanang.com/en/",
+      "nextDate": null
+    },
+    {
+      "name": "VnExpress Marathon Ho Chi Minh City Midnight",
+      "nameZh": null,
+      "city": "Ho Chi Minh City",
+      "country": "Vietnam",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        3
+      ],
+      "url": "https://e.vnexpress.net/news/sports/vietnam-largest-night-run-opens-2026-registration-4993054.html",
+      "nextDate": null
+    },
+    {
+      "name": "VnExpress Marathon Hue",
+      "nameZh": null,
+      "city": "Hue",
+      "country": "Vietnam",
+      "sport": "run",
+      "distancesKm": [
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        4
+      ],
+      "url": "https://e.vnexpress.net/news/marathon/vm-hue-2026-opens-registration-focuses-on-21km-experience-5043349.html",
+      "nextDate": null
+    },
+    {
+      "name": "VnExpress Da Nang International Marathon",
+      "nameZh": null,
+      "city": "Da Nang",
+      "country": "Vietnam",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        7
+      ],
+      "url": "https://e.vnexpress.net/news/sports/marathon/vnexpress-marathon-da-nang-returns-with-international-ambitions-5076906.html",
+      "nextDate": null
+    },
+    {
+      "name": "VnExpress Marathon Hanoi Midnight",
+      "nameZh": null,
+      "city": "Hanoi",
+      "country": "Vietnam",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        11
+      ],
+      "url": "https://e.vnexpress.net/news/sports/hanoi-midnight-marathon-route-crosses-red-river-5139835.html",
+      "nextDate": "2026-11-29"
+    },
+    {
+      "name": "Jakarta International Marathon",
+      "nameZh": null,
+      "city": "Jakarta",
+      "country": "Indonesia",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        6
+      ],
+      "url": "https://jakim.id/",
+      "nextDate": "2027-06-12"
+    },
+    {
+      "name": "Jakarta Running Festival",
+      "nameZh": null,
+      "city": "Jakarta",
+      "country": "Indonesia",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        10
+      ],
+      "url": "https://jakartarunningfestival.id",
+      "nextDate": null
+    },
+    {
+      "name": "Bank Jateng Borobudur Marathon",
+      "nameZh": null,
+      "city": "Magelang",
+      "country": "Indonesia",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10
+      ],
+      "months": [
+        11
+      ],
+      "url": "https://www.borobudurmarathon.com",
+      "nextDate": null
+    },
+    {
+      "name": "Maybank Marathon",
+      "nameZh": null,
+      "city": "Gianyar, Bali",
+      "country": "Indonesia",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10
+      ],
+      "months": [
+        8
+      ],
+      "url": "https://www.maybank.co.id/maybank-marathon",
+      "nextDate": null
+    },
+    {
+      "name": "Mandiri Jogja Marathon",
+      "nameZh": null,
+      "city": "Yogyakarta",
+      "country": "Indonesia",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        6
+      ],
+      "url": "https://www.bankmandiri.co.id/mandiri-jogja-marathon-2026",
+      "nextDate": null
+    },
+    {
+      "name": "Pocari Sweat Run Bandung",
+      "nameZh": null,
+      "city": "Bandung",
+      "country": "Indonesia",
+      "sport": "run",
+      "distancesKm": [
+        21.0975,
+        10
+      ],
+      "months": [
+        9
+      ],
+      "url": "https://www.indonesia.travel/id/en/events/event-detail/pocari-sweat-run-bandung/",
+      "nextDate": null
+    },
+    {
+      "name": "Pocari Sweat Run Lombok",
+      "nameZh": null,
+      "city": "Lombok (Mandalika)",
+      "country": "Indonesia",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10
+      ],
+      "months": [
+        7
+      ],
+      "url": "https://www.indonesia.travel/fr-fr/events/event-detail/pocari-sweat-run-lombok/",
+      "nextDate": null
+    },
+    {
+      "name": "Tour de Bintan",
+      "nameZh": null,
+      "city": "Bintan",
+      "country": "Indonesia",
+      "sport": "bike",
+      "distancesKm": [
+        150,
+        100,
+        70,
+        45
+      ],
+      "months": [
+        8
+      ],
+      "url": "https://tourdebintan.id/",
+      "nextDate": null
+    },
+    {
+      "name": "Medio Maratón de la Ciudad de México",
+      "nameZh": null,
+      "city": "Mexico City",
+      "country": "Mexico",
+      "sport": "run",
+      "distancesKm": [
+        21.0975
+      ],
+      "months": [
+        7
+      ],
+      "url": "https://21k.cdmx.gob.mx/",
+      "nextDate": null
+    },
+    {
+      "name": "Maratón Powerade Monterrey",
+      "nameZh": null,
+      "city": "Monterrey",
+      "country": "Mexico",
+      "sport": "run",
+      "distancesKm": [
+        42.195
+      ],
+      "months": [
+        12
+      ],
+      "url": "https://maratonmonterrey.mx/",
+      "nextDate": null
+    },
+    {
+      "name": "Maratón Internacional Lala",
+      "nameZh": null,
+      "city": "Torreón",
+      "country": "Mexico",
+      "sport": "run",
+      "distancesKm": [
+        42.195
+      ],
+      "months": [
+        3
+      ],
+      "url": "https://maratonlala.org/",
+      "nextDate": null
+    },
+    {
+      "name": "Marat'hon Mérida",
+      "nameZh": null,
+      "city": "Mérida",
+      "country": "Mexico",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10
+      ],
+      "months": [
+        1
+      ],
+      "url": "https://www.merida.gob.mx/marathon/",
+      "nextDate": null
+    },
+    {
+      "name": "Medio Maratón Internacional Zapopan",
+      "nameZh": null,
+      "city": "Zapopan",
+      "country": "Mexico",
+      "sport": "run",
+      "distancesKm": [
+        21.0975
+      ],
+      "months": [
+        5
+      ],
+      "url": "https://comudezapopan.gob.mx/",
+      "nextDate": null
+    },
+    {
+      "name": "Maratón Internacional de Buenos Aires",
+      "nameZh": null,
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "sport": "run",
+      "distancesKm": [
+        42.195
+      ],
+      "months": [
+        9
+      ],
+      "url": "https://www.maratondebuenosaires.com/",
+      "nextDate": "2027-09-19"
+    },
+    {
+      "name": "Medio Maratón de Buenos Aires 21K",
+      "nameZh": null,
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "sport": "run",
+      "distancesKm": [
+        21.0975
+      ],
+      "months": [
+        8
+      ],
+      "url": "https://www.maratondebuenosaires.com/medio-maraton-de-buenos-aires-21k.html",
+      "nextDate": "2027-08-22"
+    },
+    {
+      "name": "Maratón Internacional de Mendoza",
+      "nameZh": null,
+      "city": "Mendoza",
+      "country": "Argentina",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10
+      ],
+      "months": [
+        5
+      ],
+      "url": "https://maratondemendoza.com/2027/",
+      "nextDate": "2027-05-02"
+    },
+    {
+      "name": "Itaú Maratón de Santiago",
+      "nameZh": null,
+      "city": "Santiago",
+      "country": "Chile",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10
+      ],
+      "months": [
+        5
+      ],
+      "url": "https://maratondesantiago.cl/",
+      "nextDate": "2027-05-16"
+    },
+    {
+      "name": "Itaú Maratón de Viña",
+      "nameZh": null,
+      "city": "Viña del Mar",
+      "country": "Chile",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10
+      ],
+      "months": [
+        10
+      ],
+      "url": "https://maratonvina.cl/",
+      "nextDate": null
+    },
+    {
+      "name": "Media Maratón de Bogotá",
+      "nameZh": null,
+      "city": "Bogotá",
+      "country": "Colombia",
+      "sport": "run",
+      "distancesKm": [
+        21.0975,
+        10
+      ],
+      "months": [
+        7
+      ],
+      "url": "https://www.mediamaratonbogota.com/",
+      "nextDate": "2027-07-25"
+    },
+    {
+      "name": "Maratón Medellín",
+      "nameZh": null,
+      "city": "Medellín",
+      "country": "Colombia",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        9
+      ],
+      "url": "https://www.maratonmedellin.com/",
+      "nextDate": null
+    },
+    {
+      "name": "Maratón de Cali",
+      "nameZh": null,
+      "city": "Cali",
+      "country": "Colombia",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        15
+      ],
+      "months": [
+        4,
+        5
+      ],
+      "url": "https://maratondecali.co/",
+      "nextDate": null
+    },
+    {
+      "name": "Media Maratón de Cali",
+      "nameZh": null,
+      "city": "Cali",
+      "country": "Colombia",
+      "sport": "run",
+      "distancesKm": [
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        6
+      ],
+      "url": "https://www.cali.gov.co/",
+      "nextDate": null
+    },
+    {
+      "name": "Gran Fondo Nairo Quintana",
+      "nameZh": null,
+      "city": "Cartagena",
+      "country": "Colombia",
+      "sport": "bike",
+      "distancesKm": [
+        186,
+        106,
+        50
+      ],
+      "months": [
+        10
+      ],
+      "url": "https://granfondonairoquintana.com/",
+      "nextDate": null
+    },
+    {
+      "name": "Lima 42K",
+      "nameZh": null,
+      "city": "Lima",
+      "country": "Peru",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975
+      ],
+      "months": [
+        5
+      ],
+      "url": "https://www.lima42k.com.pe/",
+      "nextDate": "2027-05-23"
+    },
+    {
+      "name": "Quito 15K y 21K Race",
+      "nameZh": null,
+      "city": "Quito",
+      "country": "Ecuador",
+      "sport": "run",
+      "distancesKm": [
+        21.0975,
+        15
+      ],
+      "months": [
+        5
+      ],
+      "url": "https://quito15krace.com/",
+      "nextDate": null
+    },
+    {
+      "name": "Maratón de Montevideo",
+      "nameZh": null,
+      "city": "Montevideo",
+      "country": "Uruguay",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975,
+        10
+      ],
+      "months": [
+        4,
+        5
+      ],
+      "url": "https://montevideo.gub.uy/",
+      "nextDate": null
+    },
+    {
+      "name": "Gran Maratón Costa Rica",
+      "nameZh": null,
+      "city": "San José",
+      "country": "Costa Rica",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        22,
+        10,
+        5
+      ],
+      "months": [
+        11
+      ],
+      "url": "https://www.granmaratoncr.com/",
+      "nextDate": "2026-11-22"
+    },
+    {
+      "name": "Maratón La Prensa-Gatorade",
+      "nameZh": null,
+      "city": "San Pedro Sula",
+      "country": "Honduras",
+      "sport": "run",
+      "distancesKm": [
+        21.0975,
+        10,
+        5
+      ],
+      "months": [
+        6
+      ],
+      "url": "https://www.laprensa.hn/cronologia/-/meta/maraton-de-la-prensa",
+      "nextDate": null
+    },
+    {
+      "name": "Maratón CAF",
+      "nameZh": null,
+      "city": "Caracas",
+      "country": "Venezuela",
+      "sport": "run",
+      "distancesKm": [
+        42.195,
+        21.0975
+      ],
+      "months": [
+        2
+      ],
+      "url": "https://www.caf.com/es/especiales/maraton/",
+      "nextDate": "2027-02-21"
     }
   ]
 }
