@@ -14,7 +14,7 @@
 <header><img src="icon.png" alt=""><div><h1>Privacy policy</h1><nav><a class="hide-sm" href="first-5k.html">First 5K</a><a class="hide-sm" href="races.html">Race Calendar</a><a href="./">RaceWise</a><details class="lang"><summary><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3a14 14 0 0 1 0 18M12 3a14 14 0 0 0 0 18"/></svg><span>Language</span><svg class="chev" viewBox="0 0 24 24" aria-hidden="true"><path d="M6 9l6 6 6-6"/></svg></summary><div class="lang-menu"><a href="privacy.html" lang="en" aria-current="page">English</a><a href="zh/privacy.html" lang="zh-Hant">中文</a><a href="ja/privacy.html" lang="ja">日本語</a><a href="ko/privacy.html" lang="ko">한국어</a><a href="es/" lang="es">Español</a><a href="pt/" lang="pt-BR">Português</a></div></details></nav></div></header>
 <p class="muted">Effective 22 November 2026</p>
 
-<p><b>In short:</b> RaceWise has no analytics. Your training data stays on your iPhone and in your own private iCloud; the developer never receives it. RaceWise's server is used only if you connect Garmin (it keeps only what's needed to link your accounts, see Garmin below), to pass COROS’s sign-in back to the app if you connect COROS (it keeps nothing, see COROS below), if you send feedback, and for crash reports, which you can turn off (see Feedback and crash reports below).</p>
+<p><b>In short:</b> RaceWise has no analytics, except anonymous training figures that you can choose to share (off unless you turn it on, see below). Your training data stays on your iPhone and in your own private iCloud; the developer never receives it. RaceWise's server is used only if you connect Garmin (it keeps only what's needed to link your accounts, see Garmin below), to pass COROS’s sign-in back to the app if you connect COROS (it keeps nothing, see COROS below), if you send feedback, if you choose to share anonymous training figures, and for crash reports, which you can turn off (see Feedback and crash reports below).</p>
 
 <h2>What RaceWise keeps, and where</h2>
 <ul>
@@ -70,9 +70,19 @@
 <p>If you tap <b>Can't find your event? Ask us to add it</b> when searching for an event, your own mail app opens an email to RaceWise with the name and city you typed, the sport, the distance if you've picked one, your country or region and the app version. You can change or delete anything before sending, and nothing is sent unless you send it. We use it only to add the event to the list and to reply.</p>
 <p>If RaceWise crashes or freezes, Apple's diagnostic report on it (MetricKit: what the app was doing when it failed, the iOS version and iPhone model) is sent to the server, with the app version and language, so we can fix the problem. It has no name, account, location or training data, and it's kept for 90 days. You can turn this off in <b>Settings › Help and privacy › Send crash reports</b>. Both go to the same Cloudflare-hosted server as Garmin, and neither is used for advertising or analytics.</p>
 
+<h2 id="figures">Anonymous training figures (optional, off unless you turn it on)</h2>
+<p>If you turn on <b>Settings › Help and privacy › Share anonymous training figures</b>, RaceWise sends a few numbers about the previous week once a week, to help us check that plans work:</p>
+<ul>
+  <li>the plan's sport, race distance (5K, 10K, half, marathon, ultra or other), your experience level, an age band (for example "40s"), how many days a week you train, and roughly how far off the race is (for example "9–12 weeks");</li>
+  <li>the week's phase, whether it was an easier week, planned and completed distance, planned and completed sessions, and how many times the plan changed;</li>
+  <li>the app version.</li>
+</ul>
+<p>It never includes your name, Apple ID, email, device or install identifier, location, routes, health readings, heart rate, exact dates or anything you typed. Each week is stored on its own under a random key with only the month, with no week number or exact race date, so weeks aren't linked to each other or to you, and your IP address isn't stored. The figures are kept for two years. You can turn this off at any time; nothing is sent after that. Because the figures can't be linked to you, we can't find or delete one person's figures.</p>
+<p>Legal basis (UK/EU): your consent, which you give by turning it on and confirming, and can withdraw at any time.</p>
+
 <h2>What RaceWise doesn't do</h2>
 <ul>
-  <li>No account with us unless you connect Garmin, no ads, no tracking, no analytics, no selling of data, and no sharing beyond what you turn on (Apple Watch, Garmin, COROS) or send (feedback, crash reports).</li>
+  <li>No account with us unless you connect Garmin, no ads, no tracking, no analytics apart from the anonymous training figures you can choose to share, no selling of data, and no sharing beyond what you turn on (Apple Watch, Garmin, COROS) or send (feedback, crash reports, anonymous training figures).</li>
   <li>If you add a RaceWise widget, it shows your upcoming sessions and race countdown on your Home Screen or Lock Screen, where anyone holding your iPhone can see them. The widget reads a small file that only RaceWise can write; it is removed when you delete your data.</li>
   <li>Reminders are local notifications created on your iPhone.</li>
 </ul>
@@ -86,6 +96,7 @@
 <h2>On Android</h2>
 <p>RaceWise for Android works the same way, with these differences:</p>
 <ul>
+  <li><b>Anonymous training figures</b> aren't part of the Android version, so nothing is sent.</li>
   <li><b>Health Connect</b> takes the place of Apple Health. With your permission RaceWise reads the same kinds of data (workouts with distance, time, climb and heart rate, plus resting heart rate, heart-rate variability and sleep). With its own permission, it also reads your watch’s VO2 max to show it in Trends; it isn’t used to set your plan. With their own permissions, it reads the steps and running power recorded during runs to show your running form (cadence, step length and power by month) in Trends. If you walk with RaceWise, the same steps permission is used to show your daily step count in Trends, for reference only. It is read-only: RaceWise never writes to Health Connect, and what it reads stays on your phone.</li>
   <li><b>Backup:</b> instead of iCloud, Android’s own backup (if you have it turned on) copies your plans, workouts and settings to your private Google Drive backup, encrypted. Health readings from Health Connect are never included; after a restore, RaceWise reads them from Health Connect again.</li>
   <li><b>Export:</b> a file with your RaceWise data is only made when you choose <b>Settings › Help and privacy › Export data</b>, and it’s saved where you choose.</li>
