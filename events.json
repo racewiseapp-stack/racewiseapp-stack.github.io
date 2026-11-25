@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-20",
+  "updated": "2026-11-25",
   "events": [
     {
       "name": "Sydney Marathon",
@@ -14,7 +14,7 @@
       "months": [
         8
       ],
-      "url": "https://sydneymarathon.com/",
+      "url": "https://www.tcssydneymarathon.com/",
       "nextDate": "2027-08-29"
     },
     {
@@ -29,7 +29,7 @@
       "months": [
         9
       ],
-      "url": "https://www.bmw-berlin-marathon.com/en/",
+      "url": "https://www.generali-berlin-marathon.com/en/",
       "nextDate": "2027-09-26"
     },
     {
@@ -1092,7 +1092,7 @@
       "months": [
         10
       ],
-      "url": "https://www.chestermarathon.co.uk/",
+      "url": "https://www.activeleisureevents.co.uk/marathon",
       "nextDate": "2027-10-10"
     },
     {
